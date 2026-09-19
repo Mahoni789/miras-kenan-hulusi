@@ -20,7 +20,7 @@
          {{ partial "icon.html" "link" }}
         </a>
       {{ else }}
-        <a class="mt-5 inline-flex items-center gap-2 text-sm font-bold text-primary-600 hover:text-primary-500 dark:text-primary-400" href="{{ . | safeURL }}">
+        <a class="mt-5 inline-flex items-center gap-2 text-sm font-bold text-primary-600 hover:text-primary-500 dark:text-primary-400" href="{{ . | relURL }}">
          {{ $label | markdownify }}
          {{ partial "icon.html" "link" }}
         </a>
