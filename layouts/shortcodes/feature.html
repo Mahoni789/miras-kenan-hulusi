@@ -23,9 +23,20 @@
   </div>
 
   {{ with $url }}
-   <a href="{{ $url }}">
-    TEST
-</a>
+
+    {{ $featureURL := . }}
+
+    {{ if not (or (hasPrefix . "http://") (hasPrefix . "https://") (hasPrefix . "//")) }}
+      {{ $featureURL = printf "%s%s" site.BaseURL (strings.TrimPrefix . "/") }}
+    {{ end }}
+
+    <a
+      class="mt-5 inline-flex items-center gap-2 text-sm font-bold text-primary-600 hover:text-primary-500 dark:text-primary-400"
+      href="{{ $featureURL | safeURL }}"
+    >
+      {{ $label | markdownify }}
+      {{ partial "icon.html" "link" }}
+    </a>
 
   {{ end }}
 
