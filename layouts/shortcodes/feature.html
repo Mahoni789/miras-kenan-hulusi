@@ -23,30 +23,9 @@
   </div>
 
   {{ with $url }}
-
-    {{ if or (hasPrefix . "http://") (hasPrefix . "https://") }}
-
-      {{/* Harici URL: olduğu gibi kullan */}}
-      <a
-        class="mt-5 inline-flex items-center gap-2 text-sm font-bold text-primary-600 hover:text-primary-500 dark:text-primary-400"
-        href="{{ . | safeURL }}"
-      >
-        {{ $label | markdownify }}
-        {{ partial "icon.html" "link" }}
-      </a>
-
-    {{ else }}
-
-      {{/* Site içi URL: baseURL dikkate alınır */}}
-      <a
-        class="mt-5 inline-flex items-center gap-2 text-sm font-bold text-primary-600 hover:text-primary-500 dark:text-primary-400"
-        href="{{ . | relURL }}"
-      >
-        {{ $label | markdownify }}
-        {{ partial "icon.html" "link" }}
-      </a>
-
-    {{ end }}
+   <a href="{{ $url }}">
+    TEST
+</a>
 
   {{ end }}
 
