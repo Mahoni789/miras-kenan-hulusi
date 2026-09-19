@@ -10,7 +10,7 @@ Hikaye kitapları dergi ve gazete sayfalarında kalan hikayeleri
 {{< feature icon="book-solid-full" title="Roman" url="/docs/roman/osmanoflar/" label="Okumaya başla" >}}
 Yazarın tek romanı
 {{< /feature >}}
-{{< feature icon="comments-regular-full" title="Söyleşi" url="/miras-kenan-hulusi/docs/soylesi/" label="Keşfet">}}
+{{< feature icon="comments-regular-full" title="Söyleşi" url="/docs/soylesi/" label="Keşfet">}}
 Yazarın çeşitli edebiyatçılarla yapmış olduğu söyleşiler
 {{< /feature >}}
 {{< feature icon="pencil" title="Düzyazı" url="/docs/duzyazi" label="Keşfet" >}}
