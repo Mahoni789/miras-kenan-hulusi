@@ -1,0 +1,13 @@
+{{ if .Params.downloadURL }}
+  {{ $url := .Params.downloadURL }}
+  <span class="mb-[2px]">
+  <a
+    href="{{ $url }}"
+    class="text-lg hover:text-primary-500"
+    rel="noopener noreferrer"
+    target="_blank"
+    title="Kaynak Dosyayı İndir"
+    ><span class="inline-block align-text-bottom">{{ partial "icon.html" "download" }}</span></a
+  >
+</span>
+{{ end }}

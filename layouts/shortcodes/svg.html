@@ -1,0 +1,19 @@
+{{- $name := .Get "name" -}}          <!-- SVG dosya adı (örn: rocket.svg) -->
+{{- $caption := .Get "caption" -}}    <!-- Altyazı metni -->
+{{- $size := .Get "size" | default "w-auto" -}}
+
+{{- $svgPath := printf "assets/img/%s" $name -}}
+{{- $svgContent := readFile $svgPath -}}
+
+{{- if $svgContent -}}
+  <figure class="flex flex-col my-0">
+    <!-- SVG'yi saran div: boyut ve renk buradan miras alınır -->
+    <div class=" {{ $size }}">
+      {{ $svgContent | safeHTML }}
+    </div>
+    
+   {{ with $caption }}<figcaption>{{ . | markdownify }}</figcaption>{{ end }}
+  </figure>
+{{- else -}}
+  <p class="text-red-500 text-sm">⚠️ SVG dosyası bulunamadı: {{ $name }}</p>
+{{- end -}}

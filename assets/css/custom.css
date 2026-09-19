@@ -1,0 +1,81 @@
+.separator {
+  margin: 1.5rem 0;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 0.45rem;
+
+ color: #6c7680;
+  opacity: 0.75;
+}
+
+.dark .separator {
+  color: #8f9bb3;
+}
+
+.separator-small,
+.separator-large {
+  line-height: 1;
+}
+
+.separator-small {
+  font-size: 1rem;
+}
+
+.separator-large {
+  font-size: 2rem;
+  position: relative;
+  top: -0.05em;
+}
+
+.poem {
+  font-size: 1rem;
+  line-height: 1.6;
+  max-width: 600px;
+  margin: 0 auto 1rem auto;
+}
+
+.poem-title {
+  font-size: 1.1rem;
+  font-weight: bold;
+  margin-bottom: 0.5rem;
+}
+
+.poem-content {
+  margin: 1rem 0;
+}
+
+.poem-line {
+  margin: 0;
+  white-space: pre-wrap;
+}
+
+.poem-break {
+  margin: 1rem 0;
+}
+
+.poem-author-end {
+  font-style: italic;
+  font-size: 0.9rem;
+  text-align: right;
+  padding-top: 0.5rem;
+}
+
+/* İki mod: both (varsayılan) ve trans-only */
+
+.orig-text { font-style: normal; }
+
+/* both modunda orijinal italik görünsün */
+html.view-both .orig-text {
+  font-style: italic;
+  color: #6c7680;
+}
+
+/* trans-only modunda orijinal gizli */
+html.view-trans-only .orig-text {
+  display: none;
+}
+html.view-both .icon-trans { display: none; }
+html.view-trans-only .icon-both { display: none; }
+html.view-trans-only .icon-trans { display: inline-block; }

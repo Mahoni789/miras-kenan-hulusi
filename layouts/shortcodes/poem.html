@@ -1,0 +1,24 @@
+{{ $author := .Get "author" }}
+{{ $title := .Get "title" }}
+{{ $lines := split .Inner "\n" }}
+
+<div class="poem">
+  {{ if $title }}
+    <h2 class="poem-title">{{ $title }}</h2>
+  {{ end }}
+  <!--{{ if $author }}
+    <div class="poem-author">{{ $author }}</div>
+  {{ end }}-->
+  <div class="poem-content">
+    {{ range $lines }}
+      {{ if eq . "" }}
+        <div class="poem-break"></div>
+      {{ else }}
+        <p class="poem-line">{{ . | safeHTML }}</p>
+      {{ end }}
+    {{ end }}
+  </div>
+  {{ if $author }}
+    <div class="poem-author-end">— {{ $author }}</div>
+  {{ end }}
+</div>

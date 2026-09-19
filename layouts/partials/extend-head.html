@@ -1,0 +1,7 @@
+<link rel="stylesheet" href="/css/littlefoot.css">
+{{ $origJS := resources.Get "js/orig-toggle.js" | minify | fingerprint }}
+<script
+  defer
+  type="text/javascript"
+  src="{{ $origJS.RelPermalink }}"
+  integrity="{{ $origJS.Data.Integrity }}"></script>

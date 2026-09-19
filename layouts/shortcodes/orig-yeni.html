@@ -1,0 +1,6 @@
+{{ $ot := .Get "ot" }}
+{{ $tr := .Get "tr" }}
+<span class="orig-wrap">
+  <span class="trans-text">{{ $tr }}</span>
+  {{ with $ot }}<span class="orig-text"> ({{ . }})</span>{{ end }}
+</span>

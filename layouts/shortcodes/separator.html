@@ -1,0 +1,11 @@
+{{ $char := .Get "char" | default "∗" }}
+
+<div class="separator">
+{{ if eq $char "star" }}
+  <span class="separator-large">∗</span>
+  {{ else }}
+    <span>{{ $char }}</span>
+    <span class="separator-large">{{ $char }}</span>
+    <span>{{ $char }}</span>
+  {{ end }}
+</div>
