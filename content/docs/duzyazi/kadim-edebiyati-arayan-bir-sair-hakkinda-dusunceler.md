@@ -1,0 +1,31 @@
+---
+title: "Kadim Edebiyatı Arayan Bir Şair Hakkında Düşünceler"
+slug: "kadim-edebiyati-arayan-bir-sair-hakkinda-dusunceler"
+date: 1936-07-11
+publication: "*Kurun - Kurun ilavesi*, 9, s. 4, 10"
+tags: ["salih zeki","m. edeiyata doğru","şiir"]
+---
+
+{{< keyword >}} Çıkan kitaplara bir bakış {{< /keyword >}}
+
+Aşağı yukarı üç dört ay kadar evvel, yaşları henüz yirmi beşle otuz arasındaki arkadaşlarımla yapılan konuşmalar sırasındaydı. Bir aralık şair Salih Zeki’ye rast geldim. Yirmi seneden beri çözülmesini beklediği bir esrarın yavaş yavaş dağılmaya yüz tuttuğunu keşfetmiş bir fısıltı ile “Tam,” dedi, “beklediğim bir dakika... Kalbur sallanıyor!”
+
+Ve hakikaten onunla ilk yazı yazmaya başlamış olanlara, nasıl bir güneş altında korunmaya çalışırlarsa çalışsınlar ıslaklıklarından derilerini bir daha kurtaramayacakları bir ittiham yağmuru başlamış bulunuyordu. Bu iki kelimeyi o günden beri daima düşünmüşümdür: “Kalbur sallanıyor!” Gözleri ve ruhu ne kadar genç olursa olsun saçları beyazlaşmış ve hayatında daima sademeye uğramış bir şairin dudaklarında bu iki kelimenin hüzün, aynı zamanda hakikati düşünülecek bir şeydi...
+
+Bununla beraber şair Salih Zeki’nin bu dakikalarda ilk günlerine dönmek lüzumunu hissediyorum:
+
+*Millî Edebiyata Doğru* isimli ve günün propagandasını yapan bir kitapta, bugün sallanan bir kalburla döküldüklerini işaret etmek istediği arkadaşları arasında o da vardı fakat derhal ilave etmeliyiz ki bu kitap onun arkadaşlarıyla ilk ve son olarak toplu bulunduğu bir yerdir. Belki o dakikaları hatırladığı vakit, şimdi bunu istemeyecektir bile... Çünkü ilk senelerin bütün dostluğuna rağmen etrafındakilerle anlaşamayacak tabiatı orada da gözüküyordu. Ve küçük bir iltisakın bağlantısından başka, bu kitapta hiçbir şey, şair Salih Zeki’yi arkadaşlarının anladığı manadaki Millî Edebiyat’a raptedememiştir. Zaten bugün bile bu terkibin manasını bütün cehtlere rağmen hiç kimse de halledememiş gözüküyor. Ve birkaç muharririn elinde mukaddes bir kitap gibi tutulan bu dinin bugün sayısız mezhepleri var...
+
+Hakikaten şair Salih Zeki daha o zamanlarda bile bu terkibin manasını hiçbir vakit anlamamış gözüküyordu. Nitekim arkadaşlarının bütün şaşaasında, millî edebiyatı mektep sıralarına getirmiş olanların kitapları ondan bir satırla bile olsun bahsetmemişlerdir. Bugün bir mektep çocuğu, mesela Halit Fahri’nin yahut Enis Behiç’in ismini bilir fakat şair Salih Zeki bir İngiliz müstemlekesinde uçan garip bir kuşun mevcudiyeti kadar ona meçhuldür.
+
+Bununla beraber Salih Zeki, bizde ilk olarak ve tam manasıyla edebi mektep kurmuş bir adamdır. En yakın bir araştırma ile yarım asırlık edebiyat tarihimizin sahifelerinde, karakterlerinin bütün hususiyetine rağmen hiç kimsenin böyle bir sırra erdiğini göremiyoruz. Edebiyatıcedide ve Fecriati belki birer mekteptir fakat bu iki mektep de hiçbir vakit tek bir adamın malı değildir ve hiçbirisi, hatta Fikret, hatta Hâşim mekteplerinin bayraktarlığını yaptıklarını iddia edemezler. Sadece bu mektepler içerisinde olanlar, mekteplerinin numunesini en iyi vermiş birer mümessildirler fakat birer “bani” değildirler. Ve her iki mektep de aynı gaye etrafında birleşmiş birtakım insanların umumi hareketlerinden doğmuştur.
+
+Salih Zeki’nin Yunanî mektebine gelince, bu hiçbir vakit böyle olmadı. Bu hazinenin altın anahtarları, bizim memleketimizde yalnız onun elinde bulunmuştur ve yirmi senedir yalnız başına oturduğu kürsüde, müritsiz yaşamasına ve düşüncelerini insanları seçilemeyen bir sükût kalabalığına söylemesine rağmen bugün bu kürsünün etrafında, bir iki güvercinin beyaz kanat hareketleriyle uçuştuğunu görüyoruz. Bu, şair Salih Zeki’ye yetecektir. Çünkü her fikir adamı ve her mücahit gibi, bir lokmanın arkasında altın başakları rüzgârla sallanan olgun bir ekin tarlası sezmiş bulunuyor.
+
+Sadece, şair Salih Zeki son defa çıkardığı *Mağara* ve *Pınar* isimli şiir kitapları da dahil olduğu hâlde gerek *Asya Şarkıları* gerekse *Persefon* ile yani bir peygamberin bütün akidelerini izah edecek kadar geniş olan bu dört kitapta, şair bir ruhun söylemek istediklerini yahut dinlemek istediklerimizi, mesela bir Ahmet Hâşim kadar bize verebilmiş midir? Buna ceffelkalem hayır diyemeyiz! Fakat şiirlerinin yapılışındaki sonsuz uçurum, mana ile ahenk arasında bir türlü bağdaşamayan ve adeta kendisinin zorla meydana getirdiği uçurumu daima hissediyoruz.
+
+Bu uçurumun hemen yanı başında, vakit vakit bir akşam kızıllığı yiyen ve sarp bir yamaçta tutunmuş sarı ve çok kereler munis yapılı çiçekleri bulmuyor değiliz. Onların üzerine vuran bu kızıllık unutulmayacak bir şeydir. Yahut yine vakit vakit, esatire geçmiş insan başlı ve tabiatın üzerinde daha kolaylıkla yürüyebilmek için tırnak ayaklı bir mahlûkun, güneşin henüz doğduğu bir sabah dakikasında, altın işlemeli bir tül içinden çıkarak hayalimizi avladığına da tesadüf ederiz. Salih Zeki’nin bu mahlûkun dudaklarına bıraktığı şarkı, bir Rembrandt tablosu kadar bir hakikattir. Adeta bu mısraları bir çerçeve içerisinde odamızın duvarına asacak olursak hiçbir vakit bir illüzyon oyuncaklığı ile değil fakat tıpkı bir hakikat gibi çizdiği mevsimin bütün renkleriyle orada canlı yaşadığını görürüz.
+
+Bu itibarla, bu şiirlerin öte taraflarında kalan ve biraz evvel işaret ettiğimiz mana-ahenk bozukluğunu bir tarafa bırakırsak, güzel taraflarından da sarfınazar, şair Salih Zeki edebiyatımızda kadim devirleri aramakla uyanmaya başlayan yeni bir Rönesans’ın ilk mübeşşiri sayılır.
+
+Nitekim şair bunu sadece şiirlerine tatbik etmekle de kalmamıştır. Mitolojiyi, –bizim için yalnız kitap sahifelerinde ve klişe birer isim olarak bilinen mitolojiyi– hakikate getirdiği gibi, ilk devirleri aramak lüzumunu tercüme bir kitabı ile de ileri sürmüştür. Yalnız Salih Zeki’nin açmak istediği böyle bir cereyan edebiyatımızda nasıl bir netice verecek? Bu kestirilemez! Şu kadar da var ki, Latin edebiyatının mekteplerimize kadar getirilmek lüzumunu iddia edenler için Salih Zeki bulunmaz bir fırsattır ve ümit ederim ki gelecekte kadim klasik edebiyatın tedrisini kabul ettiğimiz gün, Salih Zeki’nin şiirlerinde, çocuklarımıza verilecek en iyi mitoloji çeşitlerini bulacağız!
