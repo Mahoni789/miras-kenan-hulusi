@@ -4,7 +4,7 @@ description: "Kenan Hulusi Koray'ın bütün hikaye, roman ve yazılarını içe
 ---
 
 {{< feature-grid >}}
-{{< feature icon="file-lines" title="Hikaye" url="https://mahoni789.github.io/miras-kenan-hulusi/docs/hikaye/" label="Keşfet">}}
+{{< feature icon="file-lines" title="Hikaye" url="/docs/hikaye/" label="Keşfet">}}
 Hikaye kitapları dergi ve gazete sayfalarında kalan hikayeleri
 {{< /feature >}}
 {{< feature icon="book-solid-full" title="Roman" url="/docs/roman/osmanoflar/" label="Okumaya başla" >}}
