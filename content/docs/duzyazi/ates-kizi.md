@@ -3,7 +3,7 @@ title: "Ateş Kızı"
 slug: "ates-kizi"
 date: 1928-05-10
 publication: "*Servet-i Fünûn*, cilt 63,1656-182, s. 409-410"
-tags: ["s. fünûn", "r. süreyya","k. eleştiri"]
+tags: ["s. fünûn", "r. süreyya","dil"]
 categories: ["eski yazı","k. tanıtım"]
 ---
 
