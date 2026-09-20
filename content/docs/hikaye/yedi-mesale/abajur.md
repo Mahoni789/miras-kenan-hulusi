@@ -7,8 +7,6 @@ showViews: false
 showReadingTime: false
 ---
 
-Abajur
-
 Karşılıklı aynalarda iç içe uzayan akisler gibi kahkahalar...
 
 ----
