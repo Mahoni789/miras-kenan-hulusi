@@ -1,0 +1,7 @@
+{{- with .Params.downloadURL -}}
+  {{ $url := .Params.downloadURL }}
+    <a href="{{ $url }}" download
+      class="text-lg hover:text-primary-500">
+      <span class="inline-block align-text-bottom">{{ partial "icon.html" "download" }}
+    </a></span>
+{{- end -}}

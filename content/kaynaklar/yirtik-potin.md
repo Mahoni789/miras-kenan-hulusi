@@ -22,7 +22,7 @@ Reis, önündeki kâğıtları uzun uzadıya karıştırdıktan sonra gözlüğ�
 
 Reis kâtibe döndü:
 
-— Yalnız tabur tabîbi yazınız. {{< orig-yeni ot="Müttehim" tr="Sanık">}}! Fazla söz istemez; seneniz?
+— Yalnız tabur tabîbi yazınız. {{< orig-yeni ot="Müttehim!" tr="Sanık!">}} Fazla söz istemez; seneniz?
 
 — Yirmiydi.
 

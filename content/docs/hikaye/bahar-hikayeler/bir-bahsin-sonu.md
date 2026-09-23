@@ -1,6 +1,7 @@
 ---
 title: "Bir Bahsin Sonu"
 slug: "bir-bahsin-sonu"
+date: 1938-09-19
 ---
 
 Bilhassa ağır cezalı mahkûmların, müddetlerini hemen doldurunca yeni bir suç daha işlemelerinde ne gibi sebepler bulunabilir?

@@ -2,7 +2,7 @@
 title: "Son Öpüş "
 slug: "son-opus"
 date: 1940-05-18
-publication: "Haber: Akşam Postası, 18.05.1940 - 12-06-1940, 22 sayı, İlk Sayı 2967"
+publication: "Haber: Akşam Postası, 18.05.1940 - 12.06.1940, 22 sayı, İlk Sayı 2967"
 categories: ["tefrika"]
 showTableOfContent: true
 tags: ["haber: a. postası"]

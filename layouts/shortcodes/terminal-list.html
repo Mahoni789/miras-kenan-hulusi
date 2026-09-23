@@ -1,0 +1,37 @@
+{{ $path := .Get "section" | default "docs/duzyazi" }}
+{{ $sectionPage := site.GetPage $path }}
+{{ $pages := $sectionPage.RegularPagesRecursive }}
+
+<div class="terminal-window">
+  <div class="terminal-header">
+    <div class="window-controls">
+       <!-- <span class="control red"></span>
+      <span class="control yellow"></span>
+      <span class="control green"></span> -->
+      {{ partial "icon.html" "file-lines" }}
+    </div>
+    <div class="terminal-title">{{ $sectionPage.Title }} · {{ len $pages }} Yazı</div>
+  </div>
+
+  <div class="terminal-body">
+    {{ range $pages.ByDate.Reverse }}
+      <!-- Aktif sayfa kontrolü: Eğer görüntülenen sayfa bu listedeki bir yazıysa 'active' sınıfını ekler -->
+      <a href="{{ .RelPermalink }}" class="list-item {{ if eq .Permalink $.Page.Permalink }}active{{ end }}">
+        <span class="item-date">{{ .Date.Format "2006-01-02" }}</span>
+        <span class="item-title" title="{{ .Title }}">{{ .Title }}</span>
+      </a>
+    {{ else }}
+      <!-- Eğer section içinde hiç yazı yoksa gösterilecek mesaj -->
+      <div class="list-item" style="color: rgb(var(--color-neutral-500));">
+        Kayıt bulunamadı.
+      </div>
+    {{ end }}
+  </div>
+
+  <div class="terminal-footer">
+    <!-- Bölümün ana dizinine yönlendiren link -->
+    <a href="{{ $sectionPage.RelPermalink }}" class="browse-link">
+      KÖŞE YAZILARINI OKU <span class="arrow">→</span>
+    </a>
+  </div>
+</div>

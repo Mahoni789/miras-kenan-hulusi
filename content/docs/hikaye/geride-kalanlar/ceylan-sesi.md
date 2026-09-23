@@ -8,8 +8,6 @@ heroStyle: background
 categories: ["tefrika", "eski yazı"]
 ---
 
-{{< svg name="ceylanSesi.svg" >}}
-
 ## Mukaddeme
 
 Ve soyundu.

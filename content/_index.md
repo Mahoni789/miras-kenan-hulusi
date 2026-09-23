@@ -17,3 +17,7 @@ Yazarın çeşitli edebiyatçılarla yapmış olduğu söyleşiler
 Deneme, eleştiri, köşe yazısı, anı ve çeşitli yazılar...
 {{< /feature >}}
 {{< /feature-grid >}}
+
+## Köşe Yazıları
+
+{{< terminal-list section="/docs/duzyazi/bir-iki-nokta" >}}

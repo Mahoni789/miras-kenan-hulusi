@@ -10,7 +10,7 @@ tags: ["cemil paşa","meşrutiyet","mütareke","serbestî"]
 
 İstanbul’la Paris ve Londra arasında lüks kompartımanlar ve büyük gemilerde balayı seyahatinden tutunuz da küçük bir şilep yolculuğuna kadar beş altı ciltlik bir seyahat koleksiyonunu tamamlamış Şişlili bir hanımefendi:
 
-“Kuzum," dedi,“ İstanbul’da hava alacak bir yer tavsiye eder misiniz bana?”
+“Kuzum,” dedi,“ İstanbul’da hava alacak bir yer tavsiye eder misiniz bana?”
 
 “Park”, dedim, “en iyi yerdir.”
 
@@ -56,9 +56,9 @@ Bütün dikkatimi ağaçların altına çam ve yaprak gölgeliğine vermiştim. 
 
 “Sen de olur müstebitlerden değilsin galiba... Ya şimdi?”
 
-"Şimdi müdür kuş bile uçurtmuyor.”
+“Şimdi müdür kuş bile uçurtmuyor.”
 
-"Başka bir vaka?”
+“Başka bir vaka?”
 
 “Bir de Mütareke’de İstanbul’un işgali günlerinde oldu. Yedi sekiz Fransız neferi kadınlara takılarak içeri girmek istediler. Bizim polisler buna tabii müsaade etmedi; park işte o zaman kurşunun ne demek olduğunu öğrenmişti; iki Fransız yaralandı; bir de bizden...” “Buradaki hayatınızdan memnun musunuz?”
 
@@ -120,7 +120,7 @@ Dört köşe eski bir fotoğraf makinesiydi.
 
 “Ne yaptınız.”
 
-"İğneyi yukarı çektim aşağı indirdim.”
+“İğneyi yukarı çektim aşağı indirdim.”
 
 “Ah... Aksi talih... Camı yaktınız: yalnız yukarı çekip bırakacaktınız...”
 

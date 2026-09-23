@@ -2,7 +2,7 @@
 title: "Dayımın Evi"
 slug: "dayimin-evi"
 date: 1932-01-21
-publication: "Mektep, sayı 6, s. 8"
+publication: "*Mektep*, sayı 6, s. 8"
 categories: ["anı"]
 ---
 
@@ -10,7 +10,7 @@ Akbaba’ya giden yolun hemen baş tarafında üstü teneke bir çatı ile ört�
 
 Bu açık kapının içeriye doğru taş basamağını atladıktan sonra bahçeye açılan medhalin sağ tarafında yarıya kadar inmiş isli perdesiyle ocak ve tuğlaları, medhalin nihayetinde küçük bahçeyi, etrafındaki çiti, saklambaç oynadığımız nimetle beraber iki ev aşarı bize en yakın, en iyi ve en dost bir komşunun kızıydı. İçinde saklandığımız samanlığa onu nasıl yatırır, sarı çöplerin üstüne doğru nasıl yuvarlar, bütün vücudunu baştan aşağı kaşıntıya veren bu şeyle gözlerimin içine baka baka, omuzlarını kıvıra kıvıra yalvarırken:
 
-“Eğer," derdim, “istersen çıkarabilirim?"
+“Eğer,” derdim, “istersen çıkarabilirim?”
 
 O vakte kadar elimi her uzattıkça ısıran ve koparan iptilası yavaş yavaş yok olur, onun yerine harikulade bir teslimiyet, bir kendini bırakış gelir, başını eğer, buna rağmen ellerimi ensesinden içeriye, bu incecik ve ancak bir dil ucunun fark edebileceği kadar sarı tüylü kapıdan –birdenbire açılıvereceğim yeni ve kadife bir dünyaya– korka korka sokar, sarı çöplerin hurdahaş ettiği bu körpe vücudu biraz sükûn ve istirahate nasıl çağırırdım? Şimdi o dakikaları düşündüğüm zamanlar bahçenin en güzel şeyini, nar ağacını, kırmızı çiçeklerini, bütün bunları birer birer yeniden yaşıyorum ve iç tarafta, günün bütün dakikaları için hiçbir vakit eksik olmayan odun çıtırtıları kulaklarımın içinde harekete geliyor: odamın içerisini güzel bir odun kokusu yavaş yavaş istilaya başladı.
 

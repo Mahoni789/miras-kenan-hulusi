@@ -13,7 +13,7 @@ categories: ["k. tanıtım"]
 Matbaacılık ve neşriyat Türk anonim şirketi, sahife: 224
 {{< /alert >}}
 
-“Jak Rivye, *La porte étroite* (Dar Kapı) için şunları söylüyor:
+Jak Rivye, *La porte étroite* (Dar Kapı) için şunları söylüyor:
 
 > *Dar Kapı*, André Gide’in en az hâkim olduğu eserlerden biridir. Denilebilir ki kitabı gayriihtiyari yazmıştır. Hatta o kadar ki bu kitap ona isyan etmiş, onu mecbur etmiş ve istemediği şekilde bu kitabı meydana çıkarmıştır.
 > 

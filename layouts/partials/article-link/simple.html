@@ -114,7 +114,7 @@
           {{ end }}
         </h2>
       </a>
-      {{ if and .isDraft .Site.Params.article.showDraftLabel }}
+      {{ if and .Params.isDraft .Site.Params.article.showDraftLabel }}
         <div class="ms-2">{{ partial "icon.html" "mug-hot" }}</div>
       {{ end }}
       {{ if templates.Exists "partials/extend-article-link.html" }}

@@ -15,7 +15,7 @@ authors:
 **Münekkit ve şarihi**: Mukrimin Halil Bey
 {{< /alert >}}
 
-Bu eser hakkında her ne suretle olursa olsun söz söylemek, salâhiyetimizin çok uzaklarında olmakla beraber, ilmi tenkidini liyakatlı kalemlere bırakarak, bu satırlarda eserin muhteviyatından bahsetmek isteyoruz.
+Bu eser hakkında her ne suretle olursa olsun söz söylemek, salâhiyetimizin çok uzaklarında olmakla beraber, ilmi tenkidini liyakatlı kalemlere brakarak, bu satırlarda eserin muhteviyatından bahsetmek isteyoruz.
 
 Mükrimin Halil Bey mevcut tarihçilerimiz arasında, Anadolu tarihi ile uzun senelerden beri ciddi olarak uğraşan bir ilim adamıdır. Tâkip ettiği yol üzerinde, bu hususa dair herhangi bir tarihçi tarafından yazılmış hiç bir eser olmaması, bu sahanın ne kadar işlenmemiş olduğunu sarahaten gösteriyor. Mevcut vesikaları toplayarak terkibi bir surette çalışan müellif, Türk Tarih Encümeni mecmuasına yazdığı bir iki mekale ile, Garp tarih aleminin fevkalâde nazarı-dikkatını celb etmiști. Bu gün, Anadolu tarihine ait bahislerde en sahibi selahiyet bir kalemdir.
 

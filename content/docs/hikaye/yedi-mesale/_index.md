@@ -10,4 +10,3 @@ cascade:
   tags: ["yedi meşale"]
 weight: 10
 ---
-
