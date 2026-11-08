@@ -1,3 +1,7 @@
-"scripts": {
-  "build": "echo 'No build step required'"
+{
+  "name": "miras-kenan-hulusi",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "echo 'No build step required'"
+  }
 }
