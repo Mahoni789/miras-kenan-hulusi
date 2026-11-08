@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publish on Miras: Kenan Hulusi</title>
+    <link>http://localhost:1313/publish/</link>
+    <description>Recent content in Publish on Miras: Kenan Hulusi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>tr-TR</language>
+    <copyright>© 2026 Kenan Hulusi Koray</copyright>
+    <lastBuildDate>Fri, 08 Mar 1940 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/publish/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Vakit</title>
+      <link>http://localhost:1313/publish/vakit/</link>
+      <pubDate>Fri, 08 Mar 1940 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/publish/vakit/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

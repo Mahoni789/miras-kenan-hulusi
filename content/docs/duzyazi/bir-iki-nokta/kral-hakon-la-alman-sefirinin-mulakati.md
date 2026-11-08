@@ -2,12 +2,12 @@
 title: "Kral Hakon’la Alman Sefirinin Mülakatı"
 slug: "kral-hakon-la-alman-sefirinin-mulakati"
 date: 1940-04-21
-publication: "Vakit, sayı 7802, s. 2"
+publication: ["Vakit"]
+publication_detay: "sayı 7802, s. 2"
 authors:
   - "imzasız"
 tags: ["hitler","damat ferit"]
 ---
-
 Kral Hakon’a tâbî bulunan meşru Norveç hükümeti, Norveç istilasının hemen arifesinde kral ile Alman Sefiri Braver arasında geçen tarihi mülakatı neşretti. Vesikalara nazaran mülakat şöyle geçmiş:
 
 Alman sefiri: “Bugünkü şeraite göre Almanya’nın istediği, Norveç başvekilinin azli ve yerine Binbaşı Kuizling’in getirilmesidir. Ayrıca Norveç’in Alman istilasına karşı mukavemet etmemesi de kendi menfaati icabındadır.”

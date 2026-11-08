@@ -2,9 +2,9 @@
 title: "Sonu Bir Şarkı"
 slug: "sonu-bir-sarki"
 date: 1941-04-10
-publication: "Vakit, 8347, s. 5"
+publication: ["Vakit"]
+publication_detay: "8347, s. 5"
 ---
-
 Çikili’ye akşam postası saat dokuzda girdi. Orta vagonlardan istasyona kadınlı erkekli bir kalabalık dökülmüştü. Hareket memuru,
 
 “Olur şey değil, şu kumpanyalar, diyordu; oyun yarın akşam mı başlıyor?”

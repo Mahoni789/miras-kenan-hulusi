@@ -2,9 +2,9 @@
 title: "Mavzer"
 slug: "mavzer"
 date: 1940-09-30
-publication: "Vakit, 8162-63"
+publication: ["Vakit"]
+publication_detay: "8162-63"
 ---
-
 1921 yılıydı. Şehir sokaklarında her cins milletten insanların görüldüğü meşhur yıl... Harp bitmişti. Ömer yazı geçirmek üzere dayısının sayfiyedeki evine geldi.
 
 Ömer yedi yaşındaydı. Bahçede bir sürü kanatlı böcekler ötüyor, evde harpten başka hiçbir şey konuşulmuyordu.

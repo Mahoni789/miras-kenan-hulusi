@@ -2,12 +2,12 @@
 title: "Erzast Kaside!"
 slug: "erzast-kaside"
 date: 1940-02-23
-publication: "Vakit, sayı 7944, s. 2"
+publication: ["Vakit"]
+publication_detay: "sayı 7944, s. 2"
 authors:
   - "imzasız"
 tags: ["ethem İzzet","necip fazıl"]
 ---
-
 Ethem İzzet Benice’nin Nanemolla imzasıyla gazetesinde kendi kendini methetmesini bir karakter kusuru diye gösterenler var. Hakikaten bir adamın kendi kendini yalnız sözlerle değil, kalemiyle de büyük gazeteci, büyük siyasi, büyük edip, büyük romancı diye mütemadiyen göklere çıkarması gariptir. Fakat Almanların erzast devri içinde yaşadığımız düşünülürse bunu biraz da mazur görmek lazımdır. Almanlar ilk maddeleri kendi memleketlerinde yetişmeyen her şeyin sunisini yapıyorlar: suni ipek, suni yün, suni kauçuk, suni benzin... ila...
 
 Bir muharrir, bir romancı için arkadaşları tarafından methedildiğini görmek istemesi bir ihtiyaç mıdır değil midir? Eğer bu bir ihtiyaç ise Ethem İzzet Benice’nin kendi kendini methetmesini tabii görmelidir. Ve eğer arkadaşları –caize mukabilinde olsun– bu ihtiyacını tatmin etmiyorlarsa o da Nanemolla imzasıyla kendi kendini övmekle bir erzast kaside usulü icat etmiş demektir.

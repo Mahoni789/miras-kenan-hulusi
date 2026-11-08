@@ -2,12 +2,12 @@
 title: "Yeşil İstanbul"
 slug: "yesil-istanbul"
 date: 1940-03-22
-publication: "Vakit, sayı 7972, s. 2"
+publication: ["Vakit"]
+publication_detay: "sayı 7972, s. 2"
 authors:
   - "imzasız"
 tags: ["İmar"]
 ---
-
 İstanbul halkı yeni imar vaatler karşısında... Dolmabahçe’de stadyum; Taksim’de otel, matbuat için kulüp, yeşil caddeler; Nişantaşı’nda çocuk parkı, hülasa ağzımıza birer parmak bal...
 
 Şu itibarla ki bizzat vali, gazetecilerle yaptığı son konuşmada imar için bütçede para olmadığını söylemişti. İki gündür de belediye bütçesinin bir buçuk milyon açık olduğunu öğreniyoruz. Acaba yeşil hülyalarımız tekrar kara mı bağlayacaklar?

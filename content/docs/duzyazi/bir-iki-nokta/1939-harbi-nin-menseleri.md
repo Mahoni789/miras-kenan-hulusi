@@ -2,12 +2,12 @@
 title: "1939 Harbi'nin Menşeleri"
 slug: "1939-harbi-nin-menseleri"
 date: 1940-04-24
-publication: "Vakit, sayı 7805, s. 2"
+publication: ["Vakit"]
+publication_detay: "sayı 7805, s. 2"
 authors:
   - "imzasız"
 tags: ["andre maurois","hitler"]
 ---
-
 Fransız edibi Andre Maurois’in *Britanya Mavi Kitabı* ile Stefani Ajansı’nın tebliğlerine ve Fransız şehadetlerine dayanarak kaleme aldığı 1939 Harbi Menşeleri’ne dair neşrettiği broşür Türkçemize de çevrildi.
 
 Şüphesiz ki Andre Maurois’in eseri, üç senelik bir Avrupa politikası bakımından ancak umumî hatları ifade eden bir taslaktır. Sadece muhteviyatına inanılır emin ve aydınlık bir taslak.

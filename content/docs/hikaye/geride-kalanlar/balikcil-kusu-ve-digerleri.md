@@ -2,10 +2,9 @@
 title: "Balıkçıl Kuşu ve Diğerleri"
 slug: "balikcil-kusu-ve-digerleri"
 date: 1940-02-10
-publication: "Vakit, 7931, s. 4"
-tags: ["vakit"]
+publication: ["Vakit"]
+publication_detay: "7931, s. 4"
 ---
-
 Artık yaz bitti. Böcek sesleri, yaprak çıtırtıları, binlerce kum üzerinde çıplak ayaklarımızın çıkardığı sesler, sıcak yağmur taneleriyle beraber çakıllar, güneş hiçbiri kalmadı. Hatta, bana en canlı gelen ve aramızda yüzdüğü dakikalar balıkçıl kuşuna benzettiğimiz Janin bile.
 
 Janin bir Yahudi kızıydı. Sayfiyede yaşayan öteki Yahudi kızlarının hiçbirine benzemezdi. Onlar, ellerinde torbalar, yemiş paketleri ve çocuklarla plaja geldikleri halde, Janin tek başına, üzerinde bir penivar, başında hafif yana eğilmiş Çin sepetlerine benzeyen renkli bir şapkayla gözükürdü. Mavi ve ince bir kurdele bu renkli Çin sepetini çenesinin altından başına bağlardı.

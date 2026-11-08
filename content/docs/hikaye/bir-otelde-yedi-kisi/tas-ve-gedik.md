@@ -2,9 +2,9 @@
 title: "Taş ve Gedik"
 slug: "tas-ve-gedik"
 date: 1940-09-07
-publication: "Vakit, 8139-40"
+publication: ["Vakit"]
+publication_detay: "8139-40"
 ---
-
 Merkezde toplanacak ziraat kongresi için kendi dileklerini anlatmak üzere Öbekli köylüleri Memo’yu intihap ettiler.
 
 Memo, elli yaşındaydı. Dik boyu ve kırçıl sakalıyla, bütün köylüler Memo’yu tanır, hatta nahiye müdüründen şikâyetleri varsa kaymakamdan daha evvel ona açarlar, Memo ya olur der yapar yahut olmaz der işi benimsemezdi...

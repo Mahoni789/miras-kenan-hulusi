@@ -2,11 +2,10 @@
 title: "Ruhiyat Müderrisi"
 slug: "ruhiyat-muderrisi"
 date: 1932-03-24
-publication: "Mektep, cilt 1,13, s. 237-238, 241"
+publication: ["Mektep"]
+publication_detay: "cilt 1,13, s. 237-238, 241"
 showTableOfContents: false
-tags: ["mektep"]
 ---
-
 ## I
 
 Müderrisler odasından çıktıktan sonra, eski nezaretin ikinci kat koridoru ucunda, şimdi “Ziya Gökalp” dershanesi olan felsefe sınıfına doğru, çantasını hafifçe sallayarak, mutat adımlarıyla yavaş yavaş yürüdü. Hukuk fakültesinin gürültü ve nümayişkâr izdihamını gözetmekle beraber, herhangi bir flört hakkında hararetli dedikodular yapan başka sınıf talebeleri o geçerken hürmetle eğildiler ve derse girecek talebeler uzun yol keçeleri üstünde kısa ökçeli iskarpinlerini sürüyüp kaydırarak telaşlı adımlarla uzaklaştılar.

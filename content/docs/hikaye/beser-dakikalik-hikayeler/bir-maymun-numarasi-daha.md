@@ -2,9 +2,9 @@
 title: "Bir Maymun Numarası Daha"
 slug: "bir-maymun-numarasi-daha"
 date: 1941-01-12
-publication: "Vakit, 8261, s. 5"
+publication: ["Vakit"]
+publication_detay: "8261, s. 5"
 ---
-
 Yolcuları az yahut sapa istasyonlarda tren âmirlerinden birçoğu hayvan besler. İzmir banliyölerinden birinin son durak yeri olan Seydiköy âmiri Hasan Hüseyin de bunlardan biriydi.
 
 İzmir ekspresinde gidip gelenler bu küçük istasyonu tanımaz. Çünki Aydın demiryolu Gaziemir’den bir kavis yaparak ayrılır ve sol tarafta bir tütün tarlasını yavaş yavaş geçtikten sonra eski Rum evlerinin içinden köye girer; bir zeytinyağı fabrikasının yanıbaşında durur. Yani istasyon, mevkii itibariyle köyün cenup kapısındadır. Fakat köye açılan beş-on metrelik yegâne asfalt yola rağmen bu tarafa hiç kimsenin uğradığı yoktur. İşte bu sebepten, istasyon âmiri de kuştan, köpekten vazgeçip bekâr olduğu ve istasyonda yalnız bulunduğu için maymun besliyordu.

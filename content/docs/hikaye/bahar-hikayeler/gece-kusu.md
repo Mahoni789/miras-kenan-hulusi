@@ -2,11 +2,9 @@
 title: "Gece Kuşu"
 slug: "gece-kusu"
 date: 1938-12-17
-publication: "Tan, 1214"
-featureimage: "img/gece-kusu.jpeg"
-tags: ["tan"]
+publication: ["Tan"]
+publication_detay: "1214"
 ---
-
 {{< svg name="gecekusu.svg" >}}
 
 Amcam doktorluğundan daha ziyade aile arasında garip hikâyeler anlatmakla tanınmıştı. Bir akşam hepimizin gözlerini birer birer arayarak, belki de inanma kabiliyetimizi yalnız ona vergi olan tuhaf ve kısa bir muayeneden sonra:

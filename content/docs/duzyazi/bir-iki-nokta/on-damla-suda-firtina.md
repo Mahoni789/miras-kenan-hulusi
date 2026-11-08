@@ -2,12 +2,12 @@
 title: "On Damla Suda Fırtına"
 slug: "on-damla-suda-firtina"
 date: 1940-03-10
-publication: "Vakit, sayı 7960, s. 2"
+publication: ["Vakit"]
+publication_detay: "sayı 7960, s. 2"
 tags: ["yahya kemal","vâ-Nû","türkçe","kıyak durgaç","toplu iğne"]
 authors:
   - "K. H"
 ---
-
 Yahya Kemal’in sekiz on damla suda bir fırtına koparacağa benzeyen yeni şiirinden karilerimizin belki haberi yoktur. Beraberce okuyalım:
 
 {{< poem title="Gece" author="Yahya Kemal">}}
@@ -44,6 +44,6 @@ Ancak buna mukabil sanat ve şöhretinden böyle bozuk mısralarla çok şeyler 
 
 Dün matbaamıza gelen bir arkadaş da şöyle söyledi:
 
-“Bence Yahya Kemal’in şiirinde Vâ-Nû’nun söylediği gibi ne sekti melih, Halit Fahri’nin söylediği gibi ne “sekti kabih” var. Bu olsa olsa bir “sekti sekir" olacak.
+“Bence Yahya Kemal’in şiirinde Vâ-Nû’nun söylediği gibi ne sekti melih, Halit Fahri’nin söylediği gibi ne 'sekti kabih' var. Bu olsa olsa bir 'sekti sekir' olacak.”
 
 Yahut bir “sekti şiir!"

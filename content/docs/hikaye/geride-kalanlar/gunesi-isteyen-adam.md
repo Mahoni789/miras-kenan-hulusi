@@ -2,9 +2,9 @@
 title: "Güneşi İsteyen Adam"
 slug: "gunesi-isteyen-adam"
 date: 1929-06-27
-publication: "Servet-i Fünûn Uyanış, cilt 66,1715-30, s. 480-481"
+publication: ["Servet-i Fünûn/Uyanış"]
+publication_detay: "1715-30, s. 480-481"
 ---
-
 Güneşi isteyen Adam
 
 Şimdi, bu satırları okumaya başladığınız dakikalarda niçin gülmüyorsunuz?

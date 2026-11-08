@@ -2,7 +2,8 @@
 title: "Yarasa"
 slug: "yarasa"
 date: 1936-06-27
-publication: "*Kurun - Kurun ilavesi*, 6, s. 4"
+publication: ["Kurun - Kurun ilavesi"]
+publication_detay: "6, s. 4"
 categories: ["k. tanıtım"]
 tags: ["çeviri","i. hoyi","hikaye"]
 authors:
@@ -10,10 +11,9 @@ authors:
 ---
 
 {{< alert "tag" >}}
-*Yarasa: Hikayeler Kitabı*  
-**Mütercimi**: İbrahim Hoyi  
-Sahife 98, Vakit kütüphanesi, 30 kuruş.
+*Yarasa: Hikayeler Kitabı*, (Mütercimi) İbrahim Hoyi, Sahife 98, Vakit kütüphanesi, 30 kuruş.
 {{< /alert >}}
+{ .mt-10 }
 
 Dostum İbrahim Hoyi’ni kitabından, çıkalı aşağı yukarı iki sene olmasına rağmen şunun için bahsetmek istiyorum ki bu kitap Türk edebiyatını Avrupa kültürüne bağlamak için son senelerde sıkı bir suretle yapılan inşaat arasında mühim edebi köprülerimizden birisini teşkil etmektedir. Mütercim için fikirlerimi söylemeye hazırlanırken ilk planda, birçok mütercimlerimizi gıpta ettirecek derecede güzel konuşan bir dil kullandığına işaret etmek istiyorum.
 

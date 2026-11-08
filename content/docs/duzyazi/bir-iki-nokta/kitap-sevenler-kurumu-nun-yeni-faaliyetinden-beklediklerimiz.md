@@ -2,12 +2,12 @@
 title: "Kitap Sevenler Kurumu'nun Yeni Faaliyetinden Beklediklerimiz"
 slug: "kitap-sevenler-kurumu-nun-yeni-faaliyetinden-beklediklerimiz"
 date: 1940-05-02
-publication: "Vakit, sayı 8013, s. 3"
+publication: ["Vakit"]
+publication_detay: "sayı 8013, s. 3"
 authors:
   - "imzasız"
 tags: ["h. ziya","a. hihmet","z. gökalp"]
 ---
-
 İki gün evvel Anadolu Ajansı’nın bir haberinden, 1939 Teşrinievvelinde teşekkül etmiş olan Kitap Sevenler Kurumu’nun mesaisini halkevleriyle birleştirmeye karar verdiğini öğrendik.
 
 Kitap Sevenler Kurumu’nun bir buçuk sene zarfında gösterdiği faaliyet, maalesef parlak bir faaliyet değil. Ziya Gökalp’ı *Türkçülük Cereyanları* ile Ahmet Hikmet’in *Çağlayanlar* kitabına inhisar eden bu çalışmada, kurumun ancak Arap harflerinden Latin harflerine bir istinsah vazifeliği ettiğini öğreniyoruz.

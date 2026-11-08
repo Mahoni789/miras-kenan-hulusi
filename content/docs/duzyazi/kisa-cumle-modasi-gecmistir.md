@@ -2,12 +2,12 @@
 title: "Kısa Cümle Modası Geçmiştir"
 slug: "kisa-cumle-modasi-gecmistir"
 date: 1932-03-24
-publication: "Mektep, sayı 13, s. 234"
+publication: ["Mektep"]
+publication_detay: "sayı 13, s. 234"
 authors:
   - "K. H"
 tags: ["lisan","harf inkılabı", "yeni lisan","türkçe"]
 ---
-
 Mekteplerde Türkçe ve edebiyat muallimlerinin vazifeleri tashih ettiği dakikalarda tekrarladığı şey daima şu olur: Kısa cümle... Her yerde ve her fikir için!
 
 Kısa cümlenin bu propaganda tarihi, eğer yanılmıyorsam, Osmanlı terkiplerinin atılmaya yüz tuttuğu günden başlamış gibidir. Gerçi kısa cümle mektep sıralarında yapılması zaruri bir vazifedir. Şu kadar var ki, kısa cümle edebiyata mektep sıralarından değil, mektep sıralarına edebiyattan geçmiştir; bu geçiş anormal bir geçiş oldu.

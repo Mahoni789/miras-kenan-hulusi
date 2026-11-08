@@ -2,9 +2,9 @@
 title: "Güneş Balıkları"
 slug: "gunes-baliklari"
 date: 1940-09-19
-publication: "Vakit,  8151-55"
+publication: ["Vakit"]
+publication_detay: "8151-55"
 ---
-
 Bizim mahalle delikanlıları bana “Ağabey” lakabını taktılar. Geçen yazdan beri “Ağabey” aşağı, “Ağabey” yukarı! Gün geçmiyor ki isteyecekleri bir şey de olmasın!
 
 Mayıs başlangıcıydı. İki aylık bir konje için plan yapmaya hazırlanıyordum. Oda hizmetçim geldi:

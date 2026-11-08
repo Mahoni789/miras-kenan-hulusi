@@ -2,11 +2,10 @@
 title: "Tarlaya Çevrilen Su"
 slug: "tarlaya-cevrilen-su"
 date: 1938-07-14
-publication: "Tan, 1154"
+publication: ["Tan"]
+publication_detay: "1154"
 featureimage: "img/stories/tarla.jpeg"
-tags: ["tan"]
 ---
-
 Ahlamış köyü, kasabadan Delideğirmen yoluna sapınca, yaya giderseniz bütün bir gün, eşek sırtında şöyle böyle üç saat tutar. Değirmeni kıvrılıp Delisu’yu yan tarafınıza alır almaz kendinizi birdenbire kel tepeler, dımdızlak tarlalar arasında bulursunuz. Ne bir yonca ne katır tırnaklarına tesadüften vazgeçiniz, öğle vakitlerine rast gelirseniz vay hâlinize! Yollarda insan değil, it bile gözükmez. Kervan geçmez, bulut gölgesi düşmez, kuş uçmaz...
 
 Ahlamış köyü böyle bir yolun nihayetindeydi.

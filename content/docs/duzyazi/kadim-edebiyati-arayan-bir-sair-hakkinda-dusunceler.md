@@ -2,10 +2,10 @@
 title: "Kadim Edebiyatı Arayan Bir Şair Hakkında Düşünceler"
 slug: "kadim-edebiyati-arayan-bir-sair-hakkinda-dusunceler"
 date: 1936-07-11
-publication: "*Kurun - Kurun ilavesi*, 9, s. 4, 10"
-tags: ["salih zeki","m. edeiyata doğru","şiir"]
+publication: ["Kurun - Kurun ilavesi"]
+publication_detay: "9, s. 4, 10"
+tags: ["salih zeki","şiir"]
 ---
-
 {{< keyword >}} Çıkan kitaplara bir bakış {{< /keyword >}}
 
 Aşağı yukarı üç dört ay kadar evvel, yaşları henüz yirmi beşle otuz arasındaki arkadaşlarımla yapılan konuşmalar sırasındaydı. Bir aralık şair Salih Zeki’ye rast geldim. Yirmi seneden beri çözülmesini beklediği bir esrarın yavaş yavaş dağılmaya yüz tuttuğunu keşfetmiş bir fısıltı ile “Tam,” dedi, “beklediğim bir dakika... Kalbur sallanıyor!”

@@ -2,12 +2,11 @@
 title: "Bir Tutam Saç"
 slug: "bir-tutam-sac"
 date: 1928-01-05
-publication: "Servet-i Fünûn, cilt 62,1638-164, s. 123"
+publication: ["Servet-i Fünûn"]
+publication_detay: "cilt 62,1638-164, s. 123"
 featureimage: "img/serveti-funun.svg"
 categories: ["eski yazı"]
-tags: ["s. fünûn"]
 ---
-
 Bir ok içinden hız almış gibi yataktan fırladı. Kalbi kaskatı kesilmişti.
 
 Göğsü âdeta yontulmamış bir tahtaya benziyordu. Sert ve kaba…

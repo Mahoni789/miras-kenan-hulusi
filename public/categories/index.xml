@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kategoriler on Miras: Kenan Hulusi</title>
+    <link>http://localhost:1313/categories/</link>
+    <description>Recent content in Kategoriler on Miras: Kenan Hulusi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>tr-TR</language>
+    <copyright>© 2026 Kenan Hulusi Koray</copyright>
+    <lastBuildDate>Tue, 16 Sep 1941 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Anı</title>
+      <link>http://localhost:1313/categories/an%C4%B1/</link>
+      <pubDate>Tue, 16 Sep 1941 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/an%C4%B1/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>K. Tanıtım</title>
+      <link>http://localhost:1313/categories/k.-tan%C4%B1t%C4%B1m/</link>
+      <pubDate>Fri, 01 Nov 1940 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/k.-tan%C4%B1t%C4%B1m/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Tefrika</title>
+      <link>http://localhost:1313/categories/tefrika/</link>
+      <pubDate>Sat, 18 May 1940 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/tefrika/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Kurun</title>
+      <link>http://localhost:1313/categories/kurun/</link>
+      <pubDate>Sat, 01 Jan 1938 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/kurun/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Roman</title>
+      <link>http://localhost:1313/categories/roman/</link>
+      <pubDate>Sat, 01 Jan 1938 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/roman/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Eski Yazı</title>
+      <link>http://localhost:1313/categories/eski-yaz%C4%B1/</link>
+      <pubDate>Mon, 01 Feb 1932 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/eski-yaz%C4%B1/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Söyleşi</title>
+      <link>http://localhost:1313/categories/s%C3%B6yle%C5%9Fi/</link>
+      <pubDate>Sun, 01 Mar 1931 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/s%C3%B6yle%C5%9Fi/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Şiir</title>
+      <link>http://localhost:1313/categories/%C5%9Fiir/</link>
+      <pubDate>Sat, 15 Sep 1928 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/%C5%9Fiir/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

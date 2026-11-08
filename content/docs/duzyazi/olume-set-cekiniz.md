@@ -2,10 +2,10 @@
 title: "Ölüme Set Çekiniz"
 slug: "olume-set-cekiniz"
 date: 1932-04-07
-publication: "Mektep, sayı 14, s. 259"
+publication: ["Mektep"]
+publication_detay: "sayı 14, s. 259"
 tags: ["vâ-Nû","y. ziya","a. haşim","y. kadri","m. yesari","r. nuri"]
 ---
-
 Dünyanın bizden başka hemen her tarafında, her nevi gazetelerle kitap neşriyatını idare eden kütüphaneler; halkı tutacak, dikkatini celp yahut teksif edecek, düşüncelerini yeni bir zekâya, yeni bir insan muhit ve iklimine açacak yeni yeni malzemeler aramakla uğraşıyor.
 
 İnsan his ve zekâsının her dakika için bu derece en mütehavvil çapraşık ve yeniye arzukeş bir devir yaşadığını hatırlayamıyoruz. Zevklerimizin mutlakıyetine, dünden daha ziyade bugün için hiçbir suretle inanamadığımız gibi onların üstünde herhangi bir ısrarda da bulunamayız. Onlara inanmış olsak bile, yine dünden daha ziyade bugün, bu mutlakıyeti hiç kimseye kabul ettirmek aklımızdan geçmez; daha doğrusu onun umumiyetini hiç kimseye karşı şümullendirecek bir vaziyette değiliz.

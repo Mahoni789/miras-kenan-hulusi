@@ -2,9 +2,9 @@
 title: "Olimpiyat Bebekleri"
 slug: "olimpiyat-bebekleri"
 date: 1941-03-28
-publication: "Vakit, 8334-8335"
+publication: ["Vakit"]
+publication_detay: "8334-8335"
 ---
-
 936 Olimpiyadı bildiğiniz gibi Berlin’de yapıldı. Reichssportfeld bu sıralarda hakiki bir spor kasabası oldu. Almanlar bir de Olimpiadorf ismini verdikleri bir spor köyü inşa ettiler, ki egzersiz mahalleri, duş yerleri, istirahat pistleri ile mükemmel bir spor köyü sayılıyordu. Hattâ, olimpiyadlar bittikten sonra bile Almanlar onu yakmaya kıyamamış, Olimpiadorf'u garnizon hâlinde bırakmışlardır. İşte benim anlatacağım şey de bu olimpiya köyünde geçti:
 
 Bizim Türk paviyonu Amerika paviyonu ile Çin paviyonu arasındaydı. Her üç sahayı birbirinden küçük birer bahçe ayırıyordu. Olimpiadorf’a gelen yabancılar bu paviyonlardan atletlerin çalışmalarını, dinlenmelerini yahut hareketsiz dakikalarını seyrediyorlardı.

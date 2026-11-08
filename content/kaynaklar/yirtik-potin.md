@@ -40,7 +40,7 @@ Reis kâtibe döndü:
 
 — Sadede geliniz.. Adamı niçin dövdünüz?
 
-— Vakadan bir hafta evvel ve izdivacımdan üç ay sonra evimde zevcem gözlerinde bir tebessümle yanıma geldi: {{< orig-yeni ot="Mürâî" tr="İkiyüzlü">}}, tatlı bir tebessüm! Fikret ne doğru yazmış Reis Bey; kadınlar bembeyaz pamuk gibi kedilere bilmem niçin bu kadar benzerler. Yaltaklanır, yalvarır, neler yapmazlar. İşte o günlerden biriydi. Nihâyet bana iyice hâkim olduğunu zannettiği zaman, anlattı: Taburumuzdan bir bedel-i nakdî[^1] neferi bir kızımızın dünyaya geldiğini güya haber almış. Bir hediye getirmiş: Yüz liralık bir elmas iğne… “Ne münasebet!” diye haykırdım. Zevcem gözlerinde hıyânet {{< orig-yeni ot="şerîklerinin" tr="ortaklarının">}} {{< orig-yeni ot="mülevves" tr="kirli">}} ve {{< orig-yeni ot="kelbî" tr="köpeksi">}} gülümseyişleri gibi ürpertici bir ılıklıkla söyledi: “ Kendisinin de bir kızı doğmuş da üç ay izin istiyor.`29` Sevaptır, ne olur? Hem sen harbin ne kadar boş yere olduğunu söylemiyor muydun.. Üç kişi kurtarsan..”
+— Vakadan bir hafta evvel ve izdivacımdan üç ay sonra evimde zevcem gözlerinde bir tebessümle yanıma geldi: {{< orig-yeni ot="Mürâî" tr="İkiyüzlü">}}, tatlı bir tebessüm! Fikret ne doğru yazmış Reis Bey; kadınlar bembeyaz pamuk gibi kedilere bilmem niçin bu kadar benzerler. Yaltaklanır, yalvarır, neler yapmazlar. İşte o günlerden biriydi. Nihâyet bana iyice hâkim olduğunu zannettiği zaman, anlattı: Taburumuzdan bir bedel-i nakdî[^1] neferi bir kızımızın dünyaya geldiğini güya haber almış. Bir hediye getirmiş: Yüz liralık bir elmas iğne… “Ne münasebet!” diye haykırdım. Zevcem gözlerinde hıyânet {{< orig-yeni ot="şerîklerinin" tr="ortaklarının">}} {{< orig-yeni ot="mülevves" tr="kirli">}} ve {{< orig-yeni ot="kelbî" tr="köpeksi">}} gülümseyişleri gibi ürpertici bir ılıklıkla söyledi: “Kendisinin de bir kızı doğmuş da üç ay izin istiyor.`29` Sevaptır, ne olur? Hem sen harbin ne kadar boş yere olduğunu söylemiyor muydun.. Üç kişi kurtarsan..”
 
 “Yeter” dedim; ertesi günü {{< orig-yeni ot="merkûmun" tr="adı geçenin">}} hediyesini iâde ederek kendisinin de ilk fırsatta cepheye gönderilmesini kumandana yazdım.
 
@@ -52,7 +52,7 @@ Cevap vermedi. Ağladı ağladı ağladı. Dışarıda da bulutların burnundan 
 
 — Numaran altı ay sonra.. Altı ay sonra..`30`
 
-Dayak yemiş gibi miskin döndüm. Tramvaya binmeden, İstanbul sokaklarında yırtık kunduramı sürükleye sürükleye dâireme geldim. Müteahhid, hediye veren neferin pederi, beni bekliyordu. {{< orig-yeni ot="Gentli" tr="Şekerli">}} elini altın başlı bastonundan {{< orig-yeni ot="tehâlükle" tr="can atarak">}} indirip soluk ve ıslak pelerinimden beni etekledi [eteğini saygı göstermek amacıyla öptü]! Arkasında beli kemerli şahane bir İngiliz muşambası vardı. Ve tebessümünde toklara mahsus bir haz içinde altın dişleri pırıldıyordu. Odama girdik.
+Dayak yemiş gibi miskin döndüm. Tramvaya binmeden, İstanbul sokaklarında yırtık kunduramı sürükleye sürükleye dâireme geldim. Müteahhid, hediye veren neferin pederi, beni bekliyordu. {{< orig-yeni ot="Gentli" tr="Şekerli">}} elini altın başlı bastonundan {{< orig-yeni ot="tehâlükle" tr="can atarak">}} indirip soluk ve ıslak pelerinimden beni etekledi![^2] Arkasında beli kemerli şahane bir İngiliz muşambası vardı. Ve tebessümünde toklara mahsus bir haz içinde altın dişleri pırıldıyordu. Odama girdik.
 
 — “Efendimiz” diye başladı. Dikkat ettim ayaklarında lastikleri de vardı. Parlak Rus lastikleri. {{< orig-yeni ot="Bilâ-ihtiyâr" tr="Elinde olmayarak">}}: “Ayakları kim bilir nasıl sıcak ve kurudur” diye düşündüm. O karşımda iki büklüm olmuş devam ediyordu: “Efendimizle tanışmak şerefinden mahrumum fakat göz âşinâlığı olduğundan {{< orig-yeni ot="hazâkat-ı aliyyelerinin" tr="yüce efendimizin ustalığının">}}...”
 
@@ -91,3 +91,5 @@ Müttehim, yorgun, bitkin bir hâlde oturdu. Başını masasının üstündeki y
 — {{< orig-yeni ot="Mûmâ-ileyh" tr="Adı geçen kişi">}} fikren yorgun olduğundan {{< orig-yeni ot="evvel emirde" tr="ilk iş olarak">}} bir ay istirâhat-ı emrâz-ı akliye tedâvîhânesine {{< orig-yeni ot="izâmı" tr="gönderilmesi">}} hakkında bir {{< orig-yeni ot="tezkire" tr="resmî yazı">}} yazınız.`33`
 
 [^1]: Askerlik yapmamak veya yapılacak süreyi kısaltmak isteyenlerin devlete ödedikleri para.
+
+[^2]: Saygı amaçlı eteğini öpmek.

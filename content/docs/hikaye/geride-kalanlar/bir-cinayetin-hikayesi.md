@@ -2,11 +2,10 @@
 title: "Bir Cinayetin Hikâyesi"
 slug: "bir-cinayetin-hikayesi"
 date: 1929-04-04
-publication: "Servet-i Fünûn Uyanış, cilt 65, 1703-18, s. 282-283, 286-287"
+publication: ["Servet-i Fünûn/Uyanış"]
+publication_detay: "1703-18, s. 282-283, 286-287"
 showTableOfContents: false
-tags: ["s. fünûn / uyanış"]
 ---
-
 ## 1
 
 İçerde yanık bir çam kokusu var; ve yanık bir reçina...

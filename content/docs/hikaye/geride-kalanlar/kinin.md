@@ -2,8 +2,8 @@
 title: "Kinin"
 slug: "kinin"
 date: 1941-06-21
-publication: "Vakit, 8419, s. 5"
-isDraft: true
+publication: ["Vakit"]
+publication_detay: "8419, s. 5"
+draft: true
 ---
-
 <!-- İçerik eklenecek -->

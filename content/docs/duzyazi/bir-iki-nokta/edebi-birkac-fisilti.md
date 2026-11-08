@@ -2,12 +2,12 @@
 title: "Edebi Birkaç Fısıltı"
 slug: "edebi-birkac-fisilti"
 date: 1940-04-27
-publication: "Vakit, sayı 7808, s. 2"
+publication: ["Vakit"]
+publication_detay: "sayı 7808, s. 2"
 authors:
   - "imzasız"
 tags: ["halidiyat","o. veli","a.j. tanpınar","n. ataç","y. kemal","y. ziya","o. seyfi"]
 ---
-
 Bir iki günden beri “Yazık oldu Süleyman Efendi’ye” şairi Orhan Veli’nin en büyük müştaklarından biri olan Nurullah Ataç İstanbul’da. Sayın münekkitten bir taraftan Orhan Veli, diğer taraftan Yahya Kemal’in şiirlerini bol bol dinliyoruz. Yani Nurullah Ataç bir sihirbaz hareketleriyle bir nasırın üzerine bir “bülbül” kondurarak konuşuyor.
 
 Bu münasebetle, üstadın birkaç sene evvel Ahmet Hamdi Tanpınar’la beraber neşretmek tasavvurunda olduğu bir mecmuayı hatırladık.

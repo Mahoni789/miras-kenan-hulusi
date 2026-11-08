@@ -2,10 +2,9 @@
 title: "Çalınan Tarla"
 slug: "calinan-tarla"
 date: 1937-11-22
-publication: "Kurun, 7137-1227, s. 7, 17"
-tags: ["kurun"]
+publication: ["Kurun"]
+publication_detay: "7137-1227, s. 7, 17"
 ---
-
 Yetimoğlu şunun bunun için değil, Yusufeli’ne dosdoğru iş aramak için geliyordu.
 
 Kars’ın Samanlı köyünden çıktığı dakikalar yolda şunları düşündü:

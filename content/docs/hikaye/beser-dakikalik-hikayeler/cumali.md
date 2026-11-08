@@ -2,9 +2,9 @@
 title: "Cumali"
 slug: "cumali"
 date: 1941-02-24
-publication: "Vakit, 8304-8307"
+publication: ["Vakit"]
+publication_detay: "8304-8307"
 ---
-
 İzmir piyade kıt’alarından birine gelen acemi erat arasında biri vardı ki, cuma günü doğduğu için göbek adı “Cuma” idi. Arkadaşları mahlası ile “Cuma” ismini birleştirerek “Cuma Ali” derlerdi. Fakat sık sık telâffuz edilen bu isim günün birinde mânâsını tamamen kaybetmiş, “Cumali” gibi tek bir kelime, insan ve eşya adlarından hangisi olduğu belirsiz üç heceli kısa bir ad haline gelmişti. Birçokları da Cumali yerine “Cumaovalı” derlerdi ki, bu son isim de Cumali’nin doğduğu köyden galâttı.
 
 Cumali sevkıyattan geçerek kıtaya geldiği zaman başında yağlı bir kasket, üzerinde iki düğmeli yakasız bir mintan, bir kuşak, bir de yarı dizkapağına kadar çorap çekilmiş bir potur vardı. Hava ayazdı; Cumali, yakalanmış bir karaca gibi titriyordu. Bununla beraber geldiğinden hemen iki-üç saat sonra, kendini birdenbire değişmiş hissetti. Etekleri buruş buruş bir kaput, kulaklarına kadar bir şapka, boz rengi elbiseler, tozluk ve gıcır gıcır postallar içinde Cumali’nin parmakları taze bıyıklarına doğru yürüdü. Çocukluk ve ilk gençliğini bir yol başında bırakarak ilk erkeklik ve ilk yiğitliğe doğru bir adım attığını duydu. Omuzlarını silkti ve karaca titremesi âdetâ havanın ve rüzgârın içine karışarak kayboldu. Bir Cumali gitti; yerine başka bir Cumali geldi.

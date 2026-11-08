@@ -1,14 +1,14 @@
 {{ $path := .Get "section" | default "docs/duzyazi" }}
+{{ $title := .Get "title" | default "Köşe Yazıları" }}
 {{ $sectionPage := site.GetPage $path }}
 {{ $pages := $sectionPage.RegularPagesRecursive }}
 
+
+<h2 class="mt-1 text-2xl font-black tracking-tight text-neutral-900 dark:text-white">{{ $title }}</h2>
 <div class="terminal-window">
   <div class="terminal-header">
     <div class="window-controls">
-       <!-- <span class="control red"></span>
-      <span class="control yellow"></span>
-      <span class="control green"></span> -->
-      {{ partial "icon.html" "file-lines" }}
+      {{ partial "icon.html" "newspaper" }}
     </div>
     <div class="terminal-title">{{ $sectionPage.Title }} · {{ len $pages }} Yazı</div>
   </div>
@@ -30,7 +30,7 @@
 
   <div class="terminal-footer">
     <!-- Bölümün ana dizinine yönlendiren link -->
-    <a href="{{ $sectionPage.RelPermalink }}" class="browse-link">
+    <a href="{{ $sectionPage.RelPermalink }}" class="landing-rise mb-5 text-sm font-semibold uppercase tracking-[0.25em] text-primary-600 dark:text-primary-400">
       KÖŞE YAZILARINI OKU <span class="arrow">→</span>
     </a>
   </div>

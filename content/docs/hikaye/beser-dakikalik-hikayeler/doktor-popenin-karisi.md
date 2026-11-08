@@ -2,9 +2,9 @@
 title: "Doktor Popen’in Karısı"
 slug: "doktor-popenin-karisi"
 date: 1941-04-23
-publication: "Vakit, 8360, s. 3"
+publication: ["Vakit"]
+publication_detay: "8360, s. 3"
 ---
-
 Bir Alman Yahudisi olan Doktor Popen’in Büyükada’da işlettiği pansiyon birçok noktalardan eğlenceli bir pansiyondur.
 
 Bir defa Popen’in kızları sizi hiçbir vakit yalnız bırakmazlar. Üç bisikletten biri daima serbesttir. Küçük bir kotra denizde hazır durur. Gece gündüz.

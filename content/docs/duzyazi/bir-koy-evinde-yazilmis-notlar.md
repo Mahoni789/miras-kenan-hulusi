@@ -2,10 +2,10 @@
 title: "Bir Köy Evinde Yazılmış Notlar"
 slug: "bir-koy-evinde-yazilmis-notlar"
 date: 1932-03-17
-publication: "Mektep, sayı 12, s. 220, 232"
+publication: ["Mektep"]
+publication_detay: "sayı 12, s. 220, 232"
 tags: ["h. edip","p. safa","r. nuri","y. kadri","h. ziya","r. halit"]
 ---
-
 İki ay kadar evvel kısa bir istirahat için gelmiştim. Gürültüsüz, demişlerdi, kış bile olsa yine dinlenebilirsin. Hastalıktan yeni kalkıyordum; şehre yakın ve gürültüden uzak yerlere iyi bir sudan daha fazla ihtiyacım vardı. Kış için, fena geçti diyemem. Çok kereler hudutsuz, açık ve göz alabildiğine uzayan bir beyazlık hüküm sürüyordu; spor yapamıyordum, bununla beraber şimdiye kadar okumak fırsatını bulamadığım –ve bize ait birkaç müellif– beni yalnız bırakmadılar.
 
 Geldiğim güne yakın bir zamandan beri yolların üstünde uzayan ıslaklık ve duvarlardaki rutubetle beraber dışarıda soğuk bu sabah birdenbire kayboldu. Bahçe merdivenlerinin yanı başındaki beyaz çiçekli ağaç, komşunun kovanlarından fırlamış büyük bir arı ailesini besliyor, birbirini tamamlayan sesler içe içe nüfuz eden zincirli bir vızıltı ile mütemadiyen dönüyor, beyaz çiçekler kapalı kış günlerinin usaresini sarı böceklerin dilleri ucuna bırakıyorlar.

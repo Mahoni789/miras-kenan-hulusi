@@ -2,7 +2,8 @@
 title: "Tasfiyeciler 'Sokak'ta"
 slug: "tasfiyeciler-sokak-ta"
 date: 1940-03-15
-publication: "Vakit, sayı 7695, s. 2"
+publication: ["Vakit"]
+publication_detay: "sayı 7695, s. 2"
 tags: ["tasfiyeciler","türkçe","cavit yamaç"]
 authors:
   - "K"

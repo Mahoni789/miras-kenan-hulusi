@@ -2,12 +2,12 @@
 title: "Perde Altında Neler Hazırlanıyor?"
 slug: "perde-altinda-neler-hazirlaniyor"
 date: 1940-02-28
-publication: "Vakit, sayı 7949, s. 2"
+publication: ["Vakit"]
+publication_detay: "sayı 7949, s. 2"
 tags: ["taksim meydanı","vâ-Nû"]
 authors:
   - "imzasız"
 ---
-
 Amerikan Hariciye Nezareti müsteşarı Sumer Vels’in yalnız bitaraf memleketlerdeki umumi vaziyeti tetkik edeceği rivayeti doğru çıkmadı. Amerikalı diplomat iptida Roma’ya uğradı; oradan da Berlin’e gidecek. Daha şimdiden Berlin’de yeni bir sulh planının ortaya çıkacağı rivayetleri var. Herhalde perde altında bir şeyler hazırlanıyor demektir. Gecelerin gebe olduğu sözünü unutmamak lazımdır: hiç kimsenin inanmadığı bir sırada harp patladığı gibi hiçbir kimsenin beklemediği bir zamanda bir sulh güneşi doğabilir.
 
 ## Asrî Kehanet Örneği

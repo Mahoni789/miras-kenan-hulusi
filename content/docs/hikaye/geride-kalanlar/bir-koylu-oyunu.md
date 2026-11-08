@@ -2,11 +2,10 @@
 title: "Bir Köylü Oyunu"
 slug: "bir-koylu-oyunu"
 date: 1938-07-25
-publication: "Tan, 1163,"
+publication: ["Tan"]
+publication_detay: "1163"
 featureimage: "img/stories/birkoyluoyunu.jpeg"
-tags: ["tan"]
 ---
-
 Demirci köyle Efe köyü ne katırlarla aşılan dağlar, ne yaylılarla geçilen ovalar değil, Karaçay biribirinden ayırır. Azgın dere, hiç bir insan elinin çizemiyeceği kadar maharetle, iki dağ sırtı arasındaki köy topraklarını bölüp geçer; onun için de kuruldukları günden beri aralarında tarla kavgası işitilmemiş, kan akıtılmamıştır.
 
 Demirci köylüler için bütün Karaçay boyunda vakit vakit bazı hikâyeler anlatılır. Her ne kadar söylenen şeylerde Demirci köylülerin tabiatleri kötülenirse de, bu hikâyeler, yalnız Karaçay gençleştiği zaman köy delikanlılarının yaptıkları barışlar sırasında meydana çıkar, dağlardan gelen seller korur, kara çay, bütün bir yaz bir kere daha kımıldanmamak üzere yatağına yerleşince, her şey unutulur giderdi.

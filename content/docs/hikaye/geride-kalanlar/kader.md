@@ -2,9 +2,9 @@
 title: "Kader"
 slug: "kader"
 date: 1942-03-10
-publication: "Vakit, ,8662, s. 5"
+publication: ["Vakit"]
+publication_detay: "8662, s. 5"
 ---
-
 Dağdibi’nin sac bir sobayla ılınmış okuma odasında hiçbirimizin böyle bir fikri yoktu.
 
 Müslim Çavuş:

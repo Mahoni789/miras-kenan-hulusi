@@ -2,11 +2,11 @@
 title: "Beyazıt’ta Çınar Altı"
 slug: "beyazitta-cinar-alti"
 date: 1929-06-13
-publication: "Hayat, sayı 133, s. 8-9"
+publication: ["Hayat"]
+publication_detay: "sayı 133, s. 8-9"
 series: ["İstanbul’dan Parçalar"]
 series_order: 1
 ---
-
 Bu bir ağaç... Altında su bardaklarının gıcır gıcır yıkandığı, bir su çıngırağının uzak ve tehi akislerle yuvarlana yuvarlana döndüğü, sükûtun dinlendiği ve güvercinlerin büyük deniz ufuklarında kalmış son ışıkları da kumlu bir sahile heyamolayla sürükleyen balıkçı sandalları gibi “Hu...” çektikleri bir ağaç altı...
 
 Eğer, aynalar içinde sabahın nasıl açıldığını görmediniz ve eğer içinizde bir sevginin nekahetini duymadınızsa, bu ağaç altının ruhunuza vereceği lezzeti anlamayacaksınız.

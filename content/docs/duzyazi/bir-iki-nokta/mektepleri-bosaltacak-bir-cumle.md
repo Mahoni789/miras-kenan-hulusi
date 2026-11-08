@@ -2,12 +2,12 @@
 title: "Mektepleri Boşaltacak Bir Cümle"
 slug: "mektepleri-bosaltacak-bir-cumle"
 date: 1940-02-16
-publication: "Vakit, sayı ??, s. 2"
+publication: ["Vakit"]
+publication_detay: "sayı ??, s. 2"
 authors:
   - "imzasız"
 tags: ["eğitim"]
 ---
-
 Maarif Vekâleti mektep kaçakarını kahveden geri çevirmek için henüz bir ilaç keşfedememiş olacak ki, İstanbul’un bir başından bir başına kadar kahveler bu haylaz böceklerle dolu.
 
 Orada ne yaparlar, ne konuşurlar; bunu pek bilmiyoruz ama herhalde yediklerini has fırın çıkarıyor.

@@ -2,12 +2,12 @@
 title: "Denizin Aldığı Adam"
 slug: "denizin-aldigi-adam"
 date: 1928-07-01
-publication: "Meşale, 1, s. 12-14"
+publication: ["Meşale"]
+publication_detay: "1, s. 12-14"
 featureimage: "img/mesale.svg"
 heroStyle: background
 categories: ["eski yazı"]
 ---
-
 Haliç’in balıkçı iskelesinde bir yaz sabahı.
 
 Küçük, yassı ve toparlak sepetlerde, denizin verdiği şeyler acul hareketlerle dışarı alınıyordu. Karşıda, binaların süslü kutuları arasındaki Galata Kulesi zengin kağıtçı vitrinlerine konulmuş bir reklam kalemi.

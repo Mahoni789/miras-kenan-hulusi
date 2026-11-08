@@ -2,10 +2,10 @@
 title: "Bize Bir Edebiyat Bürosu Lâzım"
 slug: "bize-bir-edebiyat-burosu-lazim"
 date: 1931-12-31
-publication: "Mektep, sayı 3, s. 2"
+publication: ["Mektep"]
+publication_detay: "sayı 3, s. 2"
 tags: ["tanzimat"]
 ---
-
 Türk edebiyatında Tanzimatın sıralarından bugüne gelinceye kadar gösteremediğimiz yahut daima şikâyet ederek onu aradığımız ve bütün cehdimize rağmen hiçbir vakit meydana çıkaramadığımız bir şey var: Türk edebiyatında hususiyet yoktur.
 
 Bir örümceğin ağları kadar bütün kabiliyetleri idare merkezine doğru maharetle toplamakla beraber orada yutan ve şehir haricini ihmal eden saltanat, memleketin her tarafı için payitahtın hüküm ve zevkini mecbur kılıyordu. İşte bu cebirdir ki hemen her şeyimize olduğu gibi edebiyatımıza da feci bir akıbet hazırlamıştır.

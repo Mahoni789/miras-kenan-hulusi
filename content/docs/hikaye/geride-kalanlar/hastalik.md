@@ -2,9 +2,9 @@
 title: "Hastalık"
 slug: "hastalik"
 date: 1941-06-16
-publication: "Vakit, 8414, s. 5"
+publication: ["Vakit"]
+publication_detay: "8414, s. 5"
 ---
-
 Dört kişi, birinci sınıf yolculara ait sigara salonunda harbi konuşuyorlardı.
 
 Saat dörde çeyrek kala, denizin yarı dalgalanmaya başladığı bir sıradaydı. Baş istikamette güverte yolcularını eğlendiren köpek balıkları birer birer kayboluyordu ki yan koridorlarda, dizleri müşterek bir battaniyeyle örtülü, iki seyyar şezlonga arkası üstü uzanmış bir kadınla, bağa73 gözlüklü, kıranta bir erkek kapıdan içeri girdi ve bütün masalar boş olduğu halde, hangisinde oturacaklarında tereddüt ederek yavaş yavaş iki kapı arasına sıkışmış masalardan birine geçtiler. Erkek, bir kontvar74 arkasında mavi gözleriyle müşterisiz salonu bu örümcek ağı içine almışa benzeyen barmene parmağıyla hafif bir işaret etti:

@@ -2,9 +2,9 @@
 title: "Altı Sene Evvel"
 slug: "alti-sene-evvel"
 date: 1940-12-08
-publication: "Vakit, 8230, s. 5"
+publication: ["Vakit"]
+publication_detay: "8230, s. 5"
 ---
-
 1934 senesinde Kiev ve Harkov’a giden, oradan da Moskova ve Leningrad’a kadar uzanan; yani yeni Rusya’yı büyük merkezleri üzerinde gören bir arkadaşım anlattı.
 
 Dedi ki;

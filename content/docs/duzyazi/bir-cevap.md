@@ -2,11 +2,11 @@
 title: "Bir Cevap"
 slug: "bir-cevap"
 date: 1929-07-04
-publication: "Servetifünûn/Uyanış, sayı 1716-31, s. 498"
+publication: ["Servetifünûn/Uyanış"]
+publication_detay: "sayı 1716-31, s. 498"
 authors:
   - "K. H"
 ---
-
 Mensup olduğu cinsi Yeni Cami’de katırcılık eden hilkat ucubelerinden biri, gazete hayatına gündelik küfrü getiren ve boynuna taktığı lüks boyunbağı ve başına geçirdiği melon şapka altında seviyesi namalum mahalle kahvehanelerinde konuşulan bir şiveyle mütekellim bir gazetede hiç lüzumu yokken sataştı. Şu kadar var ki o gazetenin geçen nüshasında imzasını kirlettiği için bu nüshada çamaşır değiştirir gibi imza değiştirmek mecburiyetinde kalmıştır.
 
 Meşalecilere taarruz etti. Türkiye’de bir Türk şehri olan İstanbul, “Meşhedi”nin beldesi değildir ve topal eşekle kendisine karışılmaz. Eğer damarlarında bir irşat kabiliyeti vehmediyorsa Yeni Cami’nin merdivenleri boş duruyor. Orada verilecek olan vızlığa kanaat edemedikleri takdirde topal eşeklerini Meşhedi’nin memleketine sürsünler. Ve bilsinler ki biz rakip oldukları şeyin ne kuyruğunu çektik ve ne de kendilerini mahmuzladık. Bir insan şivesiyle ve nezaketle konuşmadıkları zaman Meşalecilerin kolektif yumruğunu kafalarında bulacaklarını, kafalarının selameti namına ihtar ediyorum.

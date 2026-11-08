@@ -2,10 +2,9 @@
 title: "Astragan Manto"
 slug: "astragan-manto"
 date: 1942-03-15
-publication: "Vakit, 8667, s. 5"
-tags: ["vakit"]
+publication: ["Vakit"]
+publication_detay: "8667, s. 5"
 ---
-
 Semra adı, galiba demode olacak ki Semuş derlerdi. Esmer bir işvebazdı.
 
 Sonbahar gelince bir kadın ne düşünebilirse onu düşündü. Rüzgâr yaprakları soymaya başlamış, şehir asfaltına ilk yağmur, ilk don düşmüştü. Hâlbuki üzerinde tiril tiril bir tayyör vardı. Genç bir kadın! Yirmi bir yaşında! Üstelik esmer...

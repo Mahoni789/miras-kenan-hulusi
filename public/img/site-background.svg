@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" preserveAspectRatio="xMidYMid slice">
+  <defs>
+    <!-- Arka plan -->
+    <radialGradient id="bg" cx="50%" cy="50%" r="75%">
+      <stop offset="0%" stop-color="#150a30"/>
+      <stop offset="60%" stop-color="#0a051c"/>
+      <stop offset="100%" stop-color="#040209"/>
+    </radialGradient>
+
+    <!-- Ana mor leke (sol üst) -->
+    <radialGradient id="purpleBlob1" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#8a4ee0" stop-opacity="0.9"/>
+      <stop offset="45%" stop-color="#5a2aa8" stop-opacity="0.4"/>
+      <stop offset="100%" stop-color="#5a2aa8" stop-opacity="0"/>
+    </radialGradient>
+
+    <!-- İkincil mor leke (sağ alt) -->
+    <radialGradient id="purpleBlob2" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#6d3ac0" stop-opacity="0.75"/>
+      <stop offset="50%" stop-color="#3f1e7a" stop-opacity="0.3"/>
+      <stop offset="100%" stop-color="#3f1e7a" stop-opacity="0"/>
+    </radialGradient>
+
+    <!-- Çizgi gradyanı -->
+    <linearGradient id="lineGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#b28fe8" stop-opacity="0"/>
+      <stop offset="30%" stop-color="#b28fe8" stop-opacity="0.5"/>
+      <stop offset="70%" stop-color="#b28fe8" stop-opacity="0.5"/>
+      <stop offset="100%" stop-color="#b28fe8" stop-opacity="0"/>
+    </linearGradient>
+
+    <filter id="softBlur" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="90"/>
+    </filter>
+<style>
+     /* Dalga animasyonları */
+      .wave {
+        transform-box: fill-box;
+        transform-origin: center;
+        will-change: transform;
+        animation-timing-function: ease-in-out;
+        animation-iteration-count: infinite;
+        opacity: 0.65;
+      }
+      .wave-1 { animation: floatA 6s  infinite; }
+      .wave-2 { animation: floatB 9s  infinite; animation-delay: -2s; }
+
+      @keyframes floatA {
+        0%, 100% { transform: translateY(0); }
+        50%      { transform: translateY(-22px); }
+      }
+      @keyframes floatB {
+        0%, 100% { transform: translateY(0); }
+        50%      { transform: translateY(18px); }
+      }
+
+      @media (prefers-reduced-motion: reduce) {
+        .wave { animation: none; }
+      }
+    </style>
+  </defs>
+
+  <rect width="1600" height="900" fill="url(#bg)"/>
+
+  <!-- Işık lekeleri -->
+  <ellipse cx="230" cy="180" rx="320" ry="280" fill="url(#purpleBlob1)" filter="url(#softBlur)"/>
+  <ellipse cx="1200" cy="720" rx="380" ry="300" fill="url(#purpleBlob2)" filter="url(#softBlur)"/>
+
+  <!-- Dalga çizgileri -->
+  <g fill="none" stroke="url(#lineGrad)" stroke-width="1.2">
+    <path class="wave wave-1" d="M -50 520 
+             C 200 480, 380 480, 520 560 
+             C 640 630, 760 700, 900 700
+             C 1100 700, 1250 600, 1400 480
+             C 1520 385, 1600 355, 1650 350"/>
+    <path class="wave wave-2" d="M -50 640 
+             C 180 610, 340 620, 460 660 
+             C 600 705, 760 760, 920 760
+             C 1120 760, 1280 660, 1420 560
+             C 1520 490, 1600 460, 1650 450"/>
+  </g>
+</svg>

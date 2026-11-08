@@ -2,9 +2,9 @@
 title: "Gümüş Yıl"
 slug: "gumus-yil"
 date: 1940-12-22
-publication: "Vakit, 8244, s. 5"
+publication: ["Vakit"]
+publication_detay: "8244, s. 5"
 ---
-
 Kasabanın canlı hayvanlar müteahhidi Ali Şahin,
 
 “Bak karıcığım,” dedi. “Bu kadarı da fazla… Biz kül oluyoruz çünki. Hafta geçmiyor ki bir düğün, bir yaş günü, bir merasim için hediye almış olmayalım. Dün gece hesap ettim: Bir yılda bu püften işlere ne vermişik biliyor musun? Tam 177 lira 56 kuruş… Olur masraf değil…”

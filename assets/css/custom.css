@@ -94,12 +94,12 @@ html.view-orig-only .icon-trans { display: inline-block; }
 
 .terminal-window {
   /* LIGHT MODE varsayılan değerleri */
-  --term-bg: rgb(var(--color-neutral-50));
+  --term-bg: rgb(var(--color-neutral));
   --term-header-bg: rgb(var(--color-neutral-100));
   --term-footer-bg: rgb(var(--color-neutral-100));
   --term-border: rgb(var(--color-neutral-200));
   --term-text: rgb(var(--color-neutral-500));
-  --term-text-muted: rgb(var(--color-neutral-500));
+  --term-text-muted: rgb(var(--color-neutral-400));
   --term-hover: rgb(var(--color-neutral-100));
   --term-scrollbar: #cbd0d6;
   --term-scrollbar-hover: #aab1b9;
@@ -127,7 +127,7 @@ html.dark .terminal-window {
   --term-header-bg: rgb(var(--color-neutral-700));
   --term-footer-bg: rgb(var(--color-neutral-800));
   --term-border: rgb(var(--color-neutral-900));
-  --term-text: rgb(var(--color-neutral-400));
+  --term-text: rgb(var(--color-neutral-300));
   --term-text-muted: rgb(var(--color-neutral-400));
   --term-hover: rgb(var(--color-neutral-700));
   --term-scrollbar: #3f444a;
@@ -141,7 +141,7 @@ html.dark .terminal-window {
 .window-controls {
   display: flex;
   gap: 8px;
-  margin-right: 16px;
+  margin-right: 8px;
 }
 
 /* Üst Bar */

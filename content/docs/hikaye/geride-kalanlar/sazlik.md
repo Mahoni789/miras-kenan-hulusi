@@ -2,9 +2,9 @@
 title: "Sazlık"
 slug: "sazlik"
 date: 1941-07-23
-publication: "23-24 Temmuz 1941, Vakit, 8451, s. 5"
+publication: ["Vakit"]
+publication_detay: "8451, s. 5"
 ---
-
 Sabahleyin göle yıkanmak üzere gelen çocuklar Sapancalı Ali Reis’i sazlık kenarında buldular.
 
 Göl boştu. Yeşil sazlık, daha sonra üzerine birer birer konacak yeşil böcekleri bekliyor gibiydi. Kenarda iri bir manda geceden kalan bir lekeye benziyordu. Hareketsizdi ve az geçince, güneş yahut sularla bu küçük karanlık da eriyecek, sazlık ve sular daha yalnız kalacaktı.

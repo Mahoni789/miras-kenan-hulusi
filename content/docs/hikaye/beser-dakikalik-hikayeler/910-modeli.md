@@ -2,9 +2,9 @@
 title: "910 Modeli"
 slug: "910-modeli"
 date: 1940-12-19
-publication: "Vakit, ,8230, s. 5"
+publication: ["Vakit"]
+publication_detay: "8230, s. 5"
 ---
-
 *Hikayeci Ömer Seyfettin’in hayatına dair hakikî bir vak’a*
 { .text-right }
 

@@ -2,10 +2,10 @@
 title: "Edebiyatımız Hakkında Ahmet Hâşim Bey Ne Diyor?"
 slug: "edebiyatimiz-hakkinda-ahmet-hasim-bey-ne-diyor"
 date: 1930-05-01
-publication: "Muhit, sayı 19, s. 8-9"
+publication: ["Muhit"]
+publication_detay: "sayı 19, s. 8-9"
 tags: ["edebiyat","y. kadri","f. rıfkı"]
 ---
-
 Bir Nisan günü, saat bir buçuk sularında... Belvü Apartmanı’na gitmek için kim bilir nasıl bir hisle, Moda Caddesi’ni değil Mühürdar taraflarını, bu uzun ve çapraşık yolu takip ediyorum.
 
 Panjurlarını henüz açmayan, ağaçları yapraksız ve kapıları sımsıkı kapalı köşkler, uzak ve gürültülü bir Garp şehrinin haricinde açılmış mukavvadan bir el işi sergisi gibi.

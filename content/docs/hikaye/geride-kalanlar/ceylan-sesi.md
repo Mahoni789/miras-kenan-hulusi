@@ -2,12 +2,12 @@
 title: "Ceylan Sesi"
 slug: "ceylan-sesi"
 date: 1928-08-01
-publication: "Meşale, 3, s. 10-13"
+publication: ["Meşale"]
+publication_detay: "3, s. 10-13"
 featureimage: "img/mesale.svg"
 heroStyle: background
 categories: ["tefrika", "eski yazı"]
 ---
-
 ## Mukaddeme
 
 Ve soyundu.

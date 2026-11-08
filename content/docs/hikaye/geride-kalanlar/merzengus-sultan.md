@@ -2,10 +2,9 @@
 title: "Merzengüş Sultan"
 slug: "merzengus-sultan"
 date: 1928-12-27
-publication: "Servet-i Fünûn Uyanış, cilt 65,1689-4, s. 62-64"
-tags: ["s. fünûn / uyanış"]
+publication: ["Servet-i Fünûn/Uyanış"]
+publication_detay: "1689-4, s. 62-64"
 ---
-
 {{< poem >}}
 Dağlar ağarırken konuşurduk tepelerde
 Sen nerde o fecrin ağaran dağları nerde?

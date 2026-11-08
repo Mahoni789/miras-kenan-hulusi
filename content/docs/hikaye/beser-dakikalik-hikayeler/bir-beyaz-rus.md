@@ -2,9 +2,9 @@
 title: "Bir Beyaz Rus"
 slug: "bir-beyaz-rus"
 date: 1941-01-15
-publication: "Vakit, 8264-65"
+publication: ["Vakit"]
+publication_detay: "8264-65"
 ---
-
 920’de İstanbul’a gelen Beyaz Ruslardan bazı tanıdıklarım vardır. Küçük ismi ile Çörni, annesinin çağırdığı isimle Çernoçka onlardan biridir.
 
 Çörni o zaman onyedi yaşında idi. Kırkbeşine kadar iyi bir kadın formunu muhafaza eden Ruslar için bu yaş ilk uyanıklığa güzel bir başlangıçtı. Bu itibarla Çernoçka da yeni açılmış bir fıskiyenin ilk hızı gibi idi. Tam uyanma çağındaydı.

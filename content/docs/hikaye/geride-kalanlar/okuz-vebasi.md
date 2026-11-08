@@ -2,9 +2,9 @@
 title: "Öküz Vebası"
 slug: "okuz-vebasi"
 date: 1937-11-28
-publication: "Kurun, 7144-1234, s. 6"
+publication: ["Kurun"]
+publication_detay: "7144-1234, s. 6"
 ---
-
 Dört sene evvel, Aydın’dan İzmit’e kadar, garp Anadolusunu müthiş bir öküz vebasıdır kırıp geçiriyordu. Hele Edremit’in Alyalaz köyünde muhtarın damızlık öküzlerini bir deri bir kemik etmiş, bir öldürmediği kalmıştı.
 
 Zaten, Alyalaz içerisinde muhtarın öküzlerinden kelli ayağı iler tutar hiçbir öküzde yoktu ya. Ne çilli Ayşeler, ne de gâvur Alilerin öküzleri çifte gelmez, ahırda yan yatıp keyfetmekten öte boynuzlarını bile kımıldatmazlardı. Ama muhtarınkiler... Koca bir tarlayı öğleye kadar silip geçirirler; yağmur işlemez balçık toprakları hamur edip bırakırlardı.

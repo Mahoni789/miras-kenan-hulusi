@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Istanbul on Miras: Kenan Hulusi</title>
+    <link>http://localhost:1313/tags/istanbul/</link>
+    <description>Recent content in Istanbul on Miras: Kenan Hulusi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>tr-TR</language>
+    <copyright>© 2026 Kenan Hulusi Koray</copyright>
+    <lastBuildDate>Thu, 28 Mar 1940 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/istanbul/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Eğlenmek İsteyen Halk İçin At Hazır</title>
+      <link>http://localhost:1313/docs/duzyazi/bir-iki-nokta/eglenmek-isteyen-halk-icin-at-hazir/</link>
+      <pubDate>Thu, 28 Mar 1940 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/duzyazi/bir-iki-nokta/eglenmek-isteyen-halk-icin-at-hazir/</guid>
+      <description>&lt;p&gt;Gardenbar yıkılırken birçoklarımız sinirlendik: İstanbul’un nezih bir eğlence yeri vardı; işte o da yıkılıyor, dedik. Hatta aramızdan bazıları bu eğlence yerinin kısa bir tarihini yazmaya kadar ileri gitti, teessüflerini söyledi.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Bir Şehrin İsmi</title>
+      <link>http://localhost:1313/docs/duzyazi/bir-iki-nokta/bir-sehrin-ismi/</link>
+      <pubDate>Wed, 13 Mar 1940 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/duzyazi/bir-iki-nokta/bir-sehrin-ismi/</guid>
+      <description>&lt;p&gt;Bazı şehirlerin coğrafyada müteaddit isimleri vardır. Mesela “İstanbul” da öyledir. Bir vakitler bütün dünya “Konstantiniyye” olarak tanıdığı gibi biz de ’İstanbul” kelimesini hususi konuşmalarımızda kullanır, devlet tahriratında “Dersaadet”, “Deraliyye” yahut “Asitane” diye zikrederdik.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Garip Bir İntikam</title>
+      <link>http://localhost:1313/docs/duzyazi/garip-bir-intikam/</link>
+      <pubDate>Fri, 05 Nov 1937 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/duzyazi/garip-bir-intikam/</guid>
+      <description>&lt;p&gt;On beş yirmi günden beri İstanbul’un sokaklarının yeni manzarasına bilmem dikkat ediyor musunuz? El arabalarının sokaklarımızla beraber gözlerimize de getirdiği bu yenilik kısa bir zaman daha geçecek olursa itiyatlarımızın hududu içerisine girmiş olacaktır ki, oturduğumuz bir pencere karşısında görmeye alıştığımız aynı manzaralar gibi, artık hayalimizi harekete getirmekten çok uzak kalmış demektir.&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

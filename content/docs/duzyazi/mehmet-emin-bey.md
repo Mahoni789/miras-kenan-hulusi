@@ -2,10 +2,10 @@
 title: "Mehmet Emin Bey"
 slug: "mehmet-emin-bey"
 date: 1929-07-11
-publication: "Servetifünûn/Uyanış, sayı 1717-32, s. 514"
+publication: ["Servetifünûn/Uyanış"]
+publication_detay: "sayı 1717-32, s. 514"
 tags: ["n. hikmet"]
 ---
-
 Resimli bir mecmuanın son çıkan temmuz nüshasında edebiyat putlarından birisini daha kırdılar. Bu, millî şair Mehmet Emin Bey’dir.
 
 Gazetelerden birinde millî şairin hüviyetini rencide eden satırlardan iğbirar duyan Darülfünun gençlerinin bu meseleyle meşgul olduğunu okuduk. Biz sadece şunu düşünüyoruz ki “Ben bir Türküm dinim cinsim uludur,” diyen mübarek adamla onu iptale kalkan satırların sahibi arasında edebi sahada hiçbir müşabehet yok mudur? Ve acaba Mehmet Emin Bey’in nazmı, Nâzım Hikmet’in nazmıyla alakadar değil mi? Arada geçen on beş yirmi sene “millî şair”in nazmına tabii tekâmülü vermiş ve bu tekâmül Nâzım Hikmet’in şiirlerinde görülmemiş midir? Kısaca şunu söylüyoruz: Mehmet Emin Bey şiirimizde neyse Nâzım Hikmet de odur.

@@ -60,12 +60,9 @@
     {{ $meta.Add "partials" (slice (partial "meta/edit.html" .)) }}
   {{ end }}
 
-    {{ if and (eq $scope "single") (.Params.downloadURL)}}
-      {{ $meta.Add "partials" (slice (partial "meta/download.html" .)) }}
+  {{ if and (eq $scope "single") (.Params.showReadMode)}}
+    {{ $meta.Add "partials" (slice (partial "meta/read-mode.html" .)) }}
   {{ end }}
-      {{ if and (eq $scope "single") (.Params.showReadMode)}}
-           {{ $meta.Add "partials" (slice (partial "meta/read-mode.html" .)) }}
-      {{ end }}
 
   {{ if and (eq $scope "single") (.Params.showZenMode | default (.Site.Params.article.showZenMode | default false)) }}
     {{ $meta.Add "partials" (slice (partial "meta/zen-mode.html" .)) }}
@@ -83,13 +80,25 @@
     {{ end }}
   </div>
 
-    {{ if and (eq $scope "single") (.Params.publication)}}
-<div class="flex flex-row flex-wrap items-center">
-      <span>
-  {{- .Params.publication | markdownify | emojify -}}
-</span>
-</div>
-  {{ end }}
+{{ $detay := default nil }}
+{{ if (.Params.publication_detay)}}
+{{ $detay = .Params.publication_detay }}
+ {{ end }}
+
+    <div class="flex flex-row flex-wrap items-center">
+      {{ range $taxonomy, $terms := .Site.Taxonomies }}
+        {{ if (eq $taxonomy "publication") }}
+          {{ if (gt (len ($context.GetTerms $taxonomy)) 0) }}
+            {{ range $i, $a := $context.GetTerms $taxonomy }}
+              <a href="{{ $a.RelPermalink }}" class="relative">{{ $a.LinkTitle }}</a>
+	{{ if $detay }}
+	  ,&nbsp;{{ $detay }}
+	{{ end }}
+            {{ end }}
+          {{ end }}
+        {{ end }}
+      {{ end }}
+    </div>
 
 
   {{ if .Params.showAuthorsBadges | default (.Site.Params.article.showAuthorsBadges | default false) }}
@@ -101,7 +110,7 @@
               {{ if not (eq $i 0) }}
                 ,&nbsp;
               {{ end }}
-              <a href="{{ $a.RelPermalink }}" class="relative">{{ $a.LinkTitle }}</a>
+              <a class="inline-flex items-center gap-2" href="{{ $a.RelPermalink }}" class="relative">{{ partial "icon.html" "signature" }} {{ $a.LinkTitle }}</a>
             {{ end }}
           {{ end }}
         {{ end }}
@@ -115,7 +124,7 @@
       {{ range $taxonomy, $terms := .Site.Taxonomies }}
         {{ if (gt (len ($context.GetTerms $taxonomy)) 0) }}
           {{ range $context.GetTerms $taxonomy }}
-            {{ if (or (eq $taxonomy "authors") (eq $taxonomy "series"))}}
+            {{ if (or (eq $taxonomy "authors") (eq $taxonomy "series") (eq $taxonomy "publication"))}}
               {{/* Ignore authors and series, since they are handled in other places */}}
               {{ continue }}
             {{ else if (eq $taxonomy "categories") }}

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors on Miras: Kenan Hulusi</title>
+    <link>http://localhost:1313/authors/</link>
+    <description>Recent content in Authors on Miras: Kenan Hulusi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>tr-TR</language>
+    <copyright>© 2026 Kenan Hulusi Koray</copyright>
+    <lastBuildDate>Sat, 04 May 1940 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/authors/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Kenan H</title>
+      <link>http://localhost:1313/authors/kenan-h/</link>
+      <pubDate>Sat, 04 May 1940 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/authors/kenan-h/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>İmzasız</title>
+      <link>http://localhost:1313/authors/imzas%C4%B1z/</link>
+      <pubDate>Thu, 02 May 1940 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/authors/imzas%C4%B1z/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>İsimsiz</title>
+      <link>http://localhost:1313/authors/isimsiz/</link>
+      <pubDate>Sat, 20 Apr 1940 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/authors/isimsiz/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>K</title>
+      <link>http://localhost:1313/authors/k/</link>
+      <pubDate>Thu, 28 Mar 1940 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/authors/k/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>K. H</title>
+      <link>http://localhost:1313/authors/k.-h/</link>
+      <pubDate>Wed, 13 Mar 1940 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/authors/k.-h/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

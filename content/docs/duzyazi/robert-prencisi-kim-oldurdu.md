@@ -2,13 +2,10 @@
 title: "Robert Prençisi Kim Öldürdü?"
 slug: "robert-prencisi-kim-oldurdu"
 date: 1937-09-20
-publication: "*Kurun*, 7074-1164, s. 2"
+publication: ["Kurun"]
+publication_detay: "7074-1164, s. 2"
 categories: ["k. tanıtım"]
-tags: ["reklam"]
-showViews: false
-showReadingTime: false
 ---
-
 Londra'da Haçinson basımevinin yeni çıkardığı bir roman, *Robert Prençisi Kim Öldürdü?* bir okuyucu kalabalığında şekil ve ru hun mukayeseli bir anketini yapmak için piyasaya sürülmediyse, bu garip kitabı yazan muharririn, hiç bir meslektaşı tarafından affedilmez bir cürüm işlediğine kaniim.
 
 Doğrudan doğruya hakikatin kendisini hedef tutan ve onu kendi maceralarımız içinde yaşadığımız dakikalar gibi bize vermek isteyen tâbi, düşündüğünü tatbikte şüphesiz ki muvaffak olmuştur: Daha ilk sahifelerinde, hayatını okuyacağınız insanın bir mektuba geçirilmiş el yazısı dikkatinizin kulaklarından tutarak sizi hakikate çekmek için hazır duruyor; bu el yazılarının diğer bir sahifede ve hakikî bir zarfın içinden çıkararak okuyacağınız bir başkasında da, sahibi tarafından bir yağmur altında gözden geçirildiğini anlatacak kadar kelimelerin üzerine düşmüş damlaların mürekkep silintilerini göreceksiniz.

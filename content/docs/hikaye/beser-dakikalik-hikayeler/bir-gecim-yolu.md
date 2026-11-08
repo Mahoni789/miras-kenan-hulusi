@@ -2,9 +2,9 @@
 title: "Bir Geçim Yolu"
 slug: "bir-gecim-yolu"
 date: 1940-12-10
-publication: "Vakit, 8232, s. 5"
+publication: ["Vakit"]
+publication_detay: "8232, s. 5"
 ---
-
 İzmir’in Alsancak İstasyonu’ndan öğlene doğru saat onda Aydın postası kalkar. Dört üçüncü, bir tane birinci, iki de ikinci mevkiden ibaret yedi vagonlu bir katar.
 
 Ben saat ona beş kala ikinci mevkie girdiğim zaman kompartıman bütün yükünü zaten almıştı. Kızılçullu’daki çoluk çocuk akımından sonra ise, büsbütün tıkıldık; hepimiz iç içe girdik.

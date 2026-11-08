@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sanat on Miras: Kenan Hulusi</title>
+    <link>http://localhost:1313/tags/sanat/</link>
+    <description>Recent content in Sanat on Miras: Kenan Hulusi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>tr-TR</language>
+    <copyright>© 2026 Kenan Hulusi Koray</copyright>
+    <lastBuildDate>Sun, 28 Apr 1940 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/sanat/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Yanlış Bir Nokta-i Nazar</title>
+      <link>http://localhost:1313/docs/duzyazi/bir-iki-nokta/yanlis-bir-nokta-i-nazar/</link>
+      <pubDate>Sun, 28 Apr 1940 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/duzyazi/bir-iki-nokta/yanlis-bir-nokta-i-nazar/</guid>
+      <description>&lt;p&gt;Dünkü &lt;em&gt;Akşam&lt;/em&gt; gazetesine yazdığı bir “Sohbet”te lafız sanatlarından bahseden Nurullah Ataç şöyle diyordu:&lt;/p&gt;&#xA;&lt;blockquote&gt;&lt;p&gt;Edebi zevkimizi bilhassa Frenkçe kitaplar okuyarak teşkil etmiş olan bizler, cinaslardan, mana ve lafız sanallarının hemen hiçbirinden hoşlanmaz; onları birer oyuncak, birer çocuk oyuncağı sayarız, hatta bayağı buluruz. Ben vaktiyle “Maceramız bizim ey dil dahi çok su götürür” mısrasını severdim fakat macera (mâ, cer) ile su götürmek arasında bir kelime oyunu olduğunu öğrendiğim gün ondan soğumuş, adeta nefret etmiştim&amp;hellip;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Çocuk Tiyatrosu</title>
+      <link>http://localhost:1313/docs/duzyazi/bir-iki-nokta/cocuk-tiyatrosu/</link>
+      <pubDate>Fri, 15 Mar 1940 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/duzyazi/bir-iki-nokta/cocuk-tiyatrosu/</guid>
+      <description>&lt;p&gt;Çocuk Esirgeme Kurumunun şimdiye kadar varlığından habersiz olduğumuz Çocuk Tiyatro komitesi birdenbire faaliyete geçti. Hattâ Karl Ebert’in de hazır bulunduğu bir imtihanla, tiyatroda rol alacak gençleri bile seçerek, alelâcele, bir Çocuk Tiyatrosu meydana getiriverdi.&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

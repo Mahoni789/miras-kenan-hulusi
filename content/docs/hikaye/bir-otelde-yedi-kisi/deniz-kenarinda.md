@@ -2,9 +2,9 @@
 title: "Deniz Kenarında"
 slug: "deniz-kenarinda"
 date: 1940-08-27
-publication: "Vakit, 8128-29"
+publication: ["Vakit"]
+publication_detay: "8128-29"
 ---
-
 Bu yaz, ne bir otel ne de bir pansiyonda oturmadım. Temmuz başlarına doğru alelacele edindiğim bir çadırı, bir gazino sahibiyle uyuşarak deniz minareleri, beyaz çakıllar ve ayakları tırmalayan yüz binlerce kumla dolu bir sahile yarım saat içinde kuruverdim.
 
 Yeni evimi bu ilk dakikalarda görmüş olsaydınız belki de arıların bal yapmak için kendi kendilerine icat ettikleri bir kovan yahut çocukların el işi mukavvalarından yaptıkları bir köşk, hatta bir garaj zannedebilirdiniz. Şunu demek istiyorum ki bütün bir yazı tavanı altında geçireceğim bu portatif ve bezden ev, içinde yatılacak bir meskenden başka her şeye benziyordu.

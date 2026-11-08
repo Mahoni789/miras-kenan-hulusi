@@ -1,12 +1,11 @@
 ---
-title: "Rubâb-ı Şikeste"
+title: "Rübâb-ı Şikeste"
 slug: "rubab-i-sikeste"
 date: 1927-09-22
-publication: "Servet-i Fünûn, cilt 62,1623-149, s.296-298"
+publication: ["Servet-i Fünûn"]
+publication_detay: "cilt 62,1623-149, s.296-298"
 featureimage: "img/serveti-funun.svg"
-tags: ["s. fünûn"]
 ---
-
 “Estella… Biliyor musun ama sen de ne kadar zalimsin…”
 
 “Swift”in sevgilisine benzediği için ona böyle diyorlardı: Estella…

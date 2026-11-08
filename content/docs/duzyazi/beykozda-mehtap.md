@@ -2,11 +2,11 @@
 title: "Beykoz’da Mehtap"
 slug: "beykozda-mehtap"
 date: 1929-12-09
-publication: "*Milliyet*, sayı 1374, s. 6"
+publication: ["Milliyet"]
+publication_detay: "sayı 1374, s. 6"
 series: ["İstanbul’dan Parçalar"]
 series_order: 3
 ---
-
 Bizden çok ötede, bu mesafelerin çok ilerisinde altın bir oluk var. Biz bu oluktan içiyoruz. İnce derisi iskeletine ve kaburgalarına yapışmış aç, susuz ve dişi bir köpek gibi çenelerimizi bu oluğa doğru kaldırmış, bu oluktan içiyoruz.
 
 Her şeyin, dağların ve denizlerin, hatta rüzgârın ve havanın bile gece yarısı aldığı bu açık vanilya renk içinde altın oluk içimize boşalıyor; biz onunla doluyoruz. Alelade zamanlarda cildimizle mevcudiyetini hissettiğimiz bu fani eşyayla artık alakamız kesiliyor. İçimizde riya ve haset kalmadı. Şimdi bir köpük kadar hafifiz; hafif ve berrak... Ve sanki biz büyük denizin sahillerinde “esrar-ı kâinata vakf-ı hayal” eden ziyadan birer mahlukuz.

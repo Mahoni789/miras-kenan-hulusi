@@ -2,9 +2,9 @@
 title: "Bir Çaycı Dükkânında"
 slug: "bir-cayci-dukkaninda"
 date: 1929-02-21
-publication: "Hayat, cilt 5,117, s. 259"
+publication: ["Hayat"]
+publication_detay: "cilt 5,117, s. 259"
 ---
-
 Donmuş bir kanarya kadar sapsarı ve olgun bir limonun buruk lezzetini taşıyan bu yer, bir “ser” midir acaba? Dışarıda rüzgâr –fağfur ve bulutlu bir sema fecrini andıran, büyük, yekpare, sisli, buharlı camlarda çırpınan rüzgâr– kanatları kopmuş bir kartal mıdır ki?
 
 İçerde boz rengi bir sükût var... Ve büyük ve yekpare ve sisli ve buharlı camların ayırdığı kaldırımlar üstünde bembeyaz bir kar...

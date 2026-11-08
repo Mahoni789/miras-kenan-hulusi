@@ -2,12 +2,12 @@
 title: "Meslek Ahlâkı"
 slug: "meslek-ahlaki"
 date: 1940-03-06
-publication: "Vakit, sayı ??, s. 2"
+publication: ["Vakit"]
+publication_detay: "sayı ??, s. 2"
 authors:
   - "imzasız"
 tags: ["afrodit","telif"]
 ---
-
 *Afrodit* tercümesinin aldığı beraet kararı temyizde olduğu bugünlerde başka başka mütercimler adına başka başka kitapçılar tarafından piyasaya yeni tabılarının dökülmek üzeredir, diyorlar.
 
 Meslek ahlâkının Ankara caddesinde bu kadar lâübali bir elle tutulacağına ihtimal vermek istemiyoruz; vakıa bu caddede bir kitabın biribiri ardınca dört beş tercümesini veren kitapçılar görülmemiş değildir. Ancak bir kere kâğıt bolluğunda, sonra daha değerli bir eser üzerinde yapılan bu israfa bile o kadar çok acınmıştı ki bunun bir de *Afrodit* gibi bir kitap için ve böyle bir kitabın da bu kadar derdini çekmiş ve nihayet bu kitabın hasılâtını Erzincan felâketzedelerine tahsis etmiş bir tabıa karşı yapılmasını gerçekten ayıp sayacağız.

@@ -2,7 +2,8 @@
 title: "Bir Nokta, Üç Fikir"
 slug: "bir-nokta-uc-fikir"
 date: 1940-03-08
-publication: "Vakit, sayı 7958, s. 2"
+publish: ["Vakit"]
+publication_detay: "sayı 7958, s. 2"
 tags: ["peyami safa","abidin daver","klasik kültür","tiyatro"]
 authors:
   - "imzasız"

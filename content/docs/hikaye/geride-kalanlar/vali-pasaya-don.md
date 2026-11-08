@@ -2,9 +2,9 @@
 title: "Vali Paşaya Don"
 slug: "vali-pasaya-don"
 date: 1942-03-11
-publication: "Vakit, 8663, s. 5"
+publication: ["Vakit"]
+publication_detay: "8663, s. 5"
 ---
-
 Yaylak köyünün muhtarı koltuğuna kıstırdığı bir donu, bir ağıl hayvanı gibi soğuktan burun buruna vermiş köylülerin ortasına fırlatarak:
 
 – Yarın kasabada pazar kuruluyor, dedi. İçinizde inmek isteyen var mı?

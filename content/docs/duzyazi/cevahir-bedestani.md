@@ -2,11 +2,11 @@
 title: "Cevahir Bedestanı"
 slug: "cevahir-bedestani"
 date: 1931-08-01
-publication: "Muhit, sayı 34, s. 20-21"
+publication: ["Muhit"]
+publication_detay: "sayı 34, s. 20-21"
 series: ["İstanbul’dan Parçalar"]
 series_order: 6
 ---
-
 Kapının dışarısında uzun kordonlu bir saat yarımı gösteriyordu, içeriye girdim.
 
 Gözlerim her nedense orta yerde çini bir soba aradılar. Kapısından girer girmez derhal yükselme hissini veren ve bir deve üstüne konmuş bir mahfeyi andıran bu yerde, çini bir sobanın eşyaya kızıllık verecek akislerini görmek istiyordum. Bana öyle geliyor ki bu eşya, bu kızıllığa maruz satıhlarında renklerini biraz daha açık gösterecek ve biz o solgun renkle bu alev arasında maddeden renge doğru istihale edeceğiz.

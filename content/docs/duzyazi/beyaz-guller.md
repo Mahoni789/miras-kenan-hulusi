@@ -2,9 +2,9 @@
 title: "Beyaz Güller"
 slug: "beyaz-guller"
 date: 1929-05-01
-publication: "Muhit, sayı 7, s. 29-30"
+publication: ["Muhit"]
+publication_detay: "sayı 7, s. 29-30"
 ---
-
 Beyaz gülleriniz var mı bana vermek için? Ama sarı olmasınlar. Kırmızı da hiç... Beyaz, bembeyaz olsunlar.
 
 Eğer bahçenizde beyaz gülleriniz varsa ilk açan beyaz güllerden ilk açtığı sabah bana bir demet yapınız ve açık penceremden içeriye atınız onları...

@@ -2,9 +2,9 @@
 title: "Yolda"
 slug: "yolda"
 date: 1941-01-21
-publication: "Vakit, 8270, s. 5"
+publication: ["Vakit"]
+publication_detay: "8270, s. 5"
 ---
-
 940 martı ile haziran arasında Avrupa’dan dönen talebelerin anlattığı birçok hikâyeler vardır. İlk defa uğultuları bombanın nasıl bir şey olduğunu onlardan işittiğim gibi, insanı bilinmeyen bir mevcut olarak tarif etmeğe çalışan bu talebelerden biri de şunu anlattı:
 
 “Perugia Roma’ya üç saat mesafede İtalyanca dil kursları bulunan bir müessesedir; dedi. İtalyan dilinin en iyi mütehassısları, fonetik âlimleri ve yabana bir dili öğretmek hususunda tanınmış birtakım profesörler burada ders verir. Onun için de Perugia dünyanın dörtbir tarafından İtalyanca öğrenmek için gelen yüzlerce talebe ile dolar taşar.”

@@ -2,9 +2,9 @@
 title: "Güneşten Kaçan Köy"
 slug: "gunesten-kacan-koy"
 date: 1941-04-03
-publication: "Vakit, 8340, s. 5"
+publication: ["Vakit"]
+publication_detay: "8340, s. 5"
 ---
-
 Eski valilerden bir aile dostum,
 
 “Siz,” dedi; “birçok hikâyeler yazıyorsunuz. Bunlardan birçoğunda hakikî vatandaş tiplerini aradığınız belli. Fakat ben şunu sorayım size: Bir "*ağa*"yı bana tarif eder misiniz?”

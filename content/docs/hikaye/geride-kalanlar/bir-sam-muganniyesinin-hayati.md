@@ -2,12 +2,12 @@
 title: "Bir Şam Muğanniyesinin Hayatı"
 slug: "bir-sam-muganniyesinin-hayatı"
 date: 1932-02-01
-publication: "Mektep, 7, s. 9, 12-14"
+publication: ["Mektep"]
+publication_detay: "7, s. 9, 12-14"
 showTableOfContents: false
 categories: ["eski yazı"] 
-tags: ["s. fünûn","mektep","haber: a. postası","kurun"]
+tags: ["s. fünûn","haber: a. postası","kurun"]
 ---
-
 ### I
 
 Şehriyarın “Zxxx” beldesini teşrif ettiği bir gündü. Kadınlar ıtır sürünmüş, çocuklar boncuk takınmış, erkekler sakallarını taramıştı. Beyaz harmanileri, üstlerine güneş vurmuş çadırlar gibi parıl parıldılar.

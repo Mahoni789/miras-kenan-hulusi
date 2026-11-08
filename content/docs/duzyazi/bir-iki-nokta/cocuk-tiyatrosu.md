@@ -2,12 +2,12 @@
 title: "Çocuk Tiyatrosu"
 slug: "cocuk-tiyatrosu"
 date: 1940-03-15
-publication: "Vakit, sayı ??, s. 2"
+publication: ["Vakit"]
+publication_detay: "sayı ??, s. 2"
 authors:
   - "imzasız"
 tags: ["tiyatro","sanat"]
 ---
-
 Çocuk Esirgeme Kurumunun şimdiye kadar varlığından habersiz olduğumuz Çocuk Tiyatro komitesi birdenbire faaliyete geçti. Hattâ Karl Ebert’in de hazır bulunduğu bir imtihanla, tiyatroda rol alacak gençleri bile seçerek, alelâcele, bir Çocuk Tiyatrosu meydana getiriverdi.
 
 Esirgeme Kurumunun Çocuk Tiyatrosuna ait olan komite, bir Yeniçeri devşirmesi hareketiyle, şuradan buradan topladığı bu heveskârlarda, nasıl bir liyakat aradı; bilinemez. Bir kulak ajansından bize gelen haberlere göre, bu sanat figüranlarının tahsil dereceleri arasında, ilk mekteple lise arasındaki fark kadar, kolayca doldurulamıyacak bir boşluk da varmış.

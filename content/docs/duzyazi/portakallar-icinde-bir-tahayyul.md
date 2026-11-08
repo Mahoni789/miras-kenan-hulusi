@@ -2,9 +2,9 @@
 title: "Portakallar İçinde Bir Tahayyül"
 slug: "portakallar-icinde-bir-tahayyul"
 date: 1929-03-28
-publication: "Hayat, sayı 122, s. 359"
+publication: ["Hayat"]
+publication_detay: "sayı 122, s. 359"
 ---
-
 Odanın duvarları kıpkırmızı bir kâğıtla kaplı... Ve tavanında bir beyaz fanus var. Odam, ince dilimler arasındaki elyafı damla damla erimiş, posası tamamiyle çekilmiş, henüz donmaya yüz tutan şeffaf usaresi, içinde bir ışıkla tutuşmuş kırmızı bir portakal sanki...
 
 Biliyorum, dışarıda gün, yaz vakitlerinin ağdalı sıcaklığı, ağustos gecelerinin ılık rehaveti içinde değil... Şimdi bahçemin karlı, sakin ve ketum yollarında, mermer “sebu”lar içinde beyaz zambaklar gibi açan kış mehtapları var...

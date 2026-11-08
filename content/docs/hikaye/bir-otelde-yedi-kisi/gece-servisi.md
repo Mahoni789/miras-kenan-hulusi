@@ -2,9 +2,9 @@
 title: "Gece Servisi"
 slug: "gece-servisi"
 date: 1940-10-12
-publication: "Vakit, 8174-75"
+publication: ["Vakit"]
+publication_detay: "8174-75"
 ---
-
 Akşamüstleri, saat beş altı sularına doğru, bir pastanede sıcak bir çay yahut bir tabak dolusu dondurma ve küçük bir iki pasta yemek daima iyi olur. Şundan dolayı ki, akşam yemeğine bir hazırlık yaptığınız gibi, uğramayı itiyat edindiğiniz pastane birinci sınıfsa size hizmet gören beyaz prostelalı87 matmazellerle hafif tertip ahbaplık da etmiş olursunuz. “Bunun ne faydaları var?” demeyin! Birçok faydaları vardır ki derhâl görmeseniz bile bir tomurcuktan koca bir gül çıkar gibi kendini yavaş yavaş belli eder.
 
 Bizim pastanelerimizde bu çeşit çalışanlardan ekserisi Rus ve Polonyalıdır. Onların nasıl gelip yerleştiklerini burada anlatacak değilim. Yirmi sene evvel Rus hicretinde açlık ve ölüm tehlikesini atlatarak bize kadar geldikleri vakit, yapacak en iyi iş olmak üzere bunu buldular. Bir de unutuyordum: Plaj modasını icat ettiler ve eroin kullanmayı öğrettiler. Pastanelerdeki teşkilatları da o kadar mükemmel oldu ki aradan seneler geçtiği hâlde bu teşkilatın içine mesela ne bir Alman kadını ne de bir Fransız ve İngiliz matmazeli giremedi. Sanki pastane servisinde yalnız Beyaz Rus kadınları ile Varşova dilberleri mütehassısmış gibi nereye giderseniz onlara rast gelirsiniz!

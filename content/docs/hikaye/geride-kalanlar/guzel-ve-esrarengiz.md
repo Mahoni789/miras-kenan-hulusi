@@ -2,12 +2,11 @@
 title: "Güzel ve Esrarengiz"
 slug: "guzel-ve-esrarengiz"
 date: 1928-08-30
-publication: "Servet-i Fünûn, cilt 64,1669-195, s. 250-251"
+publication: ["Servet-i Fünûn"]
+publication_detay: "cilt 64,1669-195, s. 250-251"
 featureimage: "img/serveti-funun.svg"
 categories: ["eski yazı"]
-tags: ["s. fünûn"]
 ---
-
 {{< svg name="guzel-esrarengiz.svg" >}}
 
 Onu ben öldürdüm.

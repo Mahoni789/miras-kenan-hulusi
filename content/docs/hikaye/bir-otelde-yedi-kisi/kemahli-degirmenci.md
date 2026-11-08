@@ -2,10 +2,10 @@
 title: "Kemahlı Değirmenci"
 slug: "kemahli-degirmenci"
 date: 1940-09-03
-publication: "Vakit, 8135-36"
+publication: ["Vakit"]
+publication_detay: "8135-36"
 featureimage: "img/leke.jpeg"
 ---
-
 Geçen yaz İmralı’yı ziyarete giden gazeteciler arasında ben de vardım. Yemekten sonra, kendimize göre hepimiz ayrı ayrı birer mevzu bulabilmek için öteye beriye dağıldık.
 
 Başka bir hikâyede de anlattığım gibi İmralı, insanlardan tecrit edilmiş küçük bir kampa benzer. Adanın bir mil açığına kadar hatta balıkçıların bile girmesi yasak edilmiştir. Bununla beraber, sıcak bir öğle üzeri, yasağı dinlemeyen aç martılar adanın küçük kayalarına beyaz birer alev hâlinde konup kalkıyor; sonra üçü dördü birden, tıpkı bir duman gibi süzülerek ufka doğru uzaklaşmaya çalışıyorlar fakat dönüp dolaşıp tekrar geri gelmekten başka çare bulamıyorlardı.

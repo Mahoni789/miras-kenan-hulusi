@@ -2,10 +2,9 @@
 title: "Milyarder Mak Kinley’in Halıları"
 slug: "milyarder-mak-kinleyin-halilari"
 date: 1934-02-01
-publication: "Yeni Türk Mecmuası, cilt 1, 18"
-tags: ["yeni türk mecmuası"]
+publication: ["Yeni Türk Mecmuası"]
+publication_detay: "cilt 1, 18"
 ---
-
 Amerikalı milyarder Mak Kinley’e hiçbir tercümanın elinden gelmeyecek kadar kolaylıkla nüfuz etmiştim.
 
 Yanında sarı başlı, akik bir baston gibi taşıdığı karısından çok memnun gözüküyordu. İstanbul’a ayak basar basmaz:

@@ -2,11 +2,12 @@
 title: "Hacı Nesip"
 slug: "haci-nesip"
 date: 1932-03-17
-publication: "Mektep, cilt 1,12, s. 229-232"
+publication: ["Mektep"]
+publication_detay: "cilt 1,12, s. 229-232"
 showTableOfContents: false
-tags: ["mektep","tefrika"]
+tags: ["tefrika"]
+featureimage: "img/stories/05.jpg"
 ---
-
 ## I
 
 Vilayet konağının dış kapısındaki jandarma nöbetçileri:

@@ -2,9 +2,9 @@
 title: "Bir Garip Adam"
 slug: "bir-garip-adam"
 date: 1940-09-01
-publication: "Vakit, 8133-34"
+publication: ["Vakit"]
+publication_detay: "8133-34"
 ---
-
 Tokatlı Yusuf, garip bir adamdı. Bir çingene karısı, ölümünün bir ağaçtan olacağını söyledikten sonra Yusuf daha garip oldu. O günden beri ne bir ağaç altında oturdu ne bir yaprak gölgesinde dinlendi. Bu yüzden de aç ve işsiz kaldı.
 
 Bir öğle üzeriydi. Üç günden beri sığındığı yerden ilk defa çıkıyordu. İştahsızdı. Ağaçların yıldırım yemiş gibi köklerinden sökülerek üzerine kapandığını hisseden Yusuf, kafasında mütemadiyen dalların kımıldandığını duyuyor, bir çingene karısı:

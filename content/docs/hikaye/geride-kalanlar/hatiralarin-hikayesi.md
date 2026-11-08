@@ -2,12 +2,11 @@
 title: "Hatıraların Hikayesi"
 slug: "hatiralarin-hikayesi"
 date: 1927-11-10
-publication: "Servet-i Fünûn, cilt 62,1630-156, s. 414-415"
+publication: ["Servet-i Fünûn"]
+publication_detay: "cilt 62,1630-156, s. 414-415"
 featureimage: "img/serveti-funun.svg"
 categories: ["eski yazı"]
-tags: ["s. fünûn"]
 ---
-
 Sevgili “F.”ye
 { .text-right}
 

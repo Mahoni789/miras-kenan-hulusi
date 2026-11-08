@@ -2,7 +2,8 @@
 title: "Kavaklardan Karadeniz"
 slug: "kavaklardan-karadeniz"
 date: 1929-07-11
-publication: "İçtihat, cilt 12 sayı 277-1, s. 7-8"
+publication: ["İçtihat"]
+publication_detay: "cilt 12 sayı 277-1, s. 7-8"
 series: ["İstanbul’dan Parçalar"]
 series_order: 2
 ---

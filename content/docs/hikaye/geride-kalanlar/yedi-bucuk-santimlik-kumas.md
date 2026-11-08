@@ -2,10 +2,9 @@
 title: "Yedi Buçuk Santimlik Kumaş"
 slug: "yedi-bucuk-santimlik-kumas"
 date: 1929-07-04
-publication: "Servet-i Fünûn Uyanış, cilt 66,1716-31, s. 496-497"
-tags: ["s. fünûn / uyanış"]
+publication: ["Servet-i Fünûn/Uyanış"]
+publication_detay: "1716-31, s. 496-497"
 ---
-
 Duy ve dinle:
 
 İşte ben, hayatında beraber yaşadığın ve yaşayacağın insanların en namussuzlarından daha namussuzum. Tanıdıklarının ve tanıyacaklarının en âdilerinden daha âdi, en fenalarından daha fena ve ey, izzeti nefsimi, haysiyetimi, namusumu, şerefimi yetmiş yedi yerinden yetmiş yedi kere yamalı bir zaniye bohçası zanneden kaltak, ben, dünyada tasavvur edebileceğin en kahpe erkeklerden daha kahpe bir erkeğim.

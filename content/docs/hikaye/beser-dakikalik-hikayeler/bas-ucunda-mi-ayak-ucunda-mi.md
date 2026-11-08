@@ -2,9 +2,9 @@
 title: "Baş Ucunda mı Ayak Ucunda mı"
 slug: "bas-ucunda-mi-ayak-ucunda-mi"
 date: 1941-04-21
-publication: "Vakit, 8358, s. 5"
+publication: ["Vakit"]
+publication_detay: "8358, s. 5"
 ---
-
 Elli yaşından sonra otuz sene daha yaşamanın sırını şüphesiz ki tıp tahsil edenler bilecektir. Amerikalı Profesör Gotmur’un çok yaşamanın esrarına dair neşrettiği bir kitap da bu hususta enteresan, yahut faydalı olabilir. Fakat Urla’nın Denizli köyünden Hacı oğlu Ahmet’in otuz sene daha yaşamasına ne dersiniz?
 
 Bunu dinliyenlerden biri:

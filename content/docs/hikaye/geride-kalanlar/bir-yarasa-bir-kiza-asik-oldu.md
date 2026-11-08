@@ -2,10 +2,10 @@
 title: "Bir Yarasa Bir Kıza Âşık Oldu"
 slug: "bir-yarasa-bir-kiza-asik-oldu"
 date: 1935-08-26
-publication: "Haber: Akşam Postası, 26 Ağustos - 4 Eylül 1935 (11 tefrika)"
-tags: ["haber: a. postası","tefrika"]
+publication: ["Haber: Akşam Postası"]
+publication_detay: "11 tefrika"
+tags: ["tefrika"]
 ---
-
 {{< svg name="yarasa.svg">}}
 
 Bir yaz sonunda birdenbire fena bir vaziyete düştüm.

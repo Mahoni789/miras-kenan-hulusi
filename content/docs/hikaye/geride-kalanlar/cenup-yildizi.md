@@ -2,9 +2,11 @@
 title: "Cenup Yıldızı"
 slug: "cenup-yildizi"
 date: 1934-03-01
-publication: "Bütün, 1, s. 11-13"
+publication: ["Bütün"]
+publication_detay: "1, s. 11-13"
 showTableOfContents: false
-tags: ["milliyet","bütün"]
+tags: ["milliyet"]
+featureimage: "img/stories/02.jpg"
 ---
 {{< alert >}}
 *Milliyet* gazetesinde “Yıldızlara Koşan Süvariler” adıyla yayınlanmıştır (16 Aralık 1929, s. 6).

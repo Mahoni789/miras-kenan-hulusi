@@ -2,9 +2,9 @@
 title: "Zorla Hastalık"
 slug: "zorla-hastalik"
 date: 1941-02-03
-publication: "Vakit, 8283, s. 5"
+publication: ["Vakit"]
+publication_detay: "8283, s. 5"
 ---
-
 *Hikayeci Ömer Seyfeddin’in hayatına dair diğer hakikî bir vak’a*
 { .text-right }
 

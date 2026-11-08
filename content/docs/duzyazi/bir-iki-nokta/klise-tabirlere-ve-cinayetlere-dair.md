@@ -2,12 +2,12 @@
 title: "Klişe Tabirlere ve Cinayetlere Dair"
 slug: "klise-tabirlere-ve-cinayetlere-dair"
 date: 1940-02-09
-publication: "Vakit, sayı 7930, s. 2"
+publication: ["Vakit"]
+publication_detay: "sayı 7930, s. 2"
 authors:
   - "K. H"
 tags: ["Şirolog","aşk"]
 ---
-
 Muayyen hastalıklar için muayyen reçeteler ve ilaçlar vardır. Bizi etrafımıza bağlayan birçok işlerimiz de muayyen kalıplar içinde görülür. Bir alacak davasında müvekkilini müdafaa eden avukatın yeni bir söz konuştuğu işitilmediği gibi, hâkim de hükmünü elindeki terazinin kanunla ayarlanmış ibresine bakarak verir ve natuk bir hocanın talakatini kitap sayfalarındaki hadiselerin genişlik derecesini çivileyip bırakır.
 
 Şimdi de gazete sekreterlerinin bu teamüle bir yenisini ilave ettiğini görüyoruz: Muayyen hadiseleri okuyucularına klişe birtakım tabirlerle nakletmek.

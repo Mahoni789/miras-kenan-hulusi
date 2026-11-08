@@ -2,10 +2,10 @@
 title: "Dayımın Evi"
 slug: "dayimin-evi"
 date: 1932-01-21
-publication: "*Mektep*, sayı 6, s. 8"
+publication: ["Mektep"]
+publication_detay: "sayı 6, s. 8"
 categories: ["anı"]
 ---
-
 Akbaba’ya giden yolun hemen baş tarafında üstü teneke bir çatı ile örtülü küçük bir kulübe vardır; yaz ve kış ne vakit geçerseniz kapısını arkaya kadar daima açık görürsünüz. Demir mandal hiçbir vakit tutmadığı için ziyaretçiler onu kapamak itiyadında bulunmazlar.
 
 Bu açık kapının içeriye doğru taş basamağını atladıktan sonra bahçeye açılan medhalin sağ tarafında yarıya kadar inmiş isli perdesiyle ocak ve tuğlaları, medhalin nihayetinde küçük bahçeyi, etrafındaki çiti, saklambaç oynadığımız nimetle beraber iki ev aşarı bize en yakın, en iyi ve en dost bir komşunun kızıydı. İçinde saklandığımız samanlığa onu nasıl yatırır, sarı çöplerin üstüne doğru nasıl yuvarlar, bütün vücudunu baştan aşağı kaşıntıya veren bu şeyle gözlerimin içine baka baka, omuzlarını kıvıra kıvıra yalvarırken:

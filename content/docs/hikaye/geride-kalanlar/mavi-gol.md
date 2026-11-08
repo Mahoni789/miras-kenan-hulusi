@@ -2,11 +2,10 @@
 title: "Mavi Göl"
 slug: "mavi-gol"
 date: 1930-01-20
-publication: "Milliyet, s. 6"
+publication: ["Milliyet"]
+publication_detay: "s. 6"
 showTableOfContents: false
-tags: ["milliyet"]
 ---
-
 ## 1
 
 Gemicilerin Mavi Göl ismini verdikleri büyük ve dalgaları sıcak denizin şark ucunda bir gece bir kız doğdu.

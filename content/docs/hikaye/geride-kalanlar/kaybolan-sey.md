@@ -2,10 +2,10 @@
 title: "Kaybolan Şey"
 slug: "kaybolan-sey"
 date: 1929-05-02
-publication: "Servet-i Fünûn Uyanış, cilt 65,1707-22, s. 346-347, 351"
-tags: ["s. fünûn / uyanış"]
+publication: ["Servet-i Fünûn/Uyanış"]
+publication_detay: "1707-22, s. 346-347, 351"
+featureimage: "img/stories/03.jpg"
 ---
-
 Kaybolan Şey
 
 Akşam üstü, odasına geldiği zaman, her şeyi nasıl bırakdıysa öyle buldu:

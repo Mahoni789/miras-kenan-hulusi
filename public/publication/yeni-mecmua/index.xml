@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yeni Mecmua on Miras: Kenan Hulusi</title>
+    <link>http://localhost:1313/publication/yeni-mecmua/</link>
+    <description>Recent content in Yeni Mecmua on Miras: Kenan Hulusi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>tr-TR</language>
+    <copyright>© 2026 Kenan Hulusi Koray</copyright>
+    <lastBuildDate>Sat, 06 Jun 1942 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/publication/yeni-mecmua/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Hasogev’in Karısı</title>
+      <link>http://localhost:1313/docs/hikaye/geride-kalanlar/hasogevin-karisi/</link>
+      <pubDate>Sat, 06 Jun 1942 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/hikaye/geride-kalanlar/hasogevin-karisi/</guid>
+      <description>&lt;p&gt;Hareketin ilk gününden beri en büyük hedef Hasogev’di! Hasogev bir ormanda en büyük bir ağaç gibi aranıyordu. Fakat orman o kadar sıktı ki, diğer bütün ağaçların yaprakları onu kapamıştı.&lt;/p&gt;&#xA;&lt;p&gt;Hasogev Demenanlı aşiretindendi. Rehber:&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/hikaye/geride-kalanlar/hasogevin-karisi/featured.jpeg" />
+    </item>
+    
+  </channel>
+</rss>

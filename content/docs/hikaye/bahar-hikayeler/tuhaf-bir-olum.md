@@ -2,11 +2,10 @@
 title: "Tuhaf Bir Ölüm"
 slug: "tuhaf-bir-olum"
 date: 1938-08-05
-publication: "Tan, 1174"
+publication: ["Tan"]
+publication_detay: "1174"
 featureimage: "img/stories/tuhaf.jpeg"
-tags: ["tan"]
 ---
-
 Yedi sene kadar evvel Sivas Memleket Hastanesinde garip bir hadise oldu. Civar köylerden tedavi için gelen ağır hastalara kan vermekle tanınmış Çaycumalı Hüseyin isminde biri, tahmin edildiğine göre bir gece yarısı, bilinmeyen bir sebepten başını alıp savuştu gitti ve aşağı yukarı bir hafta kadar sonra iki jandarma çavuşu, Çaycumalı’nın cesedini Sazlıdere kenarında bulup getirdiler.
 
 Hadisenin hakikatini merak edenler bugün bile Sivas Memleket Hastanesindeki raporların suretini pekâlâ öğrenebilir. Cesette ne bir kaza ne de herhangi bir cinayete delalet edecek hiçbir emare yoktu. Sadece, jandarmaların ifadesine bakılırsa Çaycumalı’nın yanına ve herhâlde oraya gelip yıkıldıktan sonra uzun bir zaman geçmesine rağmen tek bir hayvan bile yaklaşmamıştı. Jandarma çavuşları, cesedin kurtlanmayışındaki sırrı Hüseyin’in henüz ölmediğinde buluyorlar ve etrafında döne döne dolaşan bir köpeği bu iddialarına şahit diye gösteriyorlardı. Hatta iki jandarma çavuşu daha ileriye giderek Çaycumalı’nın pek de ölecek insanlardan olmadığını, zaten Sazlıdere kıyısına hayvanları sürdükleri zaman cesedin garip bir kımıldama içinde birtakım hareketler yaptığını ilave ediyorlardı.

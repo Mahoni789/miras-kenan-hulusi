@@ -2,9 +2,9 @@
 title: "Belki Bir İllüzyon"
 slug: "belki-bir-illuzyon"
 date: 1941-02-07
-publication: "Vakit, 8287-88"
+publication: ["Vakit"]
+publication_detay: "8287-88"
 ---
-
 İstasyonla Yürük köyü arasında posta vazifesini yapan memurlardan biri, yirmiyedi yaşında bir delikanlı olan Hüseyin Tanrıbilir, vazifeye çıktıktan oniki saat geçtiği hâlde ortada yoktu.
 
 Yürük köyü istasyondan bisiklet yahut at sırtında üç saat; yaya ise yedi saatti. Posta, sabahları sekizde yola çıkar; öğleye kadar tevzi işini bitirir; öğleden sonra yarı patika, yarı taşlı bir şoseden yavaş yavaş, ikindiye doğru istasyonda olurdu.

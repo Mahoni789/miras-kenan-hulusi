@@ -2,9 +2,9 @@
 title: "Burmalı Apulet"
 slug: "burmali-apulet"
 date: 1940-10-04
-publication: "Vakit, 8166-67"
+publication: ["Vakit"]
+publication_detay: "8166-67"
 ---
-
 Flander’deki harbi konuşuyorduk. İçimizden biri eski silah arkadaşlarımızı övdü. Bir diğeri dört senelik büyük bir harpte bizi tanımadıklarını söyledi. Bütün mesele teknik ve insan kudretinde toplanıyordu. Bu kudreti daha vuzuhla76 ifadeye kalkan biri de oldu. Bizim mücadelemizi “Ruhtan yapılmış bir memleketin mücadelesi!” diye tasvir etti. Ben de şu hikâyeyi anlattım:
 
 Gelibolu’da İngiliz ve Yeni Zelanda kuvvetlerine karşı dövüştüğümüz günlerdi. Bir defa cephanesizdik ve iki üç tepede bir iki ağır top yerleri değiştirilerek bir ağaç altı yahut bir su menzilinden ara sıra yalancı bir ateşe geçiyordu. Sonra bütün bir gün, harp mıntıkalarından başka hiçbir tarafta tesadüf edilmeyen ve kulaklarınızın alışık olduğu işitme hassasından77 daha fazla içimizdeki ses alma uzuvlarını sağır eden müthiş bir sükût!.. Âdeta tabyalar düşmüş ve bütün topraklar ıskat edilmiş gibi ne tek bir müfreze ne tek bir asker!

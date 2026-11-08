@@ -2,10 +2,11 @@
 title: "Dirilen Mumya"
 slug: "dirilen-mumya"
 date: 1929-07-01
-publication: "Muhit, cilt 2, 9, s. 650-53"
-tags: ["muhit","mektep"]
+publication: ["Muhit"]
+publication_detay: "cilt 2, 9, s. 650-53"
+tags: ["mektep"]
+featureimage: "img/stories/01.jpg"
 ---
-
 {{< alert >}}
 15 Şubat 1932 tarihinde *Mektep* dergisinde aynı adla yayımlanmıştır (cilt 1, 8, s. 8-9, 15).
 {{< /alert >}}

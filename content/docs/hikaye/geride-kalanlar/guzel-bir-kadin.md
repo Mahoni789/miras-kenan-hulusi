@@ -2,10 +2,9 @@
 title: "Güzel Bir Kadın"
 slug: "guzel-bir-kadin"
 date: 1942-04-09
-publication: "Vakit, s. 6"
-tags: ["vakit"]
+publication: ["Vakit"]
+publication_detay: "s. 6"
 ---
-
 Yeşil Mine Barı’nda bir kişi için bile oturacak yer yoktu. Jüya Reys’in İspanyol şarkılarından sonra on dakikalık fasılada dans başladı.
 
 Yerime geldiğim zaman bana ait iskemlede genç bir kadın oturuyordu. Bir ecnebi kadınıydı. Siyah türbanlı, tavşan kırmızısı renginde dudaklı, düz ve çekik burunlu bir kadın.

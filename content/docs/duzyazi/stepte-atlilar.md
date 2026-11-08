@@ -2,11 +2,11 @@
 title: "Seyahat Notları: Stepte Atlılar"
 slug: "stepte-atlilar"
 date: 1941-09-16
-publication: "*Vakit*, 8506, s. 2"
+publication: ["Vakit"]
+publication_detay: "8506, s. 2"
 categories: ["anı"]
-tags: ["vakit","r. ahmet sevengil"]
+tags: ["r. ahmet sevengil"]
 ---
-
 > Refik Ahmet Sevengil’e *İç Anadolu’dan* bir hatırlayış
 
 Fırtına yüzünden geceyi Sazak köylerinden birinde geçirmeye mecbur olduk.

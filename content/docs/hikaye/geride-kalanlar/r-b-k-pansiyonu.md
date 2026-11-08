@@ -2,9 +2,9 @@
 title: "R.B.K. Pansiyonu"
 slug: "r-b-k-pansiyonu"
 date: 1942-02-09
-publication: "Vakit, 8633…8655 (22 tefrika), s. 3."
+publication: ["Vakit"]
+publication_detay: "8633, 22 tefrika"
 ---
-
 “Rus Büyük Köşk”e haziran ortalarına doğru geldiğim zaman Madam Gribaşof beni eski bir tanıdık gibi karşıladı:
 
 — Haa! dedi, Madam Zoya’nın tavsiye ettiği pansiyoner. Demek ki siz? Hiç de otuz yaşında göstermiyorsunuz canım. Şura! Mösyö’nün valizlerini dokuz numaraya çıkar. Aşağıdan da yanık kokuları geliyor. Ah Mösyö, yeni aşçımızın öyle tuhaf bir burnu var ki... Güya bir doktor müzmin nezlenin yemek yanığı kokusundan geçeceğini söylemiş. “Alo! Anuçka mı! Hayır, hayır! Pazarı Mösyö Gizeplerde geçirir. Evet, Mösyö Gizep!” Bana anlattıklarına göre Madam Zoyalar sizi “Amca!” diye çağırırlarmış. Bazı şeyler de yazarmışsınız. Sanmam ki burada istirahat etmekten, denize girmek ve tenis oynamaktan başka vakit bulamayacak, tabiî bizi de anlatamayacaksınız!

@@ -2,10 +2,10 @@
 title: "Cenap Şahabettin Bey'le Konuştuklarım"
 slug: "cenap-sahabettin-beyle-konustuklarim"
 date: 1931-03-01
-publication: "Muhit, sayı 29, s. 6-8"
+publication: ["Muhit"]
+publication_detay: "sayı 29, s. 6-8"
 tags: ["edebiyat", "nobel","n. hikmet","aruz"]
 ---
-
 Ön tarafta dar ve bakımsız bir bahçe şeridiyle çevrili köşkün camekânlı kapısındaki zili döndürürken “Bernard Shaw”u hatırladım.
 
 İngiliz mizahçısı ve Avrupa’nın en genç adamı Shaw, ziyaretçilerin hücumuna karşı telefonundaki haber zilini çıkarmak mecburiyetinde kalmış.

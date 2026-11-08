@@ -2,9 +2,9 @@
 title: "Bir Alışveriş"
 slug: "bir-alisveris"
 date: 1941-04-16
-publication: "Vakit, 8353, s. 2"
+publication: ["Vakit"]
+publication_detay: "8353, s. 2"
 ---
-
 Yeşermis bir bakla tarlası üzerinde ilk ışıklar ve sabaha karşı bir gün doğusu esmeye başlamıştı. Küçük yapraklar bu hafif rüzgarı henüz hissetmiyor, fakat parçalanmış yüz binlerce cam tesirini bırakan ışıklar altında kanatlanacak birer kuş gibi heyecanlı oldukları anlaşılıyordu.
 
 Mustafa onbaşı şöyle düşündü:

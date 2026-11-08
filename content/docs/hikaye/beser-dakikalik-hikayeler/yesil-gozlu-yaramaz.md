@@ -2,9 +2,9 @@
 title: "Yeşil Gözlü Yaramaz"
 slug: "yesil-gozlu-yaramaz"
 date: 1941-01-19
-publication: "Vakit, 8268, s. 5"
+publication: ["Vakit"]
+publication_detay: "8268, s. 5"
 ---
-
 Ah bu son dersler… Tıpkı senenin ilk derslerindeki aynı heyecan gibidir. Bütün çocuklar tuhaf bir telâş içinde gözükür, kendilerini birdenbire daha büyümüş sanırlar. İlkbaharın ağaç yaprakları arasına tırmanıp sınıfı dolduran beyaz ışıkları onları deli eder. Adetâ sıra kapaklarında bile hademelerin bir an evvel kendilerini toplayıp götürmesini bekleyen bir sabırsızlık vardır. Siyah tahta iki ayaklarıyle kapıya doğru yürümeğe çalışır, son saatin küçük bir masal, hakikî bir vaka, yahut bir sergüzeşt hikâyesi ile bitmesi beklenir.
 
 Nitekim felsefe öğretmeni de lisenin kapısından içeri girerken bunu düşünüyordu: Son ders!… Bununla beraber ne bir hikâye anlatmasına, ne de içerlerinden herhangi birini dinleyerek ders kesmesine imkân yoktu. Çünki program bitmemişti. Üstelik kız talebeler erkeklerden daha ziyade bu hareketi bir itiyat hâline getirmişlerdi. Onun için olacak ki, kendi kendine düşündü:

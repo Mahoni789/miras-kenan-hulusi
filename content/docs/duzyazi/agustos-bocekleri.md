@@ -2,9 +2,9 @@
 title: "Ağustos Böcekleri"
 slug: "agustos-bocekleri"
 date: 1931-09-01
-publication: "Muhit, sayı 35, s. 16"
+publication: ["Muhit"]
+publication_detay: "sayı 35, s. 16"
 ---
-
 Gelen yazı, ıslak bir mayo kadar vücuduma yapışık hissederek, kulaklarımı ağustosböceklerinin seslerine bıraktığım bu dakikalarda, yine çocukluğumu düşünüyorum.
 
 Benim çocukluğum, yakılan bir cigara ile söndürülen bir cigara arasındaki mesafe kadar kısa geçti. Ve şimdi birdenbire içimde bulamadığım bir aşkı yeniden canlandırmak arzusunu nasıl duymuyorsam, onu da tekrar geriye çağırmak istemiyorum. Bırakalım, çocukluğumuz hiç haberimiz olmaksızın günlerimizden uzaklaşmış bulunsun ve kadınlar içimizden mevsimler gibi geçsinler.

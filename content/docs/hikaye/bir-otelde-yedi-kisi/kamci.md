@@ -2,9 +2,9 @@
 title: "Kamçı"
 slug: "kamci"
 date: 1940-09-05
-publication: "Vakit, 8137-38"
+publication: ["Vakit"]
+publication_detay: "8137-38"
 ---
-
 Nevyork’ta “Cek Conson ve Arkadaşları” antika eşyalar mağazasını işleten C. Conson ve şeriklerinin başından iki yaz evvel şöyle bir macera geçti:
 
 Conson antika eşyaların kendilerine has garip kokuları olduğunu söyleyen bir adamdı. Bizzat haberi olmasa da koku alma hissinin kilometrelerce mesafeden onu duyup zapt ederek kendisini bir mıknatıstan daha kuvvetle çektiğini ve antika eşyalarla meraklıları arasında bir madde ve kuvvet münasebeti olduğunu iddia ederdi.

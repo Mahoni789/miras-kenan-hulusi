@@ -2,7 +2,8 @@
 title: "“O Kadın”"
 slug: "o-kadin"
 date: 1940-02-17
-publication: "Vakit, sayı 7938, s. 2"
+publication: ["Vakit"]
+publication_detay: "sayı 7938, s. 2"
 authors:
   - "imzasız"
 tags: ["tiyatro","afrodit","İbrahim konyalı"]

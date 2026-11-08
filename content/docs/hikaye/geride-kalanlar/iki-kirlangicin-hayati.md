@@ -2,10 +2,10 @@
 title: "İki Kırlangıcın Hayatı"
 slug: "iki-kirlangicin-hayati"
 date: 1936-10-28
-publication: "Kurun, 6754-694, s. 4"
-tags: ["kurun","haber: a. postası"]
+publication: ["Kurun"]
+publication_detay: "6754-694, s. 4"
+tags: ["haber: a. postası"]
 ---
-
 Küçük kırlangıç Matmazel Kivikivi, Kozyatağı bahçelerinin üstüne geldiği vakit, bahar bitmek üzereydi:
 
 ﻿﻿— Geç kaldık, dedi, kendi kendine Matmazel Kivikivi, sonra birdenbire şöyle düşündü:

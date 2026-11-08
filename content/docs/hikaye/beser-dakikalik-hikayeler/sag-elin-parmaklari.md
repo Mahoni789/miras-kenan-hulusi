@@ -2,9 +2,9 @@
 title: "Sağ Elin Parmakları"
 slug: "sag-elin-parmaklari"
 date: 1941-04-06
-publication: "Vakit, 8343, s. 5"
+publication: ["Vakit"]
+publication_detay: "8343, s. 5"
 ---
-
 İçimizden biri sağ elini ileri doğru kaldırarak,
 
 “Parmaklarımdaki hastalığı merak edenlere cevap vermek istiyorum! dedi.”

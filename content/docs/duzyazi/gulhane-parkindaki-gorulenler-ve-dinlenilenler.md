@@ -2,12 +2,12 @@
 title: "Gülhane Parkı’ndaki Görülenler ve Dinlenilenler"
 slug: "gulhane-parkindaki-gorulenler-ve-dinlenilenler"
 date: 1936-08-26
-publication: "Kurun, sayı 6691-631, s. 3"
+publication: ["Kurun"]
+publication_detay: "sayı 6691-631, s. 3"
 series: ["İstanbul’dan Parçalar"]
 series_order: 7
 tags: ["cemil paşa","meşrutiyet","mütareke","serbestî"]
 ---
-
 İstanbul’la Paris ve Londra arasında lüks kompartımanlar ve büyük gemilerde balayı seyahatinden tutunuz da küçük bir şilep yolculuğuna kadar beş altı ciltlik bir seyahat koleksiyonunu tamamlamış Şişlili bir hanımefendi:
 
 “Kuzum,” dedi,“ İstanbul’da hava alacak bir yer tavsiye eder misiniz bana?”

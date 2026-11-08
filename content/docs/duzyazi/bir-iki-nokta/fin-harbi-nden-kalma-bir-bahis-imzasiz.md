@@ -2,12 +2,12 @@
 title: "Fin Harbi'nden Kalma Bir Bahis"
 slug: "fin-harbi-nden-kalma-bir-bahis"
 date: 1940-03-21
-publication: "Vakit, sayı 7971, s. 2"
+publication: ["Vakit"]
+publication_detay: "sayı 7971, s. 2"
 authors:
   - "imzasız"
 tags: ["finler"]
 ---
-
 Sovyet-Fin Harbi’nin son zamanlarında “Kareli” adının çokgeçtiğini hatırlarsınız. O zaman gazetemizde çıkan bir fıkrada Finlerin Türk soyundan ve oraların karileriyle meşhur olduğuna bakılarak (Kareli olsa olsa Rumeli, Kocaeli gibi Kareli olarak) denilmişti.
 
 Fin şehirlerinden Tampere’de oturan okuyucumuz Bay S. İ. Ahsan bu fıkrayı görerek onu etimolojiden anlar bir dostuna yollamış. Bize aldığı cevabı bir mektupla birlikte gönderiyor. Fin dilcisi diyor ki:

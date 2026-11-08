@@ -2,12 +2,12 @@
 title: "Bir Nükte"
 slug: "bir-nukte"
 date: 1940-04-20
-publication: "Vakit, sayı 7801, s. 2"
+publication: ["Vakit"]
+publication_detay: "sayı 7801, s. 2"
 authors:
-  - "isimsiz"
+  - "İsimsiz"
 tags: ["selma lagerlöf","danonçiyo"]
 ---
-
 Yabancı bir gazete geçenlerde ölen meşhur İsveç edibi Selma Lagerlöf ile birkaç sene kadar evvel ölen İtalyan edibi Danonçiyo arasında geçen bir mektuplaşma hadisesini haber veriyor.
 
 *1909 yılında Nobel Mükafatı’nı kazanan İsveç edibi, İtalyan şairinden bir mektup almış. Danonçiyo bu mektubunda kadın muharrire Nobel Mükafatı’nın verilmesini tebrik ediyordu. Bu maddî tabiatlı ve maddi ruhlu İsveç muharririne ateşîn İtalyan şairinin yazdığı mektup heyecanlı hisler ifade etmekte idi.*

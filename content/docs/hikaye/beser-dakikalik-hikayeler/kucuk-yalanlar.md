@@ -2,9 +2,9 @@
 title: "Küçük Yalanlar"
 slug: "kucuk-yalanlar"
 date: 1940-12-14
-publication: "Vakit, 8236, s. 5"
+publication: ["Vakit"]
+publication_detay: "8236, s. 5"
 ---
-
 Sovyet Rusya’yı eski Polonya ile ayıran ilk istasyon Stolpsee'dir. Rusya’dan Zagrep ve Belgrad’a geçecek yolcular bu istasyondan hareketle Varşova üzerinden Yugoslavya’ya girerler. Bir münasebetle Moskova’da bulunan bir arkadaşım bu noktaya işaret ettikten sonra şöyle devam etti:
 
 Trenimiz Varşova’ya geceyarısına doğru geldi. Saat onbiri ellibeş geçiyordu. Yani bizim memleketimizde sinemaların tatil edildiği, bütün el ve ayağın çekildiği dakikalar… Henüz bagajlarımızı indirmeğe hazırlanıyordum ki, dört yanım yüzlerce kadınla doluverdi.

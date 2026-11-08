@@ -2,9 +2,9 @@
 title: "Üçüncü Mevkide"
 slug: "ucuncu-mevkide"
 date: 1941-02-01
-publication: "Vakit, 8281, s. 5"
+publication: ["Vakit"]
+publication_detay: "8281, s. 5"
 ---
-
 Susurluk istasyonundan, üçüncü mevkie, on dokuz-yirmi yaşlarında kadar, çakır bir delikanlı ile, kırk beş-elli yaşlarında kadar, kumaş kasketli, avcı poturlu bir köylü bindiler.
 
 Mevsim kıştı. Dünyanın en boş ve hazin ovalarından biri olan Susurluk Ovası üzerinde, yer yer erimiş bir kar tabakasından kalan binlerce buz çiçeği gözüküyor; bu çiçekler, birtakım kardan otlar yahut topraktan ayrılmayan bodur bir nevi beyaz nebatlar hissini veriyor; sert bir ayaz, bütün insan ve hayvan kulaklarını öne düşürüyordu.

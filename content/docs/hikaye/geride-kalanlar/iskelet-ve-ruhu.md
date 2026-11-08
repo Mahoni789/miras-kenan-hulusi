@@ -2,11 +2,11 @@
 title: "İskelet ve Ruhu"
 slug: "iskelet-ve-ruhu"
 date: 1936-10-07
-publication: "07-09 Ekim 1936, Kurun, 6733-675 / 6735-675, s. 4"
+publication: ["Kurun"]
+publication_detay: "6733-675 / 6735-675, s. 4"
 featureimage: "img/iskeletveruhu.svg"
 heroStyle: big
 ---
-
 Yedi sene kadar evvel tıp doktoramı vermek için hazırlandığım bir gün, kendisinden ara sıra teşrih pensleri ve bazı şeyler almak itiyadında bulunduğum tanıdık bir ecza taciri telefon etti. Hollanda mamulatı, hakiki ve dondurulmuş yeni birtakım iskeletlerin gümrükten henüz çıktığını, eğer siparişimde duruyorsam adresime derhal gönderebileceğini söyledi.
 
 Hakikaten üzerinde çalışmak için bir iskelete şiddetle ihtiyacım vardı. Bu fırsatı kaçırmak istemeyerek:

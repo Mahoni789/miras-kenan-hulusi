@@ -2,9 +2,9 @@
 title: "Garsoniyer"
 slug: "garsoniyer"
 date: 1940-10-25
-publication: "Vakit, 8187-88"
+publication: ["Vakit"]
+publication_detay: "8187-88"
 ---
-
 Bir garsoniyer misiniz? Yazık! Adınız fenaya çıkmış demekti. Haftada bir yahut iki defa, başınızı şöyle bir dinlemek için birkaç saat çekileceğiniz bir oda içinde bütün konu komşu size yan yan bakacaklar, hastalık geçiren bir insan yahut şifa bulmaz bir derde kapılmış biri gibi parmaklarıyla işaret ederek:
 
 – İşte, diyecekler, Çiçek Apartmanı’ndaki dördüncü kat yok mu bu delikanlı orada garsoniyer!

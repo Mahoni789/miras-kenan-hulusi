@@ -2,9 +2,9 @@
 title: "Bahar ve Kurbağalar"
 slug: "bahar-ve-kurbagalar"
 date: 1937-03-02
-publication: "Kurun, sayı 6872 -992, s. 2"
+publication: ["Kurun"]
+publication_detay: "sayı 6872 -992, s. 2"
 ---
-
 Böyle bir mevzuyu bugün için belki de mevsimsiz telakki edecekler olabilir. Fakat İstanbul’da baharın nerede başlayıp nerede bittiğini hangimiz tayin edebilmişizdir? Hatta ayrı ayrı semtlerde değil, aynı mahalle içerisinde bile onun gelip gelmediğini boşuna yere arar dururuz. Komşularımızın bahçesinde bir bahar dalı etrafında vızıldayan arılar, çok kereler bizim kendi bahçemizin kapısından geriye dönmek lüzumunu duymuşlardır. Acaba bizim bahçelerimizin çiçeklerinde onları büyütüp besleyecek ve dilleri ucuna yaz vaktinin tadını bir saat saniyesi gibi damlatacak bal ve usareler mi yok? Yoksa arılar bizim bahçemize uğramamak için Oscar Wilde’ın bir hikâyesini mi okumuşlardır? Belki hiçbiri! Sadece, sırtlarını komşumuzla birbirinin arkasına vermiş bahçelerimizi birbirinden habersiz yalayıp geçen iki ayrı rüzgârın ılık ve serinliğidir ki, bize, yaz ortasında gelecek olan mevsimi geçmiş bir bahara karşı, komşumuzu kıştan yaza ayıracak çiçekli bir dal getirmiştir.
 
 Onun içindir ki baharı, bahçelerimizde gözle aramaktan daha ziyade kulaklarımızla duyup yaşamak mecburiyetindeyiz. Ve şüphesiz kurbağa sesleri bir erik dalındaki coşkun cümbüşünden çok daha evvel, hatıraları boşalmış hafızamıza bunu bir su gibi damlatmak için çalışırlar.

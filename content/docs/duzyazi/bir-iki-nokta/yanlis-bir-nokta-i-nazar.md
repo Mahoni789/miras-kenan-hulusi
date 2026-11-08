@@ -2,7 +2,8 @@
 title: "Yanlış Bir Nokta-i Nazar"
 slug: "yanlis-bir-nokta-i-nazar"
 date: 1940-04-28
-publication: "Vakit, sayı 7809, s. 2"
+publication: ["Vakit"]
+publication_detay: "sayı 7809, s. 2"
 authors:
   - "imzasız"
 tags: ["n. ataç","sanat","şiir"]

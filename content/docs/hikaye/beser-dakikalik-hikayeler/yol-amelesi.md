@@ -2,9 +2,9 @@
 title: "Yol Amelesi"
 slug: "yol-amelesi"
 date: 1941-02-20
-publication: "Vakit, 8300-8301"
+publication: ["Vakit"]
+publication_detay: "8300-8301"
 ---
-
 Görece’de zeytin ezme mevsimi idi; yani yağ alma zamanıydı. Çocuklarla kadınlar taş bir değirmenin başına toplanmışlardı. Yuvarlak taşın mihverinden geçen bir çubuğu güle oynaya çeviriyorlar; yağ çıkarıyorlardı.
 
 Hasan Karaca elleri cebinde, dudaklarında ıslıkla miskin kadınların arasından geçti. Köyün karşı karşıya olan iki kahvesinden birine girdi. Onaltı yaşındaydı ve işsizdi. Daha doğrusu, köyden köye dolaşan takımındandı. Onun için de arasıra Hasan Karaca’ya sorarlar;

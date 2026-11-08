@@ -2,9 +2,9 @@
 title: "Kıllı Maymun"
 slug: "killi-maymun"
 date: 1929-04-11
-publication: "Servet-i Fünûn Uyanış, cilt 65,1704-19, s. 301-304"
+publication: ["Servet-i Fünûn/Uyanış"]
+publication_detay: "1704-19, s. 301-304"
 ---
-
 Dün akşam, saat dört buçuk, beş sularında büyük caddeden Taksim’e doğru çıkıyordum. Bir aralık Opera’nın vitrinlerinde bir film reklamı nazarı dikkatimi celbetti. Bu, balta girmemiş ormanların karşılıklı ağaç dalları arasında kol atmış nebatlar üstünde, gözlerini tecessüs ve merakla açmış bir maymundu... Çok çirkin ve çok garip...
 
 Aynı resmin sağ köşesinde ve Asyalı kıyafetinde, ismini bilmediğim güzel bir artist kadın dudaklarını bir erkeğe hararetle veriyordu. Düşündüm ki vaka herhalde büyük cangıllar içinde geçmiş aşka aittir.

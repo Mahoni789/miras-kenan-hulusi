@@ -2,11 +2,11 @@
 title: "Halk Hamamlardan Kaçıyor"
 slug: "halk-hamamlardan-kaciyor"
 date: 1940-02-19
-publication: "Vakit, sayı 7932, s. 2"
+publication: ["Vakit"]
+publication_detay: "sayı 7932, s. 2"
 authors:
   - "imzasız"
 ---
-
 Şehirde, galiba sıkı bir bit mücadelesi var. Sabahleyin erken yola çıkanlar, bilhassa İstanbul tarafında, polis ve bekçi kordonu ile çevrilmiş amele taburlarının yıkanmak için güldür güldür hamama sevk edildiğini görüyorlar.
 
 Herhalde korkunç bir manzara! Üzerlerinde kuyruklu kuyruksuz, kanatlı kanatsız yüzlerce böceğin uçup durduğu bir kafile düşününüz. Ellerini kollarını sallaya sallaya gidiyorlar. Nereye? Hamama! Niçin? Yıkanmak için! Pekâlâ ama halk hamamları yapıldı mı? Hayır... Şu hâlde...

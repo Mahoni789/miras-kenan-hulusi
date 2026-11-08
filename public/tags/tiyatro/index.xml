@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tiyatro on Miras: Kenan Hulusi</title>
+    <link>http://localhost:1313/tags/tiyatro/</link>
+    <description>Recent content in Tiyatro on Miras: Kenan Hulusi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>tr-TR</language>
+    <copyright>© 2026 Kenan Hulusi Koray</copyright>
+    <lastBuildDate>Fri, 15 Mar 1940 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/tiyatro/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Çocuk Tiyatrosu</title>
+      <link>http://localhost:1313/docs/duzyazi/bir-iki-nokta/cocuk-tiyatrosu/</link>
+      <pubDate>Fri, 15 Mar 1940 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/duzyazi/bir-iki-nokta/cocuk-tiyatrosu/</guid>
+      <description>&lt;p&gt;Çocuk Esirgeme Kurumunun şimdiye kadar varlığından habersiz olduğumuz Çocuk Tiyatro komitesi birdenbire faaliyete geçti. Hattâ Karl Ebert’in de hazır bulunduğu bir imtihanla, tiyatroda rol alacak gençleri bile seçerek, alelâcele, bir Çocuk Tiyatrosu meydana getiriverdi.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Bir Nokta, Üç Fikir</title>
+      <link>http://localhost:1313/docs/duzyazi/bir-iki-nokta/bir-nokta-uc-fikir/</link>
+      <pubDate>Fri, 08 Mar 1940 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/duzyazi/bir-iki-nokta/bir-nokta-uc-fikir/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Cumhuriyet&lt;/em&gt; gazetesinde Peyami Safa, İtalya ile İngiltere arasında kömür meselesine ait ihtilaftan bahsederken şöyle diyor: ’İtalya’nın bir harbe kadar gitmesi pek muhtemel değildir. İtalya biraz daha zor ve eksik olsa bile şimdiye kadar denizden getirdiği alman kömürünü bundan sonra karadan da getirebilir.’&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>“O Kadın”</title>
+      <link>http://localhost:1313/docs/duzyazi/bir-iki-nokta/o-kadin/</link>
+      <pubDate>Sat, 17 Feb 1940 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/duzyazi/bir-iki-nokta/o-kadin/</guid>
+      <description>&lt;p&gt;“O Kadın”&lt;/p&gt;&#xA;&lt;p&gt;Şehir Tiyatrosu’nda on beş günden beri temsil edilen ve tek bir koltuğun bile boş kalmadığı &lt;em&gt;O Kadın&lt;/em&gt; piyesinin belki de bir on beş gün daha aynı tehalük oynayacağından haberiniz var mı?&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Aktör ve Müellif</title>
+      <link>http://localhost:1313/docs/duzyazi/aktor-ve-muellif/</link>
+      <pubDate>Mon, 10 Sep 1934 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/duzyazi/aktor-ve-muellif/</guid>
+      <description>&lt;p class=&#34;mt-10&#34;&gt;&#xD;&#xA;  &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&lt;div&#xD;&#xA;  &#xD;&#xA;    class=&#34;flex px-4 py-3 rounded-md shadow bg-primary-100 dark:bg-primary-900&#34;&#xD;&#xA;  &#xD;&#xA;  &gt;&#xD;&#xA;  &lt;span&#xD;&#xA;    &#xD;&#xA;      class=&#34;text-primary-400 pe-3 flex items-center&#34;&#xD;&#xA;    &#xD;&#xA;    &gt;&#xD;&#xA;    &lt;span class=&#34;relative block icon&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 448 512&#34;&gt;&lt;path fill=&#34;currentColor&#34; d=&#34;M48 32H197.5C214.5 32 230.7 38.74 242.7 50.75L418.7 226.7C443.7 251.7 443.7 292.3 418.7 317.3L285.3 450.7C260.3 475.7 219.7 475.7 194.7 450.7L18.75 274.7C6.743 262.7 0 246.5 0 229.5V80C0 53.49 21.49 32 48 32L48 32zM112 176C129.7 176 144 161.7 144 144C144 126.3 129.7 112 112 112C94.33 112 80 126.3 80 144C80 161.7 94.33 176 112 176z&#34;/&gt;&lt;/svg&gt;&#xD;&#xA;&lt;/span&gt;&#xD;&#xA;  &lt;/span&gt;&#xD;&#xA;&#xD;&#xA;  &lt;span&#xD;&#xA;    &#xD;&#xA;      class=&#34;dark:text-neutral-300&#34;&#xD;&#xA;    &#xD;&#xA;    &gt;&lt;em&gt;Muharrir&lt;/em&gt;, Nahit Sırrı, Hakimiyeti Milliye Matbaası, 1934&lt;/span&gt;&#xD;&#xA;&lt;/div&gt;&#xD;&#xA;&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

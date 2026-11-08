@@ -2,9 +2,9 @@
 title: "Şehir Kurtaran Tencere"
 slug: "sehir-kurtaran-tencere"
 date: 1941-01-30
-publication: "Vakit, 8279, s. 5-6"
+publication: ["Vakit"]
+publication_detay: "8279, s. 5-6"
 ---
-
 Şiîlerin sekizinci imamı olan Rıza’nın türbesi hem dünyanın en karakteristik, hem de en zengin türbelerinden biridir. İçiçe birkaç salon ve birçok odaları ihtiva eden türbenin cenubundaki “*sahn-ı köhen”* ise dünyadaki yedi acibeden sayılır. İçerisi, bir insan boyu kısma kadar “*kaşı*" ile; yani, bizim yeşil çinilerimiz kadar aydınlık çinilerle kaplı; bunun üstü de pirinç üzerine boydan boya altın geçmedir. Dip taraftaki bir kapıdan da mabede girilir. Mabedin her köşesinde müstakil camekânlar içinde paha biçilmez taçlar, gerdanlıklar, küpeler bulunur. Bunlar muhtelif krallar tarafından türbeye vakfolunmuş birtakım hediyelerdir. Ayrıca türbenin hududuna girebilmek fırsatını bulan hiçbir suçluya ilişilmediği gibi, yüzlerce meskensiz ve zavallı insanlar da türbenin demir kapılarında İmam Rıza’ya yalvarmak için gelerek hâcetlerinin birgün mutlaka olacağına inanır ve türbenin insan incitmeyen muhitinde geceler dua ederler.
 
 Bütün bu noktalara işaret eden Azerî bir dostum şu hikâyeyi anlatarak dedi ki:

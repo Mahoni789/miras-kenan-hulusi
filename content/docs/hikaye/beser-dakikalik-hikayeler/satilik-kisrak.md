@@ -2,9 +2,9 @@
 title: "Satılık Kısrak"
 slug: "satilik-kisrak"
 date: 1941-01-08
-publication: "Vakit, 8260, s. 5"
+publication: ["Vakit"]
+publication_detay: "8260, s. 5"
 ---
-
 Buğday övütme mevsimi Anadolu’nun birçok köylerinde bir derttir. Değirmenlerin ekserisi köylüye uzak olduğu için hepsini bir düşünme alır; vasıta aramaya kalkarlar. Tabiî bazıları bulur; bazıları bulamaz. İki saat, üç saat yahut yarım günlük mesafeyi yaya gidip gelmek mecburiyetinde kalırlar.
 
 Cuma Ovası köylerinden biri olan Kesre’de, bundan başka, sarp geçitler dolayısıyle bir de vahşî hayvan korkusu vardır. Kesre ile değirmen arasında uzayan dağlar gün aralığı bile rahat geçit vermez. Uzaktan uzağa vahşî hayvan sesleri duyulur. Geceleyin yolunu kaybetmiş yabancıların önüne kurt gibi, çakal gibi hayvanların sık sık çıktığı vâkidir.

@@ -2,9 +2,9 @@
 title: "Amerika’ya Giden Asmakabağı"
 slug: "amerikaya-giden-asmakabagi"
 date: 1941-03-07
-publication: "Vakit, 8315, s. 5"
+publication: ["Vakit"]
+publication_detay: "8315, s. 5"
 ---
-
 İki yaz evvel, Amerika’ya zengin olmak sevdasıyla gidenler arasında ben de vardım.
 
 Yabancı bir memlekette elli dolarcıkla ve büyük plânlar peşinde yapılan bir seyahati belki de mânâsız telâkki edenler bulunabilir. Fakat yanımda bana yardım edecek genç bir kızdan başka iki valize de maliktim ki, asıl güvendiğim şey de bunlardı. Çünki seyahate karar verdiğim ilk günler, Amerikan halkını kafese koymak sanatının müşkilâtmdan bahseden arkadaşlarım vasat bir Amerikalı’nın egzotik kadın tipinde bir ökseye konan kuşlar gibi kaldığını söylemişlerdi. İki valize gelince…

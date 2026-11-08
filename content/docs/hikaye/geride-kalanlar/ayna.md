@@ -2,10 +2,10 @@
 title: "Ayna"
 slug: "ayna"
 date: 1929-05-23
-publication: "Servet-i Fünûn Uyanış, cilt 65,1710-25, s. 400-402"
-tags: ["s. fünûn uyanış"]
+publication: ["Servet-i Fünûn/Uyanış"]
+publication_detay: "1710-25, s. 400-402"
+featureimage: "img/stories/04.jpg"
 ---
-
 Bir fahişe odasındaki aynanın hatıratı
 
 I

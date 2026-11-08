@@ -2,11 +2,11 @@
 title: "Dar Kapı"
 slug: "dar-kapi"
 date: 1931-12-01
-publication: "Muhit, sayı 38, s. 5"
+publication: ["Muhit"]
+publication_detay: "sayı 38, s. 5"
 tags: ["a. gide","b. ümit","tercüme"]
 categories: ["k. tanıtım"]
 ---
-
 {{< alert "tag" >}}
 **Yazan**: André Gide  
 **Tercüme eden**: Burhan Ümit  

@@ -2,11 +2,11 @@
 title: "İki Defa Ölüm"
 slug: "iki-defa-olum"
 date: 1940-08-29
-publication: "Vakit, 8130-31"
+publication: ["Vakit"]
+publication_detay: "8130-31"
 featureimage: "img/ucurum.jpeg"
 heroStyle: background
 ---
-
 Şehirlerin de tıpkı insanlar gibi bir ruh ve tabiatları vardır. Onlar da bizim gibi korkak, cesur, çekingen ve bazı kereler atak olur. Bilhassa işgal ve harp sıralarında bina kalabalıklarının bu garip psikolojisini hissetmemeye imkân yoktur.
 
 Büyük Harp’te Şarkî Makedonya’da Türk-Alman milis kuvvetlerinin karargâh kurdukları merkez hakikaten korkulu günler içindeydi: Ev, cadde, ağaç ve bütün bunlardan ibaret bir şehrin tıpkı bir insan gibi nasıl bir hayatı olduğunu orada görebilirdiniz. Basit çocukluk günlerimizin içinde geçtiği sokaklar ara sıra gözlerimizden birdenbire kaybolup siliniyordu. Onu tekrar ortaya çıkaracak olan şey neydi? Bir silah sesi mi? Yoksa bir mekkâre kıtasının hareketi ve üzerinden karanlık bir gece geçtikten sonra tekrar doğacak olan güneş mi? Bunu hiçbir vakit kestiremedim. Fakat bazen de öyle olurdu ki tehlikeyi hisseder etmez bir devekuşu gibi başını topraklara sokup korkusunu geçiştirmek isteyen şehrin, pençelerini ileriye uzatmış bir aslan gibi kükrediğini işitirdik.

@@ -2,17 +2,17 @@
 title: "Oturdular, Konuştular, Kalktılar"
 slug: "oturdular-konustular-kalktilar"
 date: 1940-02-27
-publication: "Vakit, sayı 7948, s. 2"
+publication: ["Vakit"]
+publication_detay: "sayı 7948, s. 2"
 tags: ["burhan felek","tan","yasak","yeşil ot"]
 authors:
   - "imzasız"
 ---
-
 Danimarka, İsveç ve Norveç hariciye nazırlarının Kopenhag’da yaptıkları içtimaın neticesi bize yeni bir şey öğretmiyor. Şimal devletlerinin verdikleri karara göre bir daha Altmark Hadisesi’ne benzer vaziyetlerin zuhuruna meydan verilmeyecek, yani icabında bu devletler bitaraflıkların müdafaa eyleyecek, bitaraflığın verdiği imkanlar dairesinde yardım edilecek, eğer rivayet edildiği gibi Sovyetlerle Finlandiya arasında Almanya’nın tavassut edeceği tahakkuk ederse Finlandiya’nın istiklali mahfuz kalmak şartıyla bir sulh akdi için bu devletler de çalışacak. Hülasa İran şairinin dediği:
 
 {{< poem >}}
 <strong>Nişestend, küftend, ve ber-haslend!</strong>
-“Olurdular, konuştular, kalktılar.”
+“Oturdular, konuştular, kalktılar.”
 {{< /poem >}}
 
 ## Felek’in Keşfettiği Hakikat
@@ -23,4 +23,4 @@ Bu takdirde “nânı aziz” dediğimiz ekmeğe artık başka bir sıfat bulmak
 
 ## Seyyar Çalgıcılar
 
-Seyyar satıcıların artık birinci sınıf caddelerde çalgı çalmaları yasak olacak. Bu memnuniyeti koyanlar ne düşünmüşler bilmiyoruz. Tramvayların, otomobillerin gürültüleri, çirkin sesli satıcıların feryatları bu caddeleri doldururken bir keman, bir laterna, bir zurna, hatta bir düdük sesi zararlı değil, belki de faydalıdır. Ruhlara kasvet veren gürültülere müsaade edip de o kasvete biraz neşe katabilecek sesleri yasak etmek doğru mudur?
+Seyyar satıcıların artık birinci sınıf caddelerde çalgı çalmaları yasak olacak. Bu memnuiyeti koyanlar ne düşünmüşler bilmiyoruz. Tramvayların, otomobillerin gürültüleri, çirkin sesli satıcıların feryatları bu caddeleri doldururken bir keman, bir laterna, bir zurna, hatta bir düdük sesi zararlı değil, belki de faydalıdır. Ruhlara kasvet veren gürültülere müsaade edip de o kasvete biraz neşe katabilecek sesleri yasak etmek doğru mudur?

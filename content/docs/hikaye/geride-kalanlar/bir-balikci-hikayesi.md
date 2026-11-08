@@ -2,10 +2,9 @@
 title: "Bir Balıkçı Hikâyesi"
 slug: "bir-balikci-hikayesi"
 date: 1937-02-18
-publication: "Kurun, 6863-983, s. 5, 7"
-tags: ["kurun"]
+publication: ["Kurun"]
+publication_detay: "6863-983, s. 5, 7"
 ---
-
 O gece denizin cömertliği yoktu. Burunbahçeden Sütlüce açıklarına kadar suları iyice taradık; ağlar elimizde, uzun uzun bekledik; fakat deniz boştu; hiçbir şey vermiyordu.
 
 Çolak:

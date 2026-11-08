@@ -2,19 +2,19 @@
 title: "Hakikat mi Masal mı?"
 slug: "hakikat-mi-masal-mi"
 date: 1940-05-04
-publication: "Vakit, sayı 8015, s. 3"
+publication: ["Vakit"]
+publication_detay: "sayı 8015, s. 3"
 authors:
   - "Kenan H"
 tags: ["türkçe"]
 ---
-
-İtalyan radyosu son bültenlerinden birinde halya’nın şimalde bir tahkimat hattı için bütün kuvvetlerini seferber ettiğini haber verdi.
+İtalyan radyosu son bültenlerinden birinde İtalya’nın şimalde bir tahkimat hattı için bütün kuvvetlerini seferber ettiğini haber verdi.
 
 Olabilir! Arka arkaya beş Roma ordusunu imha eden Kartacalı kumandanın hatırasını bu mıntıka sakinleri hâlâ unutmamışlar demek!
 
 Roma radyosu spikerinin bu tahkimat haberini verirken eski devirlerin müstahkem hat ve kalelerinden, koç başlı müdafaa silahlarından niçin bahsettiğini de pek anlayamadık. Ayrıca Gal Kumandanı Versengl Toriks’in hikâyesi de acaba yerinde mi? Sezar, Gal fütuhatı sıralarında, gerçi Versengl Toriks’i bir kalede sıkıştırmıştı. Fakat bildiğimiz şu ki diktatör Sezar, bu kaleyi zapt etmeden evvel Gal ordularının kumandanı şahsını feda ederek hemşerilerinin hayatını kurtarmak için kendi kendine teslim olmuştu.
 
-kalya Alplerde tahkimat yapıyormuş! Bir radyo bülteninde bu eski hikâyeleri tazelediğine bakılırsa, bir hakikatten daha ziyade galiba bu bir masal olacak!
+İtalya Alplerde tahkimat yapıyormuş! Bir radyo bülteninde bu eski hikâyeleri tazelediğine bakılırsa, bir hakikatten daha ziyade galiba bu bir masal olacak!
 
 ## On Kuruşa Bozuk Türkçe
 

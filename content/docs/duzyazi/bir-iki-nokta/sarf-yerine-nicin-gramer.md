@@ -2,7 +2,8 @@
 title: "Sarf Yerine Niçin Gramer?"
 slug: "sarf-yerine-nicin-gramer"
 date: 1940-03-07
-publication: "Vakit, sayı 7957, s. 2"
+publication: ["Vakit"]
+publication_detay: "sayı 7957, s. 2"
 tags: ["halit ziya","türkçe","ethem İzzet"]
 authors:
   - "imzasız"

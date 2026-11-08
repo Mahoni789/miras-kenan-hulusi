@@ -2,12 +2,12 @@
 title: "Eğlenmek İsteyen Halk İçin At Hazır"
 slug: "eglenmek-isteyen-halk-icin-at-hazir"
 date: 1940-03-28
-publication: "Vakit, sayı 7978, s. 2"
+publication: ["Vakit"]
+publication_detay: "sayı 7978, s. 2"
 authors:
   - "K"
 tags: ["İstanbul"]
 ---
-
 Gardenbar yıkılırken birçoklarımız sinirlendik: İstanbul’un nezih bir eğlence yeri vardı; işte o da yıkılıyor, dedik. Hatta aramızdan bazıları bu eğlence yerinin kısa bir tarihini yazmaya kadar ileri gitti, teessüflerini söyledi.
 
 Bazılarımız da hayır, dedik. Yıkılıyor ama yerine bir yenisini koyacağız. Belediyenin Taksim’deki gazinosu bu maksatla yapılıyor. Üstelik hem daha fazla eğlenecek hem daha az para sarf edeceğiz.

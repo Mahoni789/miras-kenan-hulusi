@@ -2,12 +2,12 @@
 title: "Eski Kelimeler"
 slug: "eski-kelimeler"
 date: 1940-04-18
-publication: "Vakit, sayı 7999, s. 2"
+publication: ["Vakit"]
+publication_detay: "sayı 7999, s. 2"
 authors:
   - "İmzasız"
 tags: ["dil","orhan seyfi","a. hamit","eşber"]
 ---
-
 Dün, kısaca, orta mekteplerdeki körpe dimağları işgal eden ölü bir dilden yadigâr bazı kelimelerden bahsetmiştik. Mesela ikaz gibi, mesela mücehhez gibi...
 
 Okuyucularımızdan biri şunu soruyor: “Bu kelimeler, dediğiniz kadar da acaba bize hiç mi lazım olmayacaklar? Birçok eski ve hatta yeni metinlerde onlara rast geldiğimize göre, şu hâlde her şeyi öğrenme yaşında bulunan bir insana bu kelimeleri niçin öğretmeyelim?"

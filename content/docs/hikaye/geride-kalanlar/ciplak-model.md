@@ -2,12 +2,11 @@
 title: "Çıplak Model"
 slug: "ciplak-model"
 date: 1928-06-28
-publication: "Servet-i Fünûn, cilt 64,1663-189, s. 107"
+publication: ["Servet-i Fünûn"]
+publication_detay: "cilt 64,1663-189, s. 107"
 featureimage: "img/serveti-funun.svg"
 categories: ["eski yazı"]
-tags: ["s. fünûn"]
 ---
-
 –Bir mektuptan parçalar–
 { .text-right}
 

@@ -2,10 +2,10 @@
 title: "Yusufçuk"
 slug: "yusufcuk"
 date: 1939-03-15
-publication: "Vakit, 7605-13"
+publication: ["Vakit"]
+publication_detay: "7605-13"
 showTableOfContents: false
 ---
-
 Kızılcahamam’la Develi köyü arasında odun satıcılığı yapan Yusufoğlu Yusuf’u, birkaç dostu, bir ilkbahar sabahında, tarlalar arasından geçip giden bir patika yoluna doğru, dereden tepeden konuşarak uğurladılar.
 
 Yusuf, karların henüz eriyerek ıslak toprakları taze bir yeşilliğin örtmeye başladığı bu ilkbahar sabahında, hiç de Kızılcahamam’la Develi arasında odun taşıyan adama benzemiyordu. Ayaklarında, bir kurt parçalamış gibi kıçı yer yer gözüken yamalı bir potur yerine, siyah renkli şayak bir pantolon vardı. Kayseri bezinden yapılmış gıcır gıcır bir mintan giymişti ve bütün bu yenilikler ortasında kendisine büyük bir ehemmiyet vererek teşyie gelenleri yarı yolda bırakarak hemen yoluna devam etmek üzere sabırsızlanıyordu.

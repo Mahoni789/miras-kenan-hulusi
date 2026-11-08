@@ -2,9 +2,9 @@
 title: "Turna Mevsimi"
 slug: "turna-mevsimi"
 date: 1941-04-08
-publication: "Vakit, 8345, s. 5"
+publication: ["Vakit"]
+publication_detay: "8345, s. 5"
 ---
-
 Son otobüsü de kaçırdıktan sonra Karabağ sayfiyesinde yatacak bir yer aramaktan başka çare kalmamıştı. Yol üstündeki köylülerden biri;
 
 “Şuracıkta bir misafir kahvesi vardır ama,” dedi; “Allah vere ki açık olsun!”

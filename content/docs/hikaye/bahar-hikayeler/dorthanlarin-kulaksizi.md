@@ -2,10 +2,9 @@
 title: "Dörthanların Kulaksızı"
 slug: "dorthanlarin-kulaksizi"
 date: 1937-11-08
-publication: "Kurun, 7132-1222, s. 2"
-tags: ["kurun"]
+publication: ["Kurun"]
+publication_detay: "7132-1222, s. 2"
 ---
-
 Sivas’ın Dörthanlar köyünden Kulaksız Ali iki günlük yoldan getirdiği bir eşek yükü odunu kasabada tahrirat kâtibinin kapısı önüne yıktıktan sonra bütün yorgunluğunun üstünden alındığını duydu.
 
 Ali, Dörthanlar’dan kasabaya kaç günde gelineceğini bilmeyen görgüsüzlerden değildi. Gerçi ilk eşek yükünü getirirken hayli sıkıntı çekmiş, nerede geceleyeceğini pek kestirememiş, üste aç bile kalmıştı ama üçüncü gelişten sonra bu uzun yolculuğun ilmini alan Kulaksız, Dörthanlar’dan sonra dinlenmek ve birisinde de gecelemek için yolu kendi aklına göre dört parçaya ayırmış, hepsinde de ya bir çeşme yanını ya da Sazlıdere başındaki namazgâhı yahut un değirmeninin arkasını intihap etmişti. Hele namazgâhın arkasına düşen sisli dağ Dörthanlar’dan sonra geceleyecek en emin yerdi.

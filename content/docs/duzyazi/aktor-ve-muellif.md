@@ -2,14 +2,14 @@
 title: "Aktör ve Müellif"
 slug: "aktor-ve-muellif"
 date: 1934-09-10
-publication: "*Haber: Akşam Postası*, 851, s. 4"
+publication: ["Haber: Akşam Postası"]
+publication_detay: "851, s. 4"
 categories: ["k. tanıtım"]
-tags: ["haber: a. postası","n. sırrı","tiyatro"]
+tags: ["n. sırrı","tiyatro"]
 ---
-
-{{< keyword>}}
-:book: *Muharrir*, Hakimiyeti Milliye Matbaası, 1934
-{{< /keyword>}}
+{{< alert "tag" >}}
+*Muharrir*, Nahit Sırrı, Hakimiyeti Milliye Matbaası, 1934
+{{< /alert>}}
 { .mt-10 }
 
 Her tiyatro eserinde aktörlerin yüzüne geçirilen maskeyi aşağı indirerek hakikate varabilmek için gecenin yirmi dördünü beklemeye lüzum olmadığını zannediyorum.

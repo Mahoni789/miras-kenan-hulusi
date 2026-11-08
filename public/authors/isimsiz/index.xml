@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>İsimsiz on Miras: Kenan Hulusi</title>
+    <link>http://localhost:1313/authors/isimsiz/</link>
+    <description>Recent content in İsimsiz on Miras: Kenan Hulusi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>tr-TR</language>
+    <copyright>© 2026 Kenan Hulusi Koray</copyright>
+    <lastBuildDate>Sat, 20 Apr 1940 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/authors/isimsiz/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Bir Nükte</title>
+      <link>http://localhost:1313/docs/duzyazi/bir-iki-nokta/bir-nukte/</link>
+      <pubDate>Sat, 20 Apr 1940 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/duzyazi/bir-iki-nokta/bir-nukte/</guid>
+      <description>&lt;p&gt;Yabancı bir gazete geçenlerde ölen meşhur İsveç edibi Selma Lagerlöf ile birkaç sene kadar evvel ölen İtalyan edibi Danonçiyo arasında geçen bir mektuplaşma hadisesini haber veriyor.&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;1909 yılında Nobel Mükafatı’nı kazanan İsveç edibi, İtalyan şairinden bir mektup almış. Danonçiyo bu mektubunda kadın muharrire Nobel Mükafatı’nın verilmesini tebrik ediyordu. Bu maddî tabiatlı ve maddi ruhlu İsveç muharririne ateşîn İtalyan şairinin yazdığı mektup heyecanlı hisler ifade etmekte idi.&lt;/em&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

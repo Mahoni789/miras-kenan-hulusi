@@ -4,9 +4,9 @@ slug: "resim-sergisinde-ne-var-ne-yok"
 authors:
   - "K. H"
 date: 1936-08-30
-publication: "Kurun, 6695-635, s. 3"
+publication: ["Kurun"]
+publication_detay: "6695-635, s. 3"
 ---
-
 {{< lead >}}
 Şeri! Yeni Bir Ressam... Ultra modern bir ziyaretçi ile sergide ayaküstü neler konuştum?
 {{< /lead >}}

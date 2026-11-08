@@ -2,9 +2,9 @@
 title: "Eller Yukarı"
 slug: "eller-yukari"
 date: 1941-04-11
-publication: "Vakit, 8348, s. 5"
+publication: ["Vakit"]
+publication_detay: "8348, s. 5"
 ---
-
 İlkbahardı. Hafız Ağa ile beraber Taşköprülülerin Gandilo ismini verdikleri Kandil Ağa, İsminin Cemil, Çarıkçı Rasim, Efe Kabadayı Boyabat’a deri toplamaya gidiyorlardı.
 
 Eşkıyaların Kastamonu köylerine sık sık baskın verdikleri seneydi. Ne Taşköprü, ne Kastamonu’dan hiçkimseler yola çıkmaya cesaret edemiyordu. Zaten ağaların toplu gitmesindeki sebep de eşkıya korkusuydu.

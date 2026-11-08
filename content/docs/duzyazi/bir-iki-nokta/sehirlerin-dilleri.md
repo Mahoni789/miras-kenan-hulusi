@@ -2,12 +2,12 @@
 title: "Şehirlerin Dilleri"
 slug: "sehirlerin-dilleri"
 date: 1940-03-28
-publication: "Vakit, sayı 7978, s. 2"
+publication: ["Vakit"]
+publication_detay: "sayı 7978, s. 2"
 authors:
   - "imzasız"
 tags: ["etem İzzet"]
 ---
-
 Büyük şehirlerin iki dili vardır. Biri sokak ve caddelerinin dili, biri duvarlarının dili.
 
 Kuş gagalarının, küçük midelerini rüzgârın öteden beriden getirdiği bir iki kırıntı ile doyurmak için gagaladıkları kağıtsız ve çöpsüz asfalt üstleri, nasıl şehir sakinlerinin medeni seviyesini konuşan bir lisan ise, duvarlardaki afişler de manevi alemlerini ifade eden birer kelimedir. Bir şehrin temsilsiz ve konsersiz boş ilan duvarları kadar, sakinlerinin fikir ve zevk uyuşukluğunu ne ifade edebilir? Duvarlardaki renkli afişlerin arasında daima bir cemiyetin sanat tehalükünü görebiliriz!

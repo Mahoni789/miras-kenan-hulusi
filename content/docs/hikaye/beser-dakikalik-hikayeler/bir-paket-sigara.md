@@ -2,9 +2,9 @@
 title: "Bir Paket Sigara"
 slug: "bir-paket-sigara"
 date: 1941-03-10
-publication: "Vakit, 8318, s. 5"
+publication: ["Vakit"]
+publication_detay: "8318, s. 5"
 ---
-
 Her şehrin kendine mahsus bir tipi, bir meşhuru vardır. Kastamonulu Hafız Ağa da bunlardan biriydi.
 
 Ağa yetmiş yaşındaydı. Deri ticareti ile meşguldü. Birçok defalar 313 Harbi’nden bahseder; Yunanlılarla dövüştüğü günleri anlatır; fakat bütün bu bahislerin sonunda söz gelişini deri ticaretine getirdikten sonra,

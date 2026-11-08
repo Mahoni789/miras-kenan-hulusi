@@ -3,9 +3,9 @@ title: "Bir Yudum Su"
 slug: "bir-yudum-su"
 date: 1928-08-15
 showTableOfContents: false
-showHero: true
 categories: ["eski yazı"]
-puplication: "*Meşale, 4, s. 9-13"
+puplication: ["Meşale"]
+publication_detay: "4, s. 9-13"
 weight: 1
 ---
 

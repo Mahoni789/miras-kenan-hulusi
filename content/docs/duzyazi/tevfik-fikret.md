@@ -2,16 +2,15 @@
 title: "Tevfik Fikret"
 slug: "tevfik-fikret"
 date: 1931-08-01
-publication: "Muhit, sayı 34, s. 10-11"
+publication: ["Muhit"]
+publication_detay: "sayı 34, s. 10-11"
 tags: ["m. akif","y. kemal","a. haşim","a. hamit","şiir"]
 ---
-
-# Tevfik Fikret
 
 *19 Ağustos Münasebetiyle*
 { .text-right}
 
-Ağustosun 19’uncu günü, Fikret’in on altı sene evvel, Aşiyan’da öldüğü gündür. Dostlarının bir tepe üstündeki bu kızıl köşke tırmanmaktan vazgeçtiği günden beri, yeni yetişen nesil bu köşkün sadece rengini biliyor. Bununla beraber Fikret in köşküne verdiği bu isimden sonra, Aşiyan kelimesi, lügatin en sıcak ve en mahrem kelimelerinden biri olmuştur.
+Ağustosun 19uncu günü, Fikret’in on altı sene evvel, Aşiyan’da öldüğü gündür. Dostlarının bir tepe üstündeki bu kızıl köşke tırmanmaktan vazgeçtiği günden beri, yeni yetişen nesil bu köşkün sadece rengini biliyor. Bununla beraber Fikret’in köşküne verdiği bu isimden sonra, Aşiyan kelimesi, lügatin en sıcak ve en mahrem kelimelerinden biri olmuştur.
 
 Ölümünün yıl dönümüne çok yaklaştığımız bu günlerde, Fikret’i hangi neslin daha iyi anlatabileceğini düşünüyorum. Şüphesiz ki doğrudan doğruya arkadaşlarının bile, mensup olduğu mektepteki temsil kuvveti için sadece %30 hisse ayırdıkları Fikret’i gerek şahsının ve gerek eserlerinin tesiri altında yaşayan yahut koleje girer girmez onu birdenbire tel’ine kalkışmış ve yahut da ölümünü müteakip, geniş şöhretinin müspet ve menfi dedikodularını yapanlar, Fikret’i en iyi anlayabilecek kimseler değildir. Fikret yeni nesle intikal ederken, bütün dedikodulardan münezzeh olarak iki eserle ve sadece bu iki eserle, *Rübab-ı Şikeste* ve *Haluk’un Defteri* ile geliyor. Onun içindir ki hakkında söylenebilecek sözlerin en bitarafı doğrudan doğruya yeni nesle ait ve sadece eserlerine mahsus düşünceler mahsulü olacaktır.
 

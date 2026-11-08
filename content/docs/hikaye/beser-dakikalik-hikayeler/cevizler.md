@@ -2,9 +2,9 @@
 title: "Cevizler"
 slug: "cevizler"
 date: 1940-12-12
-publication: "Vakit, 8241, s. 5"
+publication: ["Vakit"]
+publication_detay: "8241, s. 5"
 ---
-
 *Vakit* gazetesine yazı işleri müdürü olduğum ilk sene kıdemli bir çavuş bir-iki defter getirdi. Bunlar 914 harbine iştirak eden çavuşun hatıra defterleriydi. Bütün hatıra defterleri gibi günü gününe tutulmuştu ve birçok şahsî meselelerden Kut Muhasarası’na kadar askerî bir devrenin her türlü safhalarını gösteren birtakım yazılardı. Aşağıdaki hikâyeyi bu defterin bir yaprağından çıkarıyorum:
 
 Simko aşiretinin cevizleri meşhurdur. Bu cevizler bir yumurta büyüklüğünde olur. Hiç mukavemet etmeden kırılan kabuklar altında kehribar rengi bir zar bulursunuz. Küçük bir tırnak teması ile ve bir gömlek kadar kolaylıkla çıkan bu zardan sonra çıtır çıtır bir şey, dişlerinize daha götürmeden kırılır. Hele ağzınızda ise, dişlerinizle değil, onu dudaklarınızın hareketi ile ve yalnız bir et uzuvlarınızın eriteceği, neden yapıldığını bir türlü keşfedemediğiniz bir meyve sanırsınız.

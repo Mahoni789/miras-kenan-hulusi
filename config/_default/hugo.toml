@@ -29,7 +29,7 @@ enableEmoji = true
   category = "categories"
   author = "authors"
   series = "series"
-  alias = "alias"
+  publish = "publication"
 
 [sitemap]
   changefreq = 'daily'

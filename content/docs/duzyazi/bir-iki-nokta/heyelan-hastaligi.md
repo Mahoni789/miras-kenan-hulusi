@@ -2,12 +2,12 @@
 title: "Heyelân Hastalığı"
 slug: "heyelan-hastaligi"
 date: 1940-03-27
-publication: "Vakit, sayı 7977, s. 2"
+publication: ["Vakit"]
+publication_detay: "sayı 7977, s. 2"
 authors:
   - "imzasız"
 tags: ["n. ataç","y. kemal"]
 ---
-
 Moda elbiseden başka moda doktor, moda edip ve moda aktör olduğu gibi moda hastalıklar da vardır. Mesela apandisit onlardan biridir.
 
 En çoğu yirmi sene evvel bir bağırsak iltihabı neticesinde ameliyat masasına gidenlerimiz sayılı idi. Nitekim baş ve bahçelerimizin duvarları çöküp topraktan bir kısım kaydığı zaman da hiçbirimizin telaş gösterdiği yoktu. Bu çökme hadisesini yağan fazla yağmura atfeder geçerdik.

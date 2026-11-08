@@ -2,9 +2,9 @@
 title: "Şart Olsun Kilosu Seksene Geldi"
 slug: "sart-olsun-kilosu-seksene-geldi"
 date: 1941-04-07
-publication: "Vakit, 8344, s. 5"
+publication: ["Vakit"]
+publication_detay: "8344, s. 5"
 ---
-
 Başka bir defa “*Bir Paket Sigara*" hikâyesini anlattığım Taşköprü’den Hafız Ağa bir hıdrellez günü karısı Hafız Ana’yı karşısına aldı;
 
 “Kız Hafız,” dedi, “geçen hıdrellez sana vaadettiğim kuzuyu bugün alıyom!”

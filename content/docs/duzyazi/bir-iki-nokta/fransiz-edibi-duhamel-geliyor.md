@@ -2,12 +2,12 @@
 title: "Fransız Edibi Dühamel Geliyor"
 slug: "fransiz-edibi-duhamel-geliyor"
 date: 1940-04-25
-publication: "Vakit, sayı 7806, s. 2"
+publication: ["Vakit"]
+publication_detay: "sayı 7806, s. 2"
 authors:
   - "imzasız"
 tags: ["dil","ismail hakkı","iranca"]
 ---
-
 Fransız edibi Dühamel, yanında Fransız Asarı Atika Direktörü Profesör Gabriel  olduğu hâlde bir iki güne kadar İstanbul’a gelecek.
 
 Dühamel yalnız Fransız edebiyatının değil, bütün dünya harp sonu edebiyatının en büyük muharrirlerinden biridir. 1914 Harbi’ne bir doktor olarak iştirak eden Dühamel, romanlarındaki birçok kahramanları bu harp içinde keşfetmiş ve onlara ıstırap ve şefkatten zerreler katarak yaşamıştır.

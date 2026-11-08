@@ -2,11 +2,11 @@
 title: "Radyoda Kurbağa Sesleri"
 slug: "radyoda-kurbaga-sesleri"
 date: 1940-04-17
-publication: "Vakit, sayı 7998, s. 2"
+publication: ["Vakit"]
+publication_detay: "sayı 7998, s. 2"
 authors:
   - "imzasız"
 ---
-
 İngiliz radyolarının Türkçe neşriyatını bozabilmek için Alman istasyonlarının yaptıkları teknik hileleri bilmem işitiyor musunuz? Türk dinleyicilerin şüphesiz ki huzurunu kaçırmak ve radyo düğmesini başka bir istasyona çevirmek maksadı ile yapılan bu hileler, köpek ve kurbağa seslerinden tutunuz da isimlerini tabiat kitaplarında bile pek kolay kolay bulamayacağınız yüzlerce çeşit hayvan sesleriyle doludur.
 
 Bir de saat 21.30’da kalyan radyo istasyonları servisinin Türkçe neşriyatına bakın... Hiçbir müttefik elinin bu istasyondaki vazıh Alman taraflılığını bozmak için en küçük bir gayret bile sarf etmediğini göreceksiniz!

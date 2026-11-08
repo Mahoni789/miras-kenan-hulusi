@@ -2,11 +2,11 @@
 title: "Kırmızı ve Siyah"
 slug: "kirmizi-ve-siyah"
 date: 1929-05-09
-publication: "Servetifünûn/Uyanış, sayı 1708-23, s. 363"
+publication: ["Servetifünûn/Uyanış"]
+publication_detay: "sayı 1708-23, s. 363"
 categories: ["k. tanıtım"]
 tags: ["n. sırrı"]
 ---
-
 Son zamanlarda, “Hikâye –Büyük Hikâye–, Roman Hakkında Mülahazalar” isimli ve cidden istifade ettiğimiz uzun bir makalenin kıymetli münekkidi *Kırmızı ve Siyah* adlı büyük bir hikâye çıkardı. Yukarıda söylediğim makalenin intişarı sıralarında, *Cumhuriyet* gazetesinde *Kırmızı ve Siyah*’ın reklamını görmüştüm. Hikâye ve roman hakkında mülahazalar yürüten bir zat tarafından kaleme alınan eser şüphesiz ki mükemmel olacaktı. Onun için tefrika gününü sabırsızlıkla beklemiştim. O gün geldi ve ben birinci tefrikayı okudum.
 
 Birinci tefrikayı –evet– okumuştum.

@@ -2,9 +2,9 @@
 title: "Apartman Kapıcıları"
 slug: "apartman-kapicilari"
 date: 1941-02-17
-publication: "Vakit, 8297, s. 5"
+publication: ["Vakit"]
+publication_detay: "8297, s. 5"
 ---
-
 Apartman kapıcıları sahiden tuhaf insanlardır. Onların yalnız ecnebi memleketlerde etliye sütlüye karışan, girdinize çıktınıza dikkat eden, hizmetçinize payeler vererek hususî hayatınızı satın almaya çalışan insanlar olduğunuzu zannetmeyiniz. İlk gençlik çağımı Geneve’de, Granoble'da geçirdikten sonra otuz yaşımda İstanbul'a geldiğim zaman, bizim de pansiyon, otel yahut apartman kapıcılarını aynı meraklar ve aynı dikkatler içinde bulunca, artık bütün dünyanın Standard olmaya başladığına ve tıpkı Ford’un seri otomobilleri gibi insanların da sınıf sınıf aynı kalıba dökülmüş birtakım mahlûklar olduğuna, birbirinden farksız, aynı şekil ve aynı hüviyeti taşıdıklarına inandım.
 
 Bir otel ve apartman kapıcısı kimdir?… Elinde ne gibi salâhiyetler vardır?… Ne iş yapar?… Neye dikkat eder?… İşte bir yığın suâl ki, cevapları hayli olsa gerek…

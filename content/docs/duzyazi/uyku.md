@@ -2,7 +2,8 @@
 title: "Uyku"
 slug: "uyku"
 date: 1932-02-01
-publication: "Muhit, sayı 40, s. 11"
+publication: ["Muhit"]
+publication_detay: "sayı 40, s. 11"
 ---
 
 Senenin yazdan daha ziyade kışa yakın bir gününde, temiz, ütülü ve pamuk bir şiltede uyumak kadar lezzetli hiçbir şey hatırlayamıyorum.

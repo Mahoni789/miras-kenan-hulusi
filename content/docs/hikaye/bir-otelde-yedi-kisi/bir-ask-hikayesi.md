@@ -2,9 +2,9 @@
 title: "Bir Aşk Hikâyesi"
 slug: "bir-ask-hikayesi"
 date: 1940-10-17
-publication: "Vakit, 8179-82"
+publication: ["Vakit"]
+publication_detay: "8179-82"
 ---
-
 Gedizler’den Ali Ağa’nın kızı Ayşe, ağılların kapısı çoktan açıldığı, çıngırak sesleri Gediz’i bir uçtan öteki uca çoktan sardığı hâlde bir türlü gözlerini açamıyordu. Hâlbuki kuşlar daha kanatlarını kımıldatmadan uyanır, eteklerini beline toplayarak diz kapaklarına kadar çeşmenin yalağı içine girer, bir taraftan yüzünü yıkarken bir taraftan da buz gibi suda ayaklarını çırpalar dururdu.
 
 Ayşe’nin, şöyle böyle değil, bu sabah hiç de uyanası yoktu... Gözleri yarı kapalı, fikirleri bir kuş kanadının üzerinde kendisini alıp götürsün istiyordu. Ta hasat yerinde, orakların yorulduğu bir öğle vakti ve bütün temizlenmemiş ağıl kapılarından dışarı vuran kokunun köyü baştan başa doldurduğu yere kadar.

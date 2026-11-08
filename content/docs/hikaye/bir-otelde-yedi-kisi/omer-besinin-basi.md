@@ -2,9 +2,9 @@
 title: "Ömer Besinin Başı"
 slug: "omer-besinin-basi"
 date: 1940-09-15
-publication: "Vakit, 8147-48"
+publication: ["Vakit"]
+publication_detay: "8147-48"
 ---
-
 Silahlı bir macera yahut şiddetli bir kış günü yapılan büyük bir av, detaylarında birçok ümit edilmedik vakaları ihtiva ettiği hâlde harp böyle değildir. Harbi çok sonraları bize nakledenler bile onu hayalle süsleyecek vakaları pek nadiren bulurlar ve daima, ifadelerinde ölümü tarif etmeye doğru büyük bir azim seçildiği için de bu hayalsiz ve karanlıktan soyulmuş maceraları buruk ve acı buluruz.
 
 Hâlbuki 925 isyanı, Kürt dağlarında eşkıya takibine çıkan subaylar için böyle olmamıştır. En çetin harplerden daha çetin olan bu tenkil harekâtını size nakledecek askerlerin düğümünü çözemediği birçok şeyler vardır.

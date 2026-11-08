@@ -2,18 +2,19 @@
 title: "Düstur-Namei-Enverî"
 slug: "dusturnamei-enveri"
 date: 1930-11-01
-publication: "Muhit, sayı 25, s. 79"
+publication: ["Muhit"]
+publication_detay: "sayı 25, s. 79"
 categories: ["k. tanıtım"]
 tags: ["tarih","mükrimin halil"]
 authors:
   - "K. H"
 ---
-
 {{< alert "tag" >}}
 **Yeni Neşriyat**: Düstur-Namei-Enverî  
 **Naşiri**: Türk Tarih Encümeni  
 **Münekkit ve şarihi**: Mukrimin Halil Bey
 {{< /alert >}}
+{ .mt-10}
 
 Bu eser hakkında her ne suretle olursa olsun söz söylemek, salâhiyetimizin çok uzaklarında olmakla beraber, ilmi tenkidini liyakatlı kalemlere brakarak, bu satırlarda eserin muhteviyatından bahsetmek isteyoruz.
 

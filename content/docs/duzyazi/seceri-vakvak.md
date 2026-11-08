@@ -2,11 +2,11 @@
 title: "Şeceri Vakvak"
 slug: "seceri-vakvak"
 date: 1930-01-01
-publication: "Muhit, sayı 26, s. 17"
+publication: ["Muhit"]
+publication_detay: "sayı 26, s. 17"
 series: ["İstanbul’dan Parçalar"]
 series_order: 4
 ---
-
 Yazla kış ortasında, sıcak bir mevsim gölgelerinin yavaş yavaş boşaldığı ve daha ziyade kışa yakın bir akşam üstüydü. İçinde yaşadığımız hâlde ondan uzaktaymış gibi daima onu duyduğumuz; içimizde bilmediğimiz, tutup çıkaramadığımız, ağrıyan yeri gösteremediğimiz bir sancı gibi de onu duyduğumuz büyük şehrin, olmaya yüz tutmuş bir nar hâliyle, uzak bahçelerde havasının parça parça kızardığı bir akşam üstü...
 
 Bu ağacın tam karşısında durdum. Üstü camla örtülü ve insan elinin amelî hünerleriyle ısınan bir limonluk içinde kısır ve bodur kalmış bir nebat değildi. Yumuşak ve kadife mavisi nihayetsizlik altında, belki de zaman dediğimiz ihtiyar şeyle beraber doğan; yukarıya, adeta içilecek bir su hissini veren boşluğa; aşağıya, kara ve sıcak toprağa doğru bütün kollarıyla sarılıp büyüyen, yaşayan, didişen, ıstırap çeken ve ölen bir nebat...

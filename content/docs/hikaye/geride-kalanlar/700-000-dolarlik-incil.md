@@ -2,10 +2,9 @@
 title: "700.000 Dolarlık İncil"
 slug: "700-000-dolarlik-incil"
 date: 1942-05-09
-publication: "Vakit, 8722"
-tags: ["vakit"]
+publication: ["Vakit"]
+publication_detay: "8722"
 ---
-
 *Nevyork Post* gazetesi Yakın Doğu muhabiri Con Ceymis, Vank köyü kilisesini metruk bir halde buldu.
 
 Con Ceymis’in ihtisası politikada değildi. *Nevyork Post*’un Yakın Doğu’da eski eserler muhabirliğini yapıyordu. Ayrıca Edirne’yle Konya minarelerine ait iki kitap sahibiydi. Tahran çinileri, Bağdat’ta Babil kanallarına mahsus diğer iki etüdü ile Mısır felsefesine dair de El-Ezher’de el yazısıyla saklı ayrı ve değerli bir makalesi daha vardı.

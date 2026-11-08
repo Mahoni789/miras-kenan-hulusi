@@ -2,7 +2,8 @@
 title: "Garip Bir İntikam"
 slug: "garip-bir-intikam"
 date: 1937-11-05
-publication: "Kurun, sayı 7089 -1179, s. 2"
+publication: ["Kurun"]
+publication_detay: "sayı 7089 -1179, s. 2"
 authors:
   - "K. H"
 tags: ["istanbul"]

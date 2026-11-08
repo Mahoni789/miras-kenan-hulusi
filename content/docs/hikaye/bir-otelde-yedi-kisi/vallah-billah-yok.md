@@ -2,9 +2,9 @@
 title: "“Vallah Billah Yok”"
 slug: "vallah-billah-yok"
 date: 1940-10-30
-publication: "Vakit, 8192-93"
+publication: ["Vakit"]
+publication_detay: "8192-93"
 ---
-
 – Petersburg’da bir defa yolumu kaybediyordum, diyerek bir tanıdığım anlattı. Bütün sokakları çünkü birbirine benzer. Benim gibi ilk defa şehre giriyorsanız tahtaların üzerinde kendinizi bir ağaç kurdu kadar garip bulur ve sanki çivili fotinleriniz bu tahta sokakları yiyip bitirecek, sonra da Deli Petro’nun adamlarına kırbaçla toprak taşıttığı zemine rastgelerek bir batağın içinde kaybolacağınızı zannedersiniz.
 
 Petersburg’u şimdilik bir yana bırakalım, Totma köyünden nakledişimiz bir maceradır ki asıl onu anlatmak istiyorum:

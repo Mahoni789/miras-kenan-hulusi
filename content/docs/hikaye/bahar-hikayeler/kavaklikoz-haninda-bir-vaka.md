@@ -2,8 +2,7 @@
 title: "Kavaklıkoz Hanı’nda Bir Vaka"
 slug: "kavaklikoz-haninda-bir-vaka"
 date: 1938-12-05
-publication: "Haber"
-tags: ["haber"]
+publication: ["Haber"]
 ---
 
 Beyşehir ile Konya arasında uzanan Erenler Dağı biter bitmez birbiri ardı sıra küçük Kavaklıkoz tepeleri gözükmeye başlar.

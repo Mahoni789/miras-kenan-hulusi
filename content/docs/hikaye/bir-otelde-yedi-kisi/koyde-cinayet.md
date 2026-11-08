@@ -2,7 +2,8 @@
 title: "Köyde Cinayet"
 slug: "koyde-cinayet"
 date: 1940-09-08
-pulication: "Vakit, 8140-44"
+publication: ["Vakit"]
+publication_detay: "8140-44"
 ---
 
 Biz hikâyeciler, daima bizden ötekilerin başına gelenleri anlatmaya çalışırız. Ama bizim içimizde bizzat birer hikâye mevzusu olacak kimseler yok mu?

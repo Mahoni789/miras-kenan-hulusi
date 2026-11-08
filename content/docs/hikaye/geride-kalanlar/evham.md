@@ -2,10 +2,9 @@
 title: "Evham"
 slug: "evham"
 date: 1942-04-10
-publication: "Vakit, 8693, s. 5"
-tags: ["Vakit"]
+publication: ["Vakit"]
+publication_detay: "8693, s. 5"
 ---
-
 {{< svg name="hikaye.svg">}}
 
 Pasifik meselesini harbin en garip tabye oyunlarından biri telakki eden arkadaşıma karşı söz sırasının bende olduğunu düşünerek:

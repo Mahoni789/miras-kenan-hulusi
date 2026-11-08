@@ -2,10 +2,10 @@
 title: "Paraşüt"
 slug: "parasut"
 date: 1940-08-22
-publication: "Vakit, 8125-27"
+publication: ["Vakit"]
+publication_detay: "8125-27"
 showTableOfContents: false
 ---
-
 ### I
 
 

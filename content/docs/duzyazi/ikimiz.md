@@ -2,16 +2,15 @@
 title: "İkimiz"
 slug: "ikimiz"
 date: 1932-06-01
-publication: "Mektep, sayı 15, s. 263"
+publication: ["Mektep"]
+publication_detay: "sayı 15, s. 263"
 categories: ["k. tanıtım"]
 tags: ["y. nabi","şiir"]
 ---
-
 {{< alert "tag" >}}
-*İkimiz*
-Yaşar Nabi
-Muallim Halit Kütüphanesi , 1932, sahife 32
+*İkimiz*, Yaşar Nabi, Muallim Halit Kütüphanesi , 1932, sahife 32
 {{< /alert >}}
+{ .mt-10 }
 
 Şimdiye kadar görebildiğim yazılarında seven bir insandan daha ziyade sevilen ve herhangi bir şüphe bile duymaksızın açık bir vuzuh ile buna itimadı olan bir adamın düşüncelerini vermeye çalışan Yaşar Nabi son neşrettiği üçüncü şiir kitabında şikâyet yahut da müşterek sinir arzularını anlatmak için harekete gelmiş gözüküyor.
 

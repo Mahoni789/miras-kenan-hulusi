@@ -2,7 +2,8 @@
 title: "Şehzadebaşı’nda Bir Çaycı Dükkânı"
 slug: "sehzadebasinda-bir-cayci-dukkani"
 date: 1931-01-01
-publication: "*Muhit*, sayı 27, s. 10"
+publication: ["Muhit"]
+publication_detay: "sayı 27, s. 10"
 series: ["İstanbul’dan Parçalar"]
 series_order: 5
 ---

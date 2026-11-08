@@ -2,9 +2,9 @@
 title: "İncir Fidanları"
 slug: "incir-fidanlari"
 date: 1940-08-21
-publication: "Vakit, ,8124, s. 5-6"
+publication: ["Vakit"]
+publication_detay: "8124, s. 5-6"
 ---
-
 İmralı Cezaevi’nin senelik toplantısında adaya incir ağaçları dikilmesini teklif eden Murat Muratoğlu bir hafta sonra hemen işe başladı.
 
 Senede 120 bin kilo soğan, 15 bin kilo bakla, 80 bin kavun, bir o kadar karpuz, buğday ve mısır veren adada incir fidanı niçin yetiştirilmesin? Murat Muratoğlu bu fikri o kadar hararetle müdafaa etmişti ki kılıç balığına çıkacak mahkûmlar için ağ parası, kanca ve yedek kısımlar bulamayan idare bir hafta sonra Muratoğlu’nun emrine beş bin incir fidanı vermişti.

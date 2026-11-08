@@ -2,8 +2,8 @@
 title: "Osmanoflar"
 slug: "osmanoflar"
 date: 1938-01-01
-categories: ["roman"]
-tags: ["kurun","tefrika"]
+categories: ["Kurun","roman"]
+tags: ["tefrika"]
 ---
 
 {{< alert "tag" >}}

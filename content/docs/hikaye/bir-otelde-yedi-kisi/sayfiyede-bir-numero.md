@@ -2,9 +2,9 @@
 title: "Sayfiyede Bir Numero"
 slug: "sayfiyede-bir-numero"
 date: 1940-08-25
-publication: "Vakit, 8126, s. 5-6"
+publication: ["Vakit"]
+publication_detay: "8126, s. 5-6"
 ---
-
 Asfalt yapıldıktan sonra bizim sayfiye birdenbire değişti. Daha geçen yaz, akşam serinliğinde köpeklerini alıp yahut kocalarıyla beraber yürüyüşe çıkanlar sayfiyemizin bahçelerine yaklaştıkları vakit hemen geri dönerler, ne denizi hatta ne de rüzgârı onlara bir şey ifade etmezdi. Ara sıra şehirden gelen meraklılar da arabalarla gelir, yine arabalarla giderlerdi.
 
 Fakat biraz evvel de söylediğim gibi asfalt, sayfiyemizi birdenbire değiştirdi. Önümüzden şimdi tramvay geçiyor. İstasyonda arabalar, otomobiller, bisikletli kızlar... Deniz kenarındaki plaj yanında bir de büyük bir gazino açıldı. Sabahleyin denize girmek istemeyen bekârlar sayfiyenin kadınlarını orada seyrediyor, akşam da bira içiyorlar. Geçenlerde başka bir şey daha oldu: Gazino, seyyar bir caz trupunu davet etti.

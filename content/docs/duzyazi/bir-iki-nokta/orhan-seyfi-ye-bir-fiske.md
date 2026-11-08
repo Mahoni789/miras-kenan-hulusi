@@ -2,7 +2,8 @@
 title: "Orhan Seyfi'ye Bir Fiske"
 slug: "orhan-seyfi-ye-bir-fiske"
 date: 1940-05-03
-publication: "Vakit, sayı 8014, s. 3"
+publication: ["Vakit"]
+publication_detay: "sayı 8014, s. 3"
 authors:
   - "Kenan H"
 tags: ["o. seyfi","a. hamit","türkçe","n. ataç","n. kemal","radyo"]

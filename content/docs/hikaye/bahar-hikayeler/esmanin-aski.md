@@ -2,10 +2,9 @@
 title: "Esma’nın Aşkı"
 slug: "esmanin-aski"
 date: 1928-06-14
-publication: "Servet-i Fünun/Uyanış, cilt 64, 1661-187"
-tags: ["s. fünûn / uyanış"]
+publication: ["Servet-i Fünun/Uyanış"]
+publication_detay: "cilt 64, 1661-187"
 ---
-
 Çöl kızlarının en güzeli ve en alımlısı Esma sabahleyin dudaklarında bir gülle uyandı. Dudakları arasında kanlı bir gül duruyordu, yastığında bir hançer vardı.
 
 Her sabah çadırında uyandığı vakit çıplak kollarını yavaş yavaş arkaya doğru gerer, bileziklerini şıkırdatır, yumuk ellerinin tersiyle gözlerini ovuşturur, altın küpeleri gecenin en ışıklı yıldızları gibi zülüflerinin siyahlığında parladı.

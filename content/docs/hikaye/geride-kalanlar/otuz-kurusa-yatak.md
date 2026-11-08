@@ -2,9 +2,9 @@
 title: "Otuz Kuruşa Yatak"
 slug: "otuz-kurusa-yatak"
 date: 1942-03-18
-publication: "Vakit, 8670, s. 5"
+publication: ["Vakit"]
+publication_detay: "8670, s. 5"
 ---
-
 Bir Salı günüydü. Sonbahardı. Galiba ikinciteşrindi. İstasyona pancar götüren arabalardan Ada’nın arka sokakları geçilmiyordu.
 
 Yerliler Adapazarı’na böyle diyor. En kısa bir ifade ile:

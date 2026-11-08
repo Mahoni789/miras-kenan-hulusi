@@ -2,9 +2,9 @@
 title: "Oda Hizmetçisi"
 slug: "oda-hizmetcisi"
 date: 1940-12-31
-publication: "Vakit, 8253, s. 5"
+publication: ["Vakit"]
+publication_detay: "8253, s. 5"
 ---
-
 Tire’de yol inşaatında çalıştığım seneydi. İki aydan beri bekârdım. İzmir’e ilk indiğim hafta tavsiye ettikleri otelde, portier,
 
 “22 numara en iyi odamızdır; efendim, dedi. Ve, uşaklardan biri, valizlerimi kaptığı gibi yukarı alıp götürdü.”

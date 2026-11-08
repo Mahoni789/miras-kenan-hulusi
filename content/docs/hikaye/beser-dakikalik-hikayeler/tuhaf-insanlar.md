@@ -2,9 +2,9 @@
 title: "Tuhaf İnsanlar"
 slug: "tuhaf-insanlar"
 date: 1940-12-07
-publication: "Vakit, 8229, s. 5-6"
+publication: ["Vakit"]
+publication_detay: "8229, s. 5-6"
 ---
-
 Koca bir vapur yolculuğu bir düğme için zehir oldu. Anlatayım: Bazı küçük şeyler vardır. Meselâ yeni cilâlanmış bir masa, parlatılmış bir cam, sivri bir kadın çenesi yahut yıkanmış bir köpek… Ne kadar büyük bir irade kuvvetiniz olursa olsun, bütün bunlara dokunmadan edemez; cilâlanmış masanın parlaklığında, yeni silinmiş camda, küçük kadın çenesinde elinizin şimdiye kadar değmediği bir âlem, yepyeni bir dünya bulacağınızı zannedersiniz!
 
 İlk dakikalarım vapurda çok iyi idi. Hiçbir şeyle ve hiç kimse ile meşgul değildim. Kendimi bütün yanımdakilere karşı kapamış, bir köşeye çekilmiştim.

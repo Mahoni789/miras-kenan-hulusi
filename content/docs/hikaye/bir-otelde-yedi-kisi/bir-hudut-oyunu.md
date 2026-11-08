@@ -2,9 +2,9 @@
 title: "Bir Hudut Oyunu"
 slug: "bir-hudut-oyunu"
 date: 1940-09-24
-publication: "Vakit, 8156, s. 5"
+publication: ["Vakit"]
+publication_detay: "8156, s. 5"
 ---
-
 Yakorit’te Türk-Bulgar hudut mıntıkasını gezenler bütün horozların ibiklerini kesilmiş bulurdu. Yalnız Türk köylerinde değil, hududun ötesinden berisinden birbiri içine girmiş küçük Bulgar köylerinde de horozların ibikleri yoktu. Civar köylerde âdeta ibiksiz bir horoz nesli türemiş gibiydi.
 
 Ömer’in Yakorit’te hudut muhafızlığı ettiği zamanlar devriyelere verdiği emirlerden biri de işte budur. Neferler, günaşırı, koltuklarına kıstırılmış bir horozla muhafız kulesine gelirlerdi ve bunlar çok defa Bulgar hududundan şöyle bir dolaşmak için büyük ve kan kırmızı bir inci gibi taşıdıkları bir ibikle seyahate çıkmış horozlardı. Fakat dönüşleri hiç de bu kadar parlak olmaz, alelacele bir hareketle başlarından hadım edilmiş horozlar, şaşkın ve sendeleyerek hududu geçmeye çalışırlardı. Ömer, eğer birisine izahat vermek lazım gelirse:

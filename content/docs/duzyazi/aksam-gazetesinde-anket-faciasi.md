@@ -2,10 +2,10 @@
 title: "Akşam Gazetesinde Anket Faciası"
 slug: "aksam-gazetesinde-anket-faciasi"
 date: 1929-05-23
-publication: "Servetifünûn/Uyanış, sayı 1710-25, s. 392"
+publication: ["Servetifünûn/Uyanış"]
+publication_detay: "sayı 1710-25, s. 392"
 tags: ["edebiyat","a. hamit","n. hikmet"]
 ---
-
 *Akşam* gazetesinin sütun kaldırımlarında on beş yirmi günden beri çürük yumurtalar kırılıyor. Düşündüğüm şey zavallı mürettiplerin bu kükürt kokusuna nasıl olup da hâlâ tahammül edebildikleridir. O yumurtalar bu anket rezaletinden evvel de gerçi çürüktüler. Fakat sapsarı ve irin renginde kesilmiş kabukları içinde, gene aynı kokuyu neşretmekle beraber, hiç olmazsa kokunun mahiyetini ortaya koymamışlardı. Onların –bütün ammeye karşı– deriler üstünde bir frengi illeti gibi meydana çıkan hüviyetlerinin feci manzarasına bugün bir de anketi yapan zatın harikulade fena yazması, manaları tahrifi, el çabukluğu inzimam ediyor.
 
 Netice şu:

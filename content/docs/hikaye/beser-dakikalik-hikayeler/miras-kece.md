@@ -2,9 +2,9 @@
 title: "Miras Keçe"
 slug: "miras-kece"
 date: 1940-12-04
-publication: "Vakit, 8226, s. 5"
+publication: ["Vakit"]
+publication_detay: "8226, s. 5"
 ---
-
 Biz insanlar, şu etrafımızdaki cansız şeyler için ne biliyoruz? Yatak odalarımızın bir tarafında yahut başucumuzda duran şu komodin, içinde yattığımız şu karyola, üzerinde yemek yediğimiz masalar, duvardaki bir çerçeve, hulâsa evimizi teşkil eden bütün bu şeyler hakkındaki bilgilerimizin derecesi nedir? Galiba koca bir sıfır!
 
 Geçen sene ailemize bir taraftan küçük bir miras hissesi düştü. Çini bir soba ile dört boru, iki kanat perde, ayaklı bir gaz lâmbası, beş-altı tencere, boş bir sandık… Yani davalı bir mirasta karşı tarafın gönderebileceği bazı şeyler… Affedersiniz; birçok defalar yaptığım gibi, yine unutuyorum, bir de küçük bir keçe parçası…
@@ -77,7 +77,7 @@ Ben:
 
 “Canım,” dedim; “uzatmayın Allah aşkına… Böyle eskiciler vardır. Bir eve girdiler mi en umulmayacak şeye para verirler. Ama blöftür ha; alaydır; verin bakalım alıyor mu?…”
 
-Bununla beraber üçümüz, daha doğrusu, ben, annem, halam, hizmetçi kız, aşçı miras keçenin üzerine birdenbire eğilmiştik. Ayaklarımızın altında, günlerce paspas vazifesi gören keçe bana gerinip uyanıyor gibi geldi. Adetâ ~şahrem şahrem~ dökülen kenarları, binlerce ayak gibi kımıldıyor; ayaklarımızla yara içinde kalan göğsü tuhaf bir şifa merhemiyle iyileşmiş kadar tenefüs ediyor; ötesinde berisinde, bir-iki çiçek kırıntısı tarhları yeni yapılmış bir bahçede sanki gözlerini açıyordu. Sanki, bir-iki dakika daha geçerse, birdenbire aramızda ayaklanacak; parmaklarımızın arasında bir fırsatını bulduğu dakika, cins bir at gibi süratle uzaklaşıp gidecekti. Fakat annem uzatmadı:
+Bununla beraber üçümüz, daha doğrusu, ben, annem, halam, hizmetçi kız, aşçı miras keçenin üzerine birdenbire eğilmiştik. Ayaklarımızın altında, günlerce paspas vazifesi gören keçe bana gerinip uyanıyor gibi geldi. Adetâ şahrem şahrem dökülen kenarları, binlerce ayak gibi kımıldıyor; ayaklarımızla yara içinde kalan göğsü tuhaf bir şifa merhemiyle iyileşmiş kadar tenefüs ediyor; ötesinde berisinde, bir-iki çiçek kırıntısı tarhları yeni yapılmış bir bahçede sanki gözlerini açıyordu. Sanki, bir-iki dakika daha geçerse, birdenbire aramızda ayaklanacak; parmaklarımızın arasında bir fırsatını bulduğu dakika, cins bir at gibi süratle uzaklaşıp gidecekti. Fakat annem uzatmadı:
 
 “Bana bak,” dedi. “Bizim alayla düzenle işimiz yok hepsine on lira ver; al git!”
 
@@ -109,7 +109,7 @@ Hakikaten bizim keçeydi. Bir sedirin üzerinde duruyordu. Tek başınaydı. Yuk
 
 Hepimiz bir adım geri çekildik. Zaten kalın bir kordon bizi birbirimizden ayırıyor; aramıza âdetâ denizler, okyanuslar, servetler ve asırlar koyuyordu. Ben biraz eğildim ve keçe hazretlerinin hemen üzerine bırakılmış olan levhayı okumaya çalıştım:
 
-> Dokuzuncu asır mamulatından (Hicrî 1090)
+> Dokuzuncu asır mamulatından (Hicrî 1090)  
 > Anadolu Selçukîleri zamanına ait
 
 Halam duramadı. Elini uzatmak, parmaklarıyla yoklamak istedi. Fakat birdenbire yan tarafımızda odacılardan biri atıldı:
